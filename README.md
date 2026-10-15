@@ -255,6 +255,6 @@
 
 ## 如何更新
 
-1. 准备 `new.json`（JSON 数组，必填字段 `id,url,title,summary,category,created_at`，可选 `author_username,author_name,text,bookmarked_order`）。
-2. 运行 `python3 scripts/merge.py new.json`：按 id 合并新书签、更新 `data/meta.json`，并自动重新生成本 README。
-3. `git add -A && git commit -m update && git push`，GitHub Pages 会自动更新网站。
+1. 准备 `new.json`（JSON 数组）。新书签必填 `id,url,title,summary,category,created_at`，可选 `author_username,author_name,text,bookmarked_order`；`category` 必须是 `data/categories.json` 里的一项。已有 id 只覆盖给出的字段（如只给 `id,text` 用于回填）。
+2. 运行 `python3 scripts/merge.py new.json --current current_ids.json`：按 id 合并、记录 `first_seen_at`；`current_ids.json` 是 X 上当前全部书签 id，不在其中的标记 `removed_at` 并在网页隐藏（数据保留，单次超过 30% 会拒绝）。翻页不完整时省略 `--current`。无变化时不写任何文件。
+3. 有改动时 `git add -A && git commit -m update && git push`，GitHub Pages 会自动更新网站。

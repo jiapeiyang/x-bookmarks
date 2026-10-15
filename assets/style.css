@@ -11,7 +11,7 @@ nav{position:sticky;top:130px;align-self:start;display:flex;flex-direction:colum
 #list{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;padding-bottom:40px}
 .card{position:relative;background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:8px;transition:.15s}
 .card:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.08)}
-.tag{font-size:12px;color:var(--ac)}.card h3{margin:0;font-size:16px}
+.tag{font-size:12px;color:var(--ac)}.new{margin-left:8px;padding:1px 6px;border-radius:6px;background:#f5a524;color:#fff;font-size:11px;font-weight:600}.card h3{margin:0;font-size:16px}
 .open{all:unset;cursor:pointer}.open::after{content:"";position:absolute;inset:0;border-radius:14px}.open:focus-visible::after{outline:2px solid var(--ac)}.card p{margin:0;font-size:14px;line-height:1.6}
 .snip{color:var(--mu);font-size:13px!important;background:var(--bg);border-radius:8px;padding:6px 8px}
 .foot{margin-top:auto;display:flex;align-items:baseline;gap:6px;font-size:13px;color:var(--mu)}.au{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.dt{white-space:nowrap;flex-shrink:0}

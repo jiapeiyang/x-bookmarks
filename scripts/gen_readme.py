@@ -2,7 +2,7 @@
 """Regenerate README.md from data/bookmarks.json + data/meta.json."""
 import json,os,datetime,collections,re
 root=os.path.join(os.path.dirname(os.path.abspath(__file__)),'..')
-B=json.load(open(os.path.join(root,'data','bookmarks.json'),encoding='utf-8'))
+B=[b for b in json.load(open(os.path.join(root,'data','bookmarks.json'),encoding='utf-8')) if not b.get('removed_at')]
 M=json.load(open(os.path.join(root,'data','meta.json'),encoding='utf-8'))
 tz=datetime.timezone(datetime.timedelta(hours=8))
 dt=lambda s:datetime.datetime.fromisoformat(s.replace('Z','+00:00')).astimezone(tz)
@@ -17,8 +17,8 @@ for n,c in enumerate(cs):
     o+=['',f'<a id="cat-{n}"></a>','',f'## {c}（{len(g[c])}）','']
     for b in sorted(g[c],key=lambda b:b['created_at'],reverse=True):
         o.append(f"- **[{esc(b['title'])}]({b['url']})** — {esc(b['summary'])}  \n  @{b.get('author_username','')} · {dt(b['created_at']).date()}")
-o+=['','## 如何更新','','1. 准备 `new.json`（JSON 数组，必填字段 `id,url,title,summary,category,created_at`，可选 `author_username,author_name,text,bookmarked_order`）。',
-    '2. 运行 `python3 scripts/merge.py new.json`：按 id 合并新书签、更新 `data/meta.json`，并自动重新生成本 README。',
-    '3. `git add -A && git commit -m update && git push`，GitHub Pages 会自动更新网站。','']
+o+=['','## 如何更新','','1. 准备 `new.json`（JSON 数组）。新书签必填 `id,url,title,summary,category,created_at`，可选 `author_username,author_name,text,bookmarked_order`；`category` 必须是 `data/categories.json` 里的一项。已有 id 只覆盖给出的字段（如只给 `id,text` 用于回填）。',
+    '2. 运行 `python3 scripts/merge.py new.json --current current_ids.json`：按 id 合并、记录 `first_seen_at`；`current_ids.json` 是 X 上当前全部书签 id，不在其中的标记 `removed_at` 并在网页隐藏（数据保留，单次超过 30% 会拒绝）。翻页不完整时省略 `--current`。无变化时不写任何文件。',
+    '3. 有改动时 `git add -A && git commit -m update && git push`，GitHub Pages 会自动更新网站。','']
 open(os.path.join(root,'README.md'),'w',encoding='utf-8').write('\n'.join(o))
 print('README regenerated')
