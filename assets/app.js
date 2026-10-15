@@ -10,7 +10,8 @@ const hl=(s,t)=>{s=String(s||'');if(!t.length)return esc(s);
 // first_seen_at 是 bot 首次抓到的北京时间日期，7 天内算新增
 const isNew=b=>!!b.first_seen_at&&Date.now()-new Date(b.first_seen_at+'T00:00:00+08:00')<7*864e5;
 const xurl=u=>/^https:\/\/(x|twitter)\.com\//.test(u)?u:'#';
-const lnk=s=>esc(s).replace(/https?:\/\/[^\s<]+/g,u=>`<a href="${u}" target="_blank" rel="noopener">${u}</a>`);
+// URL 只取可见 ASCII 且止于转义后的引号/尖括号，避免把紧跟的标点（，”"）吞进链接；末尾的 .,:!?)] 也留在链接外
+const lnk=s=>esc(s).replace(/https?:\/\/(?:(?!&quot;|&lt;|&gt;)[!-~])+/g,m=>{const u=m.replace(/[.,:!?)\]]+$/,'');return `<a href="${u}" target="_blank" rel="noopener">${u}</a>${m.slice(u.length)}`});
 const vis=b=>[b.title,b.summary,b.author_name,b.author_username].join(' ').toLowerCase();
 // 命中词只出现在正文里时，截一段正文说明为什么匹配
 function snip(b,t){const v=vis(b),w=t.find(w=>!v.includes(w));if(!w)return'';
