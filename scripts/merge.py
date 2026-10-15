@@ -23,3 +23,5 @@ json.dump(allb,open(bp,'w',encoding='utf-8'),ensure_ascii=False,indent=1)
 tz=datetime.timezone(datetime.timedelta(hours=8))
 json.dump({'total':len(allb),'updated_at':datetime.datetime.now(tz).isoformat(timespec='seconds')},open(mp,'w',encoding='utf-8'),ensure_ascii=False)
 print(f"added {len(add)}, total {len(allb)}")
+import subprocess
+subprocess.run([sys.executable,os.path.join(os.path.dirname(os.path.abspath(__file__)),'gen_readme.py')],check=True)
