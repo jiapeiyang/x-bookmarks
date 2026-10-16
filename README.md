@@ -2,24 +2,28 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **96** 条书签 · 最后更新：2026-10-16 00:10（北京时间）
+共 **96** 条书签 · 最后更新：2026-10-16 09:06（北京时间）
 
 ## 目录
 
-- [翻墙 / VPS / 网络节点](#cat-0) — 26 条
-- [AI 创作（视频/游戏/3D）](#cat-1) — 15 条
-- [AI 编程与开发工具](#cat-2) — 14 条
-- [Claude·ChatGPT 账号与订阅](#cat-3) — 14 条
-- [自媒体运营与赚钱](#cat-4) — 9 条
-- [学习教育与思维](#cat-5) — 6 条
-- [Grok Bot 玩法](#cat-6) — 5 条
-- [银行卡与支付](#cat-7) — 4 条
+- [翻墙 / VPS / 网络节点](#cat-0) — 28 条
+- [AI 编程与开发工具](#cat-1) — 15 条
+- [Claude·ChatGPT 账号与订阅](#cat-2) — 14 条
+- [AI 创作（视频/游戏/3D）](#cat-3) — 11 条
+- [自媒体运营与赚钱](#cat-4) — 8 条
+- [Grok Bot 玩法](#cat-5) — 6 条
+- [学习教育与思维](#cat-6) — 6 条
+- [银行卡与支付](#cat-7) — 5 条
 - [娱乐与其他](#cat-8) — 3 条
 
 <a id="cat-0"></a>
 
-## 翻墙 / VPS / 网络节点（26）
+## 翻墙 / VPS / 网络节点（28）
 
+- **[GCP小鸡入门全攻略](https://x.com/404jsh/status/2110760221111173524)** — 普通人白嫖谷歌云 VPS 的入门教程，建议先用 300 美元额度把节点玩明白。  
+  @404jsh · 2026-10-15
+- **[RakSmart双11/黑五秒杀](https://x.com/gwvpsceping/status/2110695214524600367)** — RakSmart 2026 双11与黑五促销，VPS 低至 $1.99/月、独立服务器 $29.9 起。  
+  @gwvpsceping · 2026-10-15
 - **[蚂蚁漫画网络技术系列](https://x.com/antsBTW/status/2110161589546664185)** — 用漫画讲解VPS、节点、VLESS+REALITY、HY2及GFW原理的系列合集。  
   @antsBTW · 2026-10-14
 - **[1分钟解决DNS泄露](https://x.com/PanXing0827/status/2109909072606876003)** — 小火箭Shadowrocket导入防DNS泄露配置的方法。  
@@ -75,43 +79,10 @@
 
 <a id="cat-1"></a>
 
-## AI 创作（视频/游戏/3D）（15）
+## AI 编程与开发工具（15）
 
-- **[Opus做《小王子》3D游戏](https://x.com/Saccc_c/status/2109962425512734739)** — 用Opus 5.5+Tripo+Blender把小王子故事做成3D剧情游戏。  
-  @Saccc_c · 2026-10-13
-- **[Anatomy Skill做科普动画](https://x.com/op7418/status/2109679880438989160)** — 用Anatomy Skill+Grok Bot+即梦制作等轴立体机械科普视频。  
-  @op7418 · 2026-10-13
-- **[Muse AI注册教程](https://x.com/ai_suxiaole/status/2108146466082734198)** — 绕过等待名单注册Muse AI（10月8日更新）。  
-  @ai_suxiaole · 2026-10-08
-- **[huashu-art-motion成果](https://x.com/AlchainHust/status/2107757400224596291)** — 首批用户用huashu-art-motion做动效作品的成果。  
-  @AlchainHust · 2026-10-07
-- **[Muse一键注册方法](https://x.com/Super_Nius/status/2107374944296603960)** — Muse手机/PC端三分钟注册、免年龄验证的方法。  
-  @Super_Nius · 2026-10-06
-- **[零基础用Opus做视频](https://x.com/xilo2991/status/2104912748794589515)** — 万字拆解AI用代码做视频，提示词与Skill开源。  
-  @xilo2991 · 2026-09-29
-- **[AI游戏20天赚23000元](https://x.com/XiaohuiAI666/status/2102236448175128643)** — 作者用AI做游戏发布20天的收入复盘。  
-  @XiaohuiAI666 · 2026-09-22
-- **[GPT-6做3D小岛Tidehaven](https://x.com/vib3coded/status/2100752564832616652)** — 用GPT-6 Astra+Three.js做交互式3D场景（英文）。  
-  @vib3coded · 2026-09-18
-- **[人人做游戏](https://x.com/berryxia/status/2100646925007737292)** — AI生成类塞尔达矿车游戏的演示。  
-  @berryxia · 2026-09-18
-- **[GPT Image 2.5做游戏画面](https://x.com/muku_sns/status/2098994140310843550)** — 用GPT Image 2.5批量生成儿童暑假游戏画面（日文）。  
-  @muku_sns · 2026-09-13
-- **[Unity 6.6 CLI+Astra](https://x.com/speaksGaming/status/2098964589752779221)** — 用Unity新CLI与AI生成四季场景（英文）。  
-  @speaksGaming · 2026-09-13
-- **[悉尼城3D交互场景](https://x.com/rionaifantasy/status/2098797241628758421)** — 用AI做悉尼3D场景，参考谷歌地图优化。  
-  @rionaifantasy · 2026-09-12
-- **[StoryComet儿童绘本](https://x.com/MengTo/status/2098027027760840864)** — 三天用AI做出15本五语种动画儿童书（英文）。  
-  @MengTo · 2026-09-10
-- **[GPT 6做可售卖游戏](https://x.com/xenit_v0/status/2097908321718071433)** — 用GPT 6从零做出完整咖啡馆游戏（土耳其语）。  
-  @xenit_v0 · 2026-09-10
-- **[GPT6 vs GPT5.6生成对比](https://x.com/Jolyne_AI/status/2097530771028476047)** — 同一提示词下GPT6生成效果震撼。  
-  @Jolyne_AI · 2026-09-09
-
-<a id="cat-2"></a>
-
-## AI 编程与开发工具（14）
-
+- **[AI新闻雷达开源项目](https://x.com/grgerwcwetwet/status/2110697299819319741)** — 聚合 X、Telegram、Reddit 等多源并用 AI 筛选评分、生成中英文每日简报的开源项目。  
+  @grgerwcwetwet · 2026-10-15
 - **[Claude+Atypica做网站出单](https://x.com/gkxspace/status/2109970698303373750)** — 用Claude快速建站并借Atypica做市场分析，网站开始出单。  
   @gkxspace · 2026-10-13
 - **[Magpie：ccswitch替代品](https://x.com/qizong007/status/2109871900297928909)** — 推荐Magpie，可多账号路由Codex等，功能强于ccswitch。  
@@ -141,7 +112,7 @@
 - **[网页版ChatGPT接手本地项目](https://x.com/samdychan/status/2098276183867789567)** — Codex额度用完后用网页ChatGPT继续本地开发的教程。  
   @samdychan · 2026-09-11
 
-<a id="cat-3"></a>
+<a id="cat-2"></a>
 
 ## Claude·ChatGPT 账号与订阅（14）
 
@@ -174,10 +145,39 @@
 - **[官方订阅ChatGPT/Claude](https://x.com/suversal/status/2097245420397404529)** — 不找代充，自己官方订阅ChatGPT/Claude的方法。  
   @suversal · 2026-09-08
 
+<a id="cat-3"></a>
+
+## AI 创作（视频/游戏/3D）（11）
+
+- **[Opus+Tripo做3D游戏](https://x.com/Saccc_c/status/2110694725640474759)** — 用 Opus 5.5、Tripo 等把《小王子》做成可探索 3D 游戏的手把手教程。  
+  @Saccc_c · 2026-10-15
+- **[Opus做《小王子》3D游戏](https://x.com/Saccc_c/status/2109962425512734739)** — 用Opus 5.5+Tripo+Blender把小王子故事做成3D剧情游戏。  
+  @Saccc_c · 2026-10-13
+- **[Anatomy Skill做科普动画](https://x.com/op7418/status/2109679880438989160)** — 用Anatomy Skill+Grok Bot+即梦制作等轴立体机械科普视频。  
+  @op7418 · 2026-10-13
+- **[Muse AI注册教程](https://x.com/ai_suxiaole/status/2108146466082734198)** — 绕过等待名单注册Muse AI（10月8日更新）。  
+  @ai_suxiaole · 2026-10-08
+- **[huashu-art-motion成果](https://x.com/AlchainHust/status/2107757400224596291)** — 首批用户用huashu-art-motion做动效作品的成果。  
+  @AlchainHust · 2026-10-07
+- **[Muse一键注册方法](https://x.com/Super_Nius/status/2107374944296603960)** — Muse手机/PC端三分钟注册、免年龄验证的方法。  
+  @Super_Nius · 2026-10-06
+- **[零基础用Opus做视频](https://x.com/xilo2991/status/2104912748794589515)** — 万字拆解AI用代码做视频，提示词与Skill开源。  
+  @xilo2991 · 2026-09-29
+- **[AI游戏20天赚23000元](https://x.com/XiaohuiAI666/status/2102236448175128643)** — 作者用AI做游戏发布20天的收入复盘。  
+  @XiaohuiAI666 · 2026-09-22
+- **[GPT-6做3D小岛Tidehaven](https://x.com/vib3coded/status/2100752564832616652)** — 用GPT-6 Astra+Three.js做交互式3D场景（英文）。  
+  @vib3coded · 2026-09-18
+- **[人人做游戏](https://x.com/berryxia/status/2100646925007737292)** — AI生成类塞尔达矿车游戏的演示。  
+  @berryxia · 2026-09-18
+- **[Unity 6.6 CLI+Astra](https://x.com/speaksGaming/status/2098964589752779221)** — 用Unity新CLI与AI生成四季场景（英文）。  
+  @speaksGaming · 2026-09-13
+
 <a id="cat-4"></a>
 
-## 自媒体运营与赚钱（9）
+## 自媒体运营与赚钱（8）
 
+- **[小红书首批笔记怎么写](https://x.com/JessiCao_JC/status/2110614414890283326)** — 两周破万曝光、涨粉的定位选题与发布后调整清单，共 12 篇可照着做。  
+  @JessiCao_JC · 2026-10-15
 - **[X创作者收益到账众安银行](https://x.com/realchendahuang/status/2110225994527494326)** — 作者分享X创作者分成到账众安银行，鼓励在X上活跃。  
   @realchendahuang · 2026-10-14
 - **[X Premium+年费经历](https://x.com/realchendahuang/status/2110020381637857725)** — 作者讲述打折购入X Premium+年费并获得回报的故事。  
@@ -192,12 +192,25 @@
   @0xarthurzs · 2026-10-10
 - **[AI代充批发网站](https://x.com/donniy520/status/2107651354743165359)** — 低价代充蓝V、Muse、Gemini Pro、多邻国等的批发站。  
   @donniy520 · 2026-10-07
-- **[AI做抖音Skill](https://x.com/ChengYi3629/status/2097611763391119504)** — native-subtitle-quote-image 2.0技能做抖音，平均赞藏上千。  
-  @ChengYi3629 · 2026-09-09
-- **[公众号起号教程](https://x.com/isnail/status/2060928267046060445)** — 公众号新号从0到1起号SOP与提示词。  
-  @isnail · 2026-05-31
 
 <a id="cat-5"></a>
+
+## Grok Bot 玩法（6）
+
+- **[官方教你跑Grok Bot团队](https://x.com/CarsonYangk8s/status/2110593952290418918)** — 官方教程讲解如何用几十个 Grok Bot 组成可自我迭代升级的团队。  
+  @CarsonYangk8s · 2026-10-15
+- **[用Grok Bot打造纯净时间线](https://x.com/HiTw93/status/2110154365667336695)** — 分享让Grok Bot每晚整理中文推特精选的提示词。  
+  @HiTw93 · 2026-10-14
+- **[AI早报视频提示词](https://x.com/op7418/status/2108148741014458839)** — 上一条的完整提示词，可直接复制给Grok Bot。  
+  @op7418 · 2026-10-08
+- **[Grok Bot每天出AI早报视频](https://x.com/op7418/status/2108148604447883464)** — 让Grok Bot在云端自动生成每日AI早报视频。  
+  @op7418 · 2026-10-08
+- **[自媒体如何用好Grok Bot](https://x.com/KinGao476942/status/2099736121781764594)** — 介绍做自媒体时使用Grok Bot的方法。  
+  @KinGao476942 · 2026-09-15
+- **[用Grok Bot搭建自媒体团队](https://x.com/AdrianPunk115/status/2097311704547987756)** — 保姆级教程：用Grok Bot组建自媒体工作流。  
+  @AdrianPunk115 · 2026-09-08
+
+<a id="cat-6"></a>
 
 ## 学习教育与思维（6）
 
@@ -214,25 +227,12 @@
 - **[四大思维模型](https://x.com/knowledgefxg/status/2099884732855341478)** — 第一性原理、贝叶斯、复利、逆向思维。  
   @knowledgefxg · 2026-09-15
 
-<a id="cat-6"></a>
-
-## Grok Bot 玩法（5）
-
-- **[用Grok Bot打造纯净时间线](https://x.com/HiTw93/status/2110154365667336695)** — 分享让Grok Bot每晚整理中文推特精选的提示词。  
-  @HiTw93 · 2026-10-14
-- **[AI早报视频提示词](https://x.com/op7418/status/2108148741014458839)** — 上一条的完整提示词，可直接复制给Grok Bot。  
-  @op7418 · 2026-10-08
-- **[Grok Bot每天出AI早报视频](https://x.com/op7418/status/2108148604447883464)** — 让Grok Bot在云端自动生成每日AI早报视频。  
-  @op7418 · 2026-10-08
-- **[自媒体如何用好Grok Bot](https://x.com/KinGao476942/status/2099736121781764594)** — 介绍做自媒体时使用Grok Bot的方法。  
-  @KinGao476942 · 2026-09-15
-- **[用Grok Bot搭建自媒体团队](https://x.com/AdrianPunk115/status/2097311704547987756)** — 保姆级教程：用Grok Bot组建自媒体工作流。  
-  @AdrianPunk115 · 2026-09-08
-
 <a id="cat-7"></a>
 
-## 银行卡与支付（4）
+## 银行卡与支付（5）
 
+- **[Starryblu六边形战士卡](https://x.com/mjjwiki/status/2110377155716849846)** — 介绍兼具 Wise、港卡、U 卡优点的 Starryblu，可免费换汇、资金回国和订阅海外 AI。  
+  @mjjwiki · 2026-10-14
 - **[免费领众安黑卡](https://x.com/wk95_free/status/2109914060242493571)** — 免费申请众安实体黑卡，填国内地址4天寄到。  
   @wk95_free · 2026-10-13
 - **[众安5元拿实体卡](https://x.com/wk95_free/status/2108368674486894608)** — 闲鱼拼团成为众安V2用户即可低价/免费领取实体卡。  
