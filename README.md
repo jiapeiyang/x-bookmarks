@@ -2,14 +2,14 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **103** 条书签 · 最后更新：2026-10-16 09:06（北京时间）
+共 **105** 条书签 · 最后更新：2026-10-16 12:40（北京时间）
 
 ## 目录
 
 - [翻墙 / VPS / 网络节点](#cat-0) — 28 条
 - [AI 创作（视频/游戏/3D）](#cat-1) — 16 条
-- [AI 编程与开发工具](#cat-2) — 15 条
-- [Claude·ChatGPT 账号与订阅](#cat-3) — 14 条
+- [Claude·ChatGPT 账号与订阅](#cat-2) — 16 条
+- [AI 编程与开发工具](#cat-3) — 15 条
 - [自媒体运营与赚钱](#cat-4) — 10 条
 - [Grok Bot 玩法](#cat-5) — 6 条
 - [学习教育与思维](#cat-6) — 6 条
@@ -116,6 +116,43 @@
 
 <a id="cat-2"></a>
 
+## Claude·ChatGPT 账号与订阅（16）
+
+- **[美区礼品卡充值方式盘点](https://x.com/Lonely__MH/status/2110883671628460167)** — 汇总支付宝Pockyt、Apple官网、美区PayPal自动扣款等为美区账号充值以订阅Claude的方法。  
+  @Lonely__MH · 2026-10-16
+- **[防Claude封号资源](https://x.com/dashiAIxz/status/2109837664803586056)** — 分享Gmail账号购买等防止Claude封号的关键资源。  
+  @dashiAIxz · 2026-10-13
+- **[代理IP/接码/租号一站式网站](https://x.com/AI_Jasonyu/status/2109431835734183936)** — 一个集代理IP、接码、租号、eSIM的网站，可注册ChatGPT/Claude。  
+  @AI_Jasonyu · 2026-10-12
+- **[一个Google账号两个Claude](https://x.com/math_fournity/status/2108567461117510101)** — 利用Google备用邮箱地址注册两个Claude账号。  
+  @math_fournity · 2026-10-09
+- **[美区Apple账号注册教程](https://x.com/xmglab/status/2108533532721299705)** — 无需美国手机号3分钟注册美区Apple ID。  
+  @xmglab · 2026-10-09
+- **[Claude Code 7×24云主机](https://x.com/app_sail/status/2108523630900748335)** — 让Grok Bot注册Claude并搭配Orca+Tailscale建云端Claude Code。  
+  @app_sail · 2026-10-09
+- **[Claude封号申诉成功经验](https://x.com/goan999999/status/2108391098016239888)** — 朋友成功解封Claude的申诉表格填写方法。  
+  @goan999999 · 2026-10-09
+- **[让bot注册美区Apple ID模板](https://x.com/Chchenhao0129/status/2107850986530500820)** — 可直接复制给bot的美区Apple ID注册指令模板。  
+  @Chchenhao0129 · 2026-10-07
+- **[Claude解封申诉邮件模板](https://x.com/li9292/status/2107841995628548596)** — 分享成功解封的Claude申诉邮件原文。  
+  @li9292 · 2026-10-07
+- **[美区AppleID+PayPal订阅Claude](https://x.com/qwerty__cs/status/2107433178818551855)** — 无需礼品卡用美区Apple ID+PayPal内购Claude，可退款。  
+  @qwerty__cs · 2026-10-06
+- **[Grok Bot注册订阅Claude Code](https://x.com/KinGao476942/status/2106985933966832090)** — 用Grok Bot稳定注册并订阅Claude Code的新手指南。  
+  @KinGao476942 · 2026-10-05
+- **[Claude封号潮与应对](https://x.com/xiangxiang103/status/2105840597479383327)** — 国庆期间大量Claude封号，作者分析与建议。  
+  @xiangxiang103 · 2026-10-02
+- **[Claude账号申诉攻略](https://x.com/AISuperDomain/status/2105660384350744770)** — Claude被封后如何申诉。  
+  @AISuperDomain · 2026-10-01
+- **[GPT降智与封号原因](https://x.com/yanxi067/status/2100469616783102183)** — GPT变笨、账号被封原因与自查清单。  
+  @yanxi067 · 2026-09-17
+- **[官方订阅ChatGPT/Claude](https://x.com/suversal/status/2097245420397404529)** — 不找代充，自己官方订阅ChatGPT/Claude的方法。  
+  @suversal · 2026-09-08
+- **[美区Apple ID+PayPal+Starryblu订阅Claude](https://x.com/Lonely__MH/status/2093347789459906831)** — 介绍用美区Apple ID、美区PayPal搭配Starryblu卡内购订阅Claude，被封号也方便退款。  
+  @Lonely__MH · 2026-08-28
+
+<a id="cat-3"></a>
+
 ## AI 编程与开发工具（15）
 
 - **[AI新闻雷达开源项目](https://x.com/grgerwcwetwet/status/2110697299819319741)** — 聚合 X、Telegram、Reddit 等多源并用 AI 筛选评分、生成中英文每日简报的开源项目。  
@@ -148,39 +185,6 @@
   @kasong2048 · 2026-09-17
 - **[网页版ChatGPT接手本地项目](https://x.com/samdychan/status/2098276183867789567)** — Codex额度用完后用网页ChatGPT继续本地开发的教程。  
   @samdychan · 2026-09-11
-
-<a id="cat-3"></a>
-
-## Claude·ChatGPT 账号与订阅（14）
-
-- **[防Claude封号资源](https://x.com/dashiAIxz/status/2109837664803586056)** — 分享Gmail账号购买等防止Claude封号的关键资源。  
-  @dashiAIxz · 2026-10-13
-- **[代理IP/接码/租号一站式网站](https://x.com/AI_Jasonyu/status/2109431835734183936)** — 一个集代理IP、接码、租号、eSIM的网站，可注册ChatGPT/Claude。  
-  @AI_Jasonyu · 2026-10-12
-- **[一个Google账号两个Claude](https://x.com/math_fournity/status/2108567461117510101)** — 利用Google备用邮箱地址注册两个Claude账号。  
-  @math_fournity · 2026-10-09
-- **[美区Apple账号注册教程](https://x.com/xmglab/status/2108533532721299705)** — 无需美国手机号3分钟注册美区Apple ID。  
-  @xmglab · 2026-10-09
-- **[Claude Code 7×24云主机](https://x.com/app_sail/status/2108523630900748335)** — 让Grok Bot注册Claude并搭配Orca+Tailscale建云端Claude Code。  
-  @app_sail · 2026-10-09
-- **[Claude封号申诉成功经验](https://x.com/goan999999/status/2108391098016239888)** — 朋友成功解封Claude的申诉表格填写方法。  
-  @goan999999 · 2026-10-09
-- **[让bot注册美区Apple ID模板](https://x.com/Chchenhao0129/status/2107850986530500820)** — 可直接复制给bot的美区Apple ID注册指令模板。  
-  @Chchenhao0129 · 2026-10-07
-- **[Claude解封申诉邮件模板](https://x.com/li9292/status/2107841995628548596)** — 分享成功解封的Claude申诉邮件原文。  
-  @li9292 · 2026-10-07
-- **[美区AppleID+PayPal订阅Claude](https://x.com/qwerty__cs/status/2107433178818551855)** — 无需礼品卡用美区Apple ID+PayPal内购Claude，可退款。  
-  @qwerty__cs · 2026-10-06
-- **[Grok Bot注册订阅Claude Code](https://x.com/KinGao476942/status/2106985933966832090)** — 用Grok Bot稳定注册并订阅Claude Code的新手指南。  
-  @KinGao476942 · 2026-10-05
-- **[Claude封号潮与应对](https://x.com/xiangxiang103/status/2105840597479383327)** — 国庆期间大量Claude封号，作者分析与建议。  
-  @xiangxiang103 · 2026-10-02
-- **[Claude账号申诉攻略](https://x.com/AISuperDomain/status/2105660384350744770)** — Claude被封后如何申诉。  
-  @AISuperDomain · 2026-10-01
-- **[GPT降智与封号原因](https://x.com/yanxi067/status/2100469616783102183)** — GPT变笨、账号被封原因与自查清单。  
-  @yanxi067 · 2026-09-17
-- **[官方订阅ChatGPT/Claude](https://x.com/suversal/status/2097245420397404529)** — 不找代充，自己官方订阅ChatGPT/Claude的方法。  
-  @suversal · 2026-09-08
 
 <a id="cat-4"></a>
 
