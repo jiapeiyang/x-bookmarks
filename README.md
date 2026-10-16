@@ -2,15 +2,15 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **96** 条书签 · 最后更新：2026-10-16 09:06（北京时间）
+共 **103** 条书签 · 最后更新：2026-10-16 09:06（北京时间）
 
 ## 目录
 
 - [翻墙 / VPS / 网络节点](#cat-0) — 28 条
-- [AI 编程与开发工具](#cat-1) — 15 条
-- [Claude·ChatGPT 账号与订阅](#cat-2) — 14 条
-- [AI 创作（视频/游戏/3D）](#cat-3) — 11 条
-- [自媒体运营与赚钱](#cat-4) — 8 条
+- [AI 创作（视频/游戏/3D）](#cat-1) — 16 条
+- [AI 编程与开发工具](#cat-2) — 15 条
+- [Claude·ChatGPT 账号与订阅](#cat-3) — 14 条
+- [自媒体运营与赚钱](#cat-4) — 10 条
 - [Grok Bot 玩法](#cat-5) — 6 条
 - [学习教育与思维](#cat-6) — 6 条
 - [银行卡与支付](#cat-7) — 5 条
@@ -79,6 +79,43 @@
 
 <a id="cat-1"></a>
 
+## AI 创作（视频/游戏/3D）（16）
+
+- **[Opus+Tripo做3D游戏](https://x.com/Saccc_c/status/2110694725640474759)** — 用 Opus 5.5、Tripo 等把《小王子》做成可探索 3D 游戏的手把手教程。  
+  @Saccc_c · 2026-10-15
+- **[Opus做《小王子》3D游戏](https://x.com/Saccc_c/status/2109962425512734739)** — 用Opus 5.5+Tripo+Blender把小王子故事做成3D剧情游戏。  
+  @Saccc_c · 2026-10-13
+- **[Anatomy Skill做科普动画](https://x.com/op7418/status/2109679880438989160)** — 用Anatomy Skill+Grok Bot+即梦制作等轴立体机械科普视频。  
+  @op7418 · 2026-10-13
+- **[Muse AI注册教程](https://x.com/ai_suxiaole/status/2108146466082734198)** — 绕过等待名单注册Muse AI（10月8日更新）。  
+  @ai_suxiaole · 2026-10-08
+- **[huashu-art-motion成果](https://x.com/AlchainHust/status/2107757400224596291)** — 首批用户用huashu-art-motion做动效作品的成果。  
+  @AlchainHust · 2026-10-07
+- **[Muse一键注册方法](https://x.com/Super_Nius/status/2107374944296603960)** — Muse手机/PC端三分钟注册、免年龄验证的方法。  
+  @Super_Nius · 2026-10-06
+- **[零基础用Opus做视频](https://x.com/xilo2991/status/2104912748794589515)** — 万字拆解AI用代码做视频，提示词与Skill开源。  
+  @xilo2991 · 2026-09-29
+- **[AI游戏20天赚23000元](https://x.com/XiaohuiAI666/status/2102236448175128643)** — 作者用AI做游戏发布20天的收入复盘。  
+  @XiaohuiAI666 · 2026-09-22
+- **[GPT-6做3D小岛Tidehaven](https://x.com/vib3coded/status/2100752564832616652)** — 用GPT-6 Astra+Three.js做交互式3D场景（英文）。  
+  @vib3coded · 2026-09-18
+- **[人人做游戏](https://x.com/berryxia/status/2100646925007737292)** — AI生成类塞尔达矿车游戏的演示。  
+  @berryxia · 2026-09-18
+- **[GPT Image 2.5做游戏画面](https://x.com/muku_sns/status/2098994140310843550)** — 用GPT Image 2.5批量生成儿童暑假游戏画面（日文）。  
+  @muku_sns · 2026-09-13
+- **[Unity 6.6 CLI+Astra](https://x.com/speaksGaming/status/2098964589752779221)** — 用Unity新CLI与AI生成四季场景（英文）。  
+  @speaksGaming · 2026-09-13
+- **[悉尼城3D交互场景](https://x.com/rionaifantasy/status/2098797241628758421)** — 用AI做悉尼3D场景，参考谷歌地图优化。  
+  @rionaifantasy · 2026-09-12
+- **[StoryComet儿童绘本](https://x.com/MengTo/status/2098027027760840864)** — 三天用AI做出15本五语种动画儿童书（英文）。  
+  @MengTo · 2026-09-10
+- **[GPT 6做可售卖游戏](https://x.com/xenit_v0/status/2097908321718071433)** — 用GPT 6从零做出完整咖啡馆游戏（土耳其语）。  
+  @xenit_v0 · 2026-09-10
+- **[GPT6 vs GPT5.6生成对比](https://x.com/Jolyne_AI/status/2097530771028476047)** — 同一提示词下GPT6生成效果震撼。  
+  @Jolyne_AI · 2026-09-09
+
+<a id="cat-2"></a>
+
 ## AI 编程与开发工具（15）
 
 - **[AI新闻雷达开源项目](https://x.com/grgerwcwetwet/status/2110697299819319741)** — 聚合 X、Telegram、Reddit 等多源并用 AI 筛选评分、生成中英文每日简报的开源项目。  
@@ -112,7 +149,7 @@
 - **[网页版ChatGPT接手本地项目](https://x.com/samdychan/status/2098276183867789567)** — Codex额度用完后用网页ChatGPT继续本地开发的教程。  
   @samdychan · 2026-09-11
 
-<a id="cat-2"></a>
+<a id="cat-3"></a>
 
 ## Claude·ChatGPT 账号与订阅（14）
 
@@ -145,36 +182,9 @@
 - **[官方订阅ChatGPT/Claude](https://x.com/suversal/status/2097245420397404529)** — 不找代充，自己官方订阅ChatGPT/Claude的方法。  
   @suversal · 2026-09-08
 
-<a id="cat-3"></a>
-
-## AI 创作（视频/游戏/3D）（11）
-
-- **[Opus+Tripo做3D游戏](https://x.com/Saccc_c/status/2110694725640474759)** — 用 Opus 5.5、Tripo 等把《小王子》做成可探索 3D 游戏的手把手教程。  
-  @Saccc_c · 2026-10-15
-- **[Opus做《小王子》3D游戏](https://x.com/Saccc_c/status/2109962425512734739)** — 用Opus 5.5+Tripo+Blender把小王子故事做成3D剧情游戏。  
-  @Saccc_c · 2026-10-13
-- **[Anatomy Skill做科普动画](https://x.com/op7418/status/2109679880438989160)** — 用Anatomy Skill+Grok Bot+即梦制作等轴立体机械科普视频。  
-  @op7418 · 2026-10-13
-- **[Muse AI注册教程](https://x.com/ai_suxiaole/status/2108146466082734198)** — 绕过等待名单注册Muse AI（10月8日更新）。  
-  @ai_suxiaole · 2026-10-08
-- **[huashu-art-motion成果](https://x.com/AlchainHust/status/2107757400224596291)** — 首批用户用huashu-art-motion做动效作品的成果。  
-  @AlchainHust · 2026-10-07
-- **[Muse一键注册方法](https://x.com/Super_Nius/status/2107374944296603960)** — Muse手机/PC端三分钟注册、免年龄验证的方法。  
-  @Super_Nius · 2026-10-06
-- **[零基础用Opus做视频](https://x.com/xilo2991/status/2104912748794589515)** — 万字拆解AI用代码做视频，提示词与Skill开源。  
-  @xilo2991 · 2026-09-29
-- **[AI游戏20天赚23000元](https://x.com/XiaohuiAI666/status/2102236448175128643)** — 作者用AI做游戏发布20天的收入复盘。  
-  @XiaohuiAI666 · 2026-09-22
-- **[GPT-6做3D小岛Tidehaven](https://x.com/vib3coded/status/2100752564832616652)** — 用GPT-6 Astra+Three.js做交互式3D场景（英文）。  
-  @vib3coded · 2026-09-18
-- **[人人做游戏](https://x.com/berryxia/status/2100646925007737292)** — AI生成类塞尔达矿车游戏的演示。  
-  @berryxia · 2026-09-18
-- **[Unity 6.6 CLI+Astra](https://x.com/speaksGaming/status/2098964589752779221)** — 用Unity新CLI与AI生成四季场景（英文）。  
-  @speaksGaming · 2026-09-13
-
 <a id="cat-4"></a>
 
-## 自媒体运营与赚钱（8）
+## 自媒体运营与赚钱（10）
 
 - **[小红书首批笔记怎么写](https://x.com/JessiCao_JC/status/2110614414890283326)** — 两周破万曝光、涨粉的定位选题与发布后调整清单，共 12 篇可照着做。  
   @JessiCao_JC · 2026-10-15
@@ -192,6 +202,10 @@
   @0xarthurzs · 2026-10-10
 - **[AI代充批发网站](https://x.com/donniy520/status/2107651354743165359)** — 低价代充蓝V、Muse、Gemini Pro、多邻国等的批发站。  
   @donniy520 · 2026-10-07
+- **[AI做抖音Skill](https://x.com/ChengYi3629/status/2097611763391119504)** — native-subtitle-quote-image 2.0技能做抖音，平均赞藏上千。  
+  @ChengYi3629 · 2026-09-09
+- **[公众号起号教程](https://x.com/isnail/status/2060928267046060445)** — 公众号新号从0到1起号SOP与提示词。  
+  @isnail · 2026-05-31
 
 <a id="cat-5"></a>
 
@@ -256,5 +270,5 @@
 ## 如何更新
 
 1. 准备 `new.json`（JSON 数组）。新书签必填 `id,url,title,summary,category,created_at`，可选 `author_username,author_name,text,bookmarked_order`；`category` 必须是 `data/categories.json` 里的一项。已有 id 只覆盖给出的字段（如只给 `id,text` 用于回填）。
-2. 运行 `python3 scripts/merge.py new.json --current current_ids.json`：按 id 合并、记录 `first_seen_at`；`current_ids.json` 是 X 上当前全部书签 id，不在其中的标记 `removed_at` 并在网页隐藏（数据保留，单次超过 30% 会拒绝）。翻页不完整时省略 `--current`。无变化时不写任何文件。
+2. 运行 `python3 scripts/merge.py new.json --current current_ids.json`：按 id 合并、记录 `first_seen_at`；`current_ids.json` 是本次 X 接口返回的书签 id（接口只返回最近一段），比其中最老一条更新、却不在其中的标记 `removed_at` 并在网页隐藏（数据保留，单次超过 30% 会拒绝）；更老的视为超出接口范围，保持不变。翻页不完整时省略 `--current`。无变化时不写任何文件。
 3. 有改动时 `git add -A && git commit -m update && git push`，GitHub Pages 会自动更新网站。

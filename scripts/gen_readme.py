@@ -18,7 +18,7 @@ for n,c in enumerate(cs):
     for b in sorted(g[c],key=lambda b:b['created_at'],reverse=True):
         o.append(f"- **[{esc(b['title'])}]({b['url']})** — {esc(b['summary'])}  \n  @{b.get('author_username','')} · {dt(b['created_at']).date()}")
 o+=['','## 如何更新','','1. 准备 `new.json`（JSON 数组）。新书签必填 `id,url,title,summary,category,created_at`，可选 `author_username,author_name,text,bookmarked_order`；`category` 必须是 `data/categories.json` 里的一项。已有 id 只覆盖给出的字段（如只给 `id,text` 用于回填）。',
-    '2. 运行 `python3 scripts/merge.py new.json --current current_ids.json`：按 id 合并、记录 `first_seen_at`；`current_ids.json` 是 X 上当前全部书签 id，不在其中的标记 `removed_at` 并在网页隐藏（数据保留，单次超过 30% 会拒绝）。翻页不完整时省略 `--current`。无变化时不写任何文件。',
+    '2. 运行 `python3 scripts/merge.py new.json --current current_ids.json`：按 id 合并、记录 `first_seen_at`；`current_ids.json` 是本次 X 接口返回的书签 id（接口只返回最近一段），比其中最老一条更新、却不在其中的标记 `removed_at` 并在网页隐藏（数据保留，单次超过 30% 会拒绝）；更老的视为超出接口范围，保持不变。翻页不完整时省略 `--current`。无变化时不写任何文件。',
     '3. 有改动时 `git add -A && git commit -m update && git push`，GitHub Pages 会自动更新网站。','']
 open(os.path.join(root,'README.md'),'w',encoding='utf-8').write('\n'.join(o))
 print('README regenerated')

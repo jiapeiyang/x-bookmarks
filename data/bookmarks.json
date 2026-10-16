@@ -1168,8 +1168,7 @@
   "author_name": "むく | AIアートのプロ",
   "created_at": "2026-09-13T04:36:15.000Z",
   "bookmarked_order": 96,
-  "text": "GPT Image2.5で生成速度の速さとガビガビがなくなったおかげで、６枚同時生成もスムーズ。Xで最近おばぁちゃんのGTA動画が流行ってるから、こっちは子供の夏休みを描いたゲームを作成してみた。台本を投げるだけで適切な画像が作れてseedanceを@TapNow_AI で作成して参照動画にできるからめっちゃ強い...\n\n#tapnow",
-  "removed_at": "2026-10-16"
+  "text": "GPT Image2.5で生成速度の速さとガビガビがなくなったおかげで、６枚同時生成もスムーズ。Xで最近おばぁちゃんのGTA動画が流行ってるから、こっちは子供の夏休みを描いたゲームを作成してみた。台本を投げるだけで適切な画像が作れてseedanceを@TapNow_AI で作成して参照動画にできるからめっちゃ強い...\n\n#tapnow"
  },
  {
   "id": "2098797241628758421",
@@ -1181,8 +1180,7 @@
   "author_name": "Rion Wu",
   "created_at": "2026-09-12T15:33:50.000Z",
   "bookmarked_order": 97,
-  "text": "给我足够的token，我可以创造整个世界🤪！！！\n\n这几天在打磨悉尼城的3D交互场景，搞了半天才知道，原来谷歌地图才是我最好的优化参考。。。\n\n尤其是针对这种城市建筑场景，Google Map里有大量的参考图片和素材，你只需要建立一个Loop循环，让GPT-6 Astra参考谷歌地图不停地优化城市的细节。 「[图片/视频]」 https://twitter.com/rionaifantasy/status/2096460180401889613",
-  "removed_at": "2026-10-16"
+  "text": "给我足够的token，我可以创造整个世界🤪！！！\n\n这几天在打磨悉尼城的3D交互场景，搞了半天才知道，原来谷歌地图才是我最好的优化参考。。。\n\n尤其是针对这种城市建筑场景，Google Map里有大量的参考图片和素材，你只需要建立一个Loop循环，让GPT-6 Astra参考谷歌地图不停地优化城市的细节。 「[图片/视频]」 https://twitter.com/rionaifantasy/status/2096460180401889613"
  },
  {
   "id": "2098027027760840864",
@@ -1194,8 +1192,7 @@
   "author_name": "Meng To",
   "created_at": "2026-09-10T12:33:17.000Z",
   "bookmarked_order": 98,
-  "text": "I built StoryComet with Fable 5.1 in three days. 15 animated children's books in five languages, with translated voiceovers, covers and UI.\n\nhttp://storycomet.app\n\nParents can track progress. Kids can take quizzes, collect pins and 3D souvenirs, and switch languages on the fly. Six books teach English, Spanish, French, Japanese or Chinese.\n\nMy three-day workflow:\n- Day 1: prototype (and post on X)\n- Day 2: 9 more books, languages, progress, quizzes, pins and souvenirs\n- Day 3: polish, domain name, supabase, accounts, Stripe and optimization\n\nThe first three books are 100% free so you can try the whole experience. Members unlocks the other 12 at early-bird pricing.\n\nThe 3D models and tokens cost me hundreds of dollars, so your support means a lot.",
-  "removed_at": "2026-10-16"
+  "text": "I built StoryComet with Fable 5.1 in three days. 15 animated children's books in five languages, with translated voiceovers, covers and UI.\n\nhttp://storycomet.app\n\nParents can track progress. Kids can take quizzes, collect pins and 3D souvenirs, and switch languages on the fly. Six books teach English, Spanish, French, Japanese or Chinese.\n\nMy three-day workflow:\n- Day 1: prototype (and post on X)\n- Day 2: 9 more books, languages, progress, quizzes, pins and souvenirs\n- Day 3: polish, domain name, supabase, accounts, Stripe and optimization\n\nThe first three books are 100% free so you can try the whole experience. Members unlocks the other 12 at early-bird pricing.\n\nThe 3D models and tokens cost me hundreds of dollars, so your support means a lot."
  },
  {
   "id": "2060928267046060445",
@@ -1207,8 +1204,7 @@
   "author_name": "蜗牛King 👑",
   "created_at": "2026-05-31T03:36:03.000Z",
   "bookmarked_order": 99,
-  "text": "https://x.com/i/article/2060918813730738178",
-  "removed_at": "2026-10-16"
+  "text": "https://x.com/i/article/2060918813730738178"
  },
  {
   "id": "2097908321718071433",
@@ -1220,8 +1216,7 @@
   "author_name": "Mehmet",
   "created_at": "2026-09-10T04:41:35.000Z",
   "bookmarked_order": 100,
-  "text": "GPT 6 ASTRA ile sıfırdan tam oynanbilir ve satılabilir bir oyun yaptım.\n\nBir kafe oyunu fikriyle başladık. İlk mesajdan yaklaşık 44 saat sonra Mola'yı Google Play incelemesine gönderdik. ☕\n\nKodlama bilmiyorum. Küçük bir kafeyi kahve zincirine dönüştürdüğümüz bir oyun istedim; oynadıkça gördüğüm sorunları ve istediğim değişiklikleri anlattım. Tüm geliştirmeyi GPT 6 Astra ile yürüttüm.\n\nVideoda önce referansı, ardından tek masayla başlayan kafenin gelişmiş hâlini görüyorsunuz. En sona da karşılaştırabilmeniz için referansla gerçek oyunu yan yana koydum. Ek olarak bu oyun tamamen tek bir sohbet oturumunda yapıldı. Codex kullanıldı.\n\nÖnceki paylaşımın altındaki soruları da topluca cevaplayayım:\n\nOyun arcade idle tycoon türünde; Three.js ile yapıldı, Android tarafında Capacitor kullanılıyor. Karakterler, kafe, koltuklar ve şehirdeki pek çok nesne kodla oluşturuldu. Vitrindeki kruvasan, muffin ve pasta modelleri Kenney'nin ücretsiz CC0 paketinden.\n\nMüzikler de hazır, CC0 lisanslı parçalar: Cleyton Kauffman'ın Shop Theme'i ve Kistol'un Etirwer'ı. Ses efektleriyle ortam seslerinin bir kısmı ise kodla üretiliyor.\n\nAsıl merak ettiğim, modelin oyunun tamamını ne kadar yönetebileceğiydi. Ekonomiyi ve müşteri davranışlarını kurmanın yanında testleri, Android paketini, reklam ve satın alma entegrasyonlarını, sunucu ayarlarını ve mağaza gönderimini de agentlarla yürüttü. Ben oynayıp geri bildirim verdim ve hesaplarda gereken onayları verdim.\n\nBu süreçte Three.js, bilgisayar kontrolü, mobil kullanım, oyun sanatı ve ekonomi/mantık için önceden hazırladığım özel skill'lerden yararlandım. Bunlar modelin nasıl çalışacağını yönlendiren talimatlar. Bu skill setleri ben de hep vardı. Diger llm'ler ile benim denemelerimde bu iş akışını en iyi kullanan model GPT 6 Astra oldu. \n\nToken tüketimi yüksekti; projeye özel net bir dolar maliyeti çıkarmadım. Kullandığımız hazır asset ve müzikler ücretsiz. 44 saat de kesintisiz çalışma değil, ilk mesajla mağazaya gönderim arasında aralar dâhil geçen süre.\n\nMola şu an Google Play'de yayında. \n\nSizce referansın havasını oyuna taşıyabilmiş miyiz?\n\nOyun linki: \n\nhttps://play.google.com/store/apps/details?id=com.owlapp.mola",
-  "removed_at": "2026-10-16"
+  "text": "GPT 6 ASTRA ile sıfırdan tam oynanbilir ve satılabilir bir oyun yaptım.\n\nBir kafe oyunu fikriyle başladık. İlk mesajdan yaklaşık 44 saat sonra Mola'yı Google Play incelemesine gönderdik. ☕\n\nKodlama bilmiyorum. Küçük bir kafeyi kahve zincirine dönüştürdüğümüz bir oyun istedim; oynadıkça gördüğüm sorunları ve istediğim değişiklikleri anlattım. Tüm geliştirmeyi GPT 6 Astra ile yürüttüm.\n\nVideoda önce referansı, ardından tek masayla başlayan kafenin gelişmiş hâlini görüyorsunuz. En sona da karşılaştırabilmeniz için referansla gerçek oyunu yan yana koydum. Ek olarak bu oyun tamamen tek bir sohbet oturumunda yapıldı. Codex kullanıldı.\n\nÖnceki paylaşımın altındaki soruları da topluca cevaplayayım:\n\nOyun arcade idle tycoon türünde; Three.js ile yapıldı, Android tarafında Capacitor kullanılıyor. Karakterler, kafe, koltuklar ve şehirdeki pek çok nesne kodla oluşturuldu. Vitrindeki kruvasan, muffin ve pasta modelleri Kenney'nin ücretsiz CC0 paketinden.\n\nMüzikler de hazır, CC0 lisanslı parçalar: Cleyton Kauffman'ın Shop Theme'i ve Kistol'un Etirwer'ı. Ses efektleriyle ortam seslerinin bir kısmı ise kodla üretiliyor.\n\nAsıl merak ettiğim, modelin oyunun tamamını ne kadar yönetebileceğiydi. Ekonomiyi ve müşteri davranışlarını kurmanın yanında testleri, Android paketini, reklam ve satın alma entegrasyonlarını, sunucu ayarlarını ve mağaza gönderimini de agentlarla yürüttü. Ben oynayıp geri bildirim verdim ve hesaplarda gereken onayları verdim.\n\nBu süreçte Three.js, bilgisayar kontrolü, mobil kullanım, oyun sanatı ve ekonomi/mantık için önceden hazırladığım özel skill'lerden yararlandım. Bunlar modelin nasıl çalışacağını yönlendiren talimatlar. Bu skill setleri ben de hep vardı. Diger llm'ler ile benim denemelerimde bu iş akışını en iyi kullanan model GPT 6 Astra oldu. \n\nToken tüketimi yüksekti; projeye özel net bir dolar maliyeti çıkarmadım. Kullandığımız hazır asset ve müzikler ücretsiz. 44 saat de kesintisiz çalışma değil, ilk mesajla mağazaya gönderim arasında aralar dâhil geçen süre.\n\nMola şu an Google Play'de yayında. \n\nSizce referansın havasını oyuna taşıyabilmiş miyiz?\n\nOyun linki: \n\nhttps://play.google.com/store/apps/details?id=com.owlapp.mola"
  },
  {
   "id": "2097611763391119504",
@@ -1233,8 +1228,7 @@
   "author_name": "程意",
   "created_at": "2026-09-09T09:03:10.000Z",
   "bookmarked_order": 101,
-  "text": "AI 已经比我会做抖音了，哈哈哈。\n\n还是那个 skill：native-subtitle-quote-image，升级到 2.0了。\n\n平均每个视频赞藏1千啊！ 「[图片/视频]」",
-  "removed_at": "2026-10-16"
+  "text": "AI 已经比我会做抖音了，哈哈哈。\n\n还是那个 skill：native-subtitle-quote-image，升级到 2.0了。\n\n平均每个视频赞藏1千啊！ 「[图片/视频]」"
  },
  {
   "id": "2097530771028476047",
@@ -1246,7 +1240,6 @@
   "author_name": "徐伦",
   "created_at": "2026-09-09T03:41:20.000Z",
   "bookmarked_order": 102,
-  "text": "大大的震惊，同样的提示词\n\nGPT5.6试过一次，但是不是很满意\n\nGPT6给的就是震撼，直接上图上连接\n\n地址：https://z.xxbai.site/ 「[图片/视频]」",
-  "removed_at": "2026-10-16"
+  "text": "大大的震惊，同样的提示词\n\nGPT5.6试过一次，但是不是很满意\n\nGPT6给的就是震撼，直接上图上连接\n\n地址：https://z.xxbai.site/ 「[图片/视频]」"
  }
 ]

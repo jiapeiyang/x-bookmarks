@@ -8,10 +8,12 @@ new.json: JSON array of objects.
   - Existing id: only the fields given are overwritten (e.g. {id,text} to
     backfill expanded links); bookmarked_order/first_seen_at are kept.
   category must be one of data/categories.json.
---current: JSON array of ALL ids bookmarked on X right now (only pass it when
-  pagination fully succeeded). Missing ones get removed_at and are hidden on
-  the site (data kept); ones bookmarked again are restored. Refuses to hide
-  more than 30% of active bookmarks at once.
+--current: JSON array of the ids the X API returned this run (only pass it when
+  pagination fully succeeded). The API only returns the most recent bookmarks
+  (a window, ~96 now), so a missing bookmark gets removed_at (hidden on the
+  site, data kept) only if it is newer than the oldest returned one; older
+  ones are outside the window and left as is. Ones returned again are
+  restored. Refuses to hide more than 30% of active bookmarks at once.
 Writes nothing when nothing changed; otherwise updates meta.json and
 regenerates README."""
 import json,sys,datetime,os,argparse,subprocess
@@ -42,7 +44,9 @@ if a.current:
     for b in old:
         if b.get('removed_at') and b['id'] in cur: del b['removed_at'];back+=1
     act=[b for b in old if not b.get('removed_at')]
-    gone=[b for b in act if b['id'] not in cur]
+    # 接口只返回最近一段书签：比返回里最老一条还老的，可能只是被挤出窗口，不算取消
+    edge=max((b['bookmarked_order'] for b in old if b['id'] in cur),default=-1)
+    gone=[b for b in act if b['id'] not in cur and b['bookmarked_order']<edge]
     # 翻页不完整时 current 会缺一大片，宁可报错也不批量隐藏
     if len(gone)>0.3*len(act): sys.exit(f"refusing to hide {len(gone)}/{len(act)} bookmarks (>30%), current ids look incomplete")
     for b in gone: b['removed_at']=today;rm+=1
