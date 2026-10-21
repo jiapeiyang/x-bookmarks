@@ -2,24 +2,38 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **105** 条书签 · 最后更新：2026-10-16 12:40（北京时间）
+共 **155** 条书签 · 最后更新：2026-10-21 14:05（北京时间）
 
 ## 目录
 
-- [翻墙 / VPS / 网络节点](#cat-0) — 28 条
-- [AI 创作（视频/游戏/3D）](#cat-1) — 16 条
-- [Claude·ChatGPT 账号与订阅](#cat-2) — 16 条
-- [AI 编程与开发工具](#cat-3) — 15 条
-- [自媒体运营与赚钱](#cat-4) — 10 条
-- [Grok Bot 玩法](#cat-5) — 6 条
-- [学习教育与思维](#cat-6) — 6 条
-- [银行卡与支付](#cat-7) — 5 条
-- [娱乐与其他](#cat-8) — 3 条
+- [翻墙 / VPS / 网络节点](#cat-0) — 35 条
+- [AI 创作（视频/游戏/3D）](#cat-1) — 26 条
+- [AI 编程与开发工具](#cat-2) — 26 条
+- [Claude·ChatGPT 账号与订阅](#cat-3) — 18 条
+- [自媒体运营与赚钱](#cat-4) — 17 条
+- [Grok Bot 玩法](#cat-5) — 13 条
+- [学习教育与思维](#cat-6) — 8 条
+- [银行卡与支付](#cat-7) — 8 条
+- [娱乐与其他](#cat-8) — 4 条
 
 <a id="cat-0"></a>
 
-## 翻墙 / VPS / 网络节点（28）
+## 翻墙 / VPS / 网络节点（35）
 
+- **[VMISS洛杉矶三网TRI放货预告](https://x.com/vpsing_de/status/2112584484277375231)** — VMISS将放出洛杉矶最便宜的三网优化TRI机器。  
+  @vpsing_de · 2026-10-21
+- **[黑五VPS重点商家清单](https://x.com/0xjackkk/status/2112459283740926175)** — 整理VMISS、绿云、RackNerd等5家黑五重点蹲守的VPS商家。  
+  @0xjackkk · 2026-10-20
+- **[VMISS美西TRI放货](https://x.com/vpsing_de/status/2112423366267396146)** — VMISS放货美西最便宜三网优化TRI，官网被挤崩。  
+  @vpsing_de · 2026-10-20
+- **[免费备用VPN](https://x.com/yedabinbinah/status/2112177453187948877)** — 推荐一款有美国/日本/台湾节点的免费备用VPN。  
+  @yedabinbinah · 2026-10-19
+- **[一台VPS优化跨境线路](https://x.com/ozmazzz/status/2111921554200424506)** — 用一台VPS优化跨境线路、速度和稳定性的翻墙方案。  
+  @ozmazzz · 2026-10-19
+- **[2026免费VPN/机场合集](https://x.com/hodu382759/status/2111845679496942039)** — 6款免费工具加5款付费备选的翻墙工具合集。  
+  @hodu382759 · 2026-10-18
+- **[白嫖甲骨文云搭节点](https://x.com/nirox0216/status/2111339035629363273)** — 注册甲骨文免费VPS自建翻墙节点的完整步骤。  
+  @nirox0216 · 2026-10-17
 - **[GCP小鸡入门全攻略](https://x.com/404jsh/status/2110760221111173524)** — 普通人白嫖谷歌云 VPS 的入门教程，建议先用 300 美元额度把节点玩明白。  
   @404jsh · 2026-10-15
 - **[RakSmart双11/黑五秒杀](https://x.com/gwvpsceping/status/2110695214524600367)** — RakSmart 2026 双11与黑五促销，VPS 低至 $1.99/月、独立服务器 $29.9 起。  
@@ -79,8 +93,22 @@
 
 <a id="cat-1"></a>
 
-## AI 创作（视频/游戏/3D）（16）
+## AI 创作（视频/游戏/3D）（26）
 
+- **[ChatGPT×Muse一图做微电影](https://x.com/vincent_ddup/status/2112547806946677038)** — ChatGPT负责导演分镜、Muse负责成片，用一张图做出《世界之树》微电影。  
+  @vincent_ddup · 2026-10-20
+- **[AI直出北京3D城市历史视频](https://x.com/Gorden_Sun/status/2112488511479902346)** — 用一段提示词让AI构建北京3D城市并生成讲解北京历史的视频。  
+  @Gorden_Sun · 2026-10-20
+- **[Opus+Renoise做视频](https://x.com/PMbackttfuture/status/2112354179054531006)** — 作者用Claude Code+Renoise生成视频，解读Opus为何对视频制作是颠覆式的。  
+  @PMbackttfuture · 2026-10-20
+- **[Opus复刻小Lin说10分钟视频](https://x.com/WaterrrMiao/status/2112122511509065797)** — 用Opus 5.5和HyperFrames做出10分钟小Lin说风格的经济讲解视频。  
+  @WaterrrMiao · 2026-10-19
+- **[Opus5.5做视频流程与提示词](https://x.com/VincentWei93/status/2111798272776179741)** — 分享用Opus 5.5写代码做视频和剪辑的流程与提示词。  
+  @VincentWei93 · 2026-10-18
+- **[Claude渲染成都3271年城市史](https://x.com/EianLu/status/2111662397278847478)** — 全部由Claude写代码渲染的成都城市变迁短片《一座城的年轮》。  
+  @EianLu · 2026-10-18
+- **[Opus5.5做7分钟手绘动画](https://x.com/HaileyAILabs/status/2111265099096973334)** — 不会画画剪辑，用Opus 5.5加豆包配音把故事做成动画，Skill开源。  
+  @HaileyAILabs · 2026-10-17
 - **[Opus+Tripo做3D游戏](https://x.com/Saccc_c/status/2110694725640474759)** — 用 Opus 5.5、Tripo 等把《小王子》做成可探索 3D 游戏的手把手教程。  
   @Saccc_c · 2026-10-15
 - **[Opus做《小王子》3D游戏](https://x.com/Saccc_c/status/2109962425512734739)** — 用Opus 5.5+Tripo+Blender把小王子故事做成3D剧情游戏。  
@@ -95,6 +123,12 @@
   @Super_Nius · 2026-10-06
 - **[零基础用Opus做视频](https://x.com/xilo2991/status/2104912748794589515)** — 万字拆解AI用代码做视频，提示词与Skill开源。  
   @xilo2991 · 2026-09-29
+- **[Opus5.5稳定出片：39种风格视频库](https://x.com/lemomo_ai/status/2103823847632060854)** — 作者开源39种风格视频库，总结用Opus 5.5稳定生成视频的方法。  
+  @lemomo_ai · 2026-09-26
+- **[Muse上手保姆级教程](https://x.com/0xlangeai/status/2103300004966478284)** — Muse从登录到完成第一个任务的入门教程。  
+  @0xlangeai · 2026-09-25
+- **[YouTube火柴人视频搞钱流水线](https://x.com/CrazyKaomei/status/2102311241046008268)** — 开源火柴人视频Skill，含爆款文案结构与豆包成片全流程。  
+  @CrazyKaomei · 2026-09-22
 - **[AI游戏20天赚23000元](https://x.com/XiaohuiAI666/status/2102236448175128643)** — 作者用AI做游戏发布20天的收入复盘。  
   @XiaohuiAI666 · 2026-09-22
 - **[GPT-6做3D小岛Tidehaven](https://x.com/vib3coded/status/2100752564832616652)** — 用GPT-6 Astra+Three.js做交互式3D场景（英文）。  
@@ -116,8 +150,67 @@
 
 <a id="cat-2"></a>
 
-## Claude·ChatGPT 账号与订阅（16）
+## AI 编程与开发工具（26）
 
+- **[谷歌8.99美元订阅Bug](https://x.com/mjjwiki/status/2112560043531133408)** — 吐槽谷歌只修复了美区8.99美元订阅漏洞，Antigravity中Gemini 4 Argon或被滥用。  
+  @mjjwiki · 2026-10-20
+- **[多端开发技术选型](https://x.com/HiTw93/status/2112526198807183766)** — 聊Web、跨端、原生等桌面/移动开发技术路线及用Mac开发Windows软件。  
+  @HiTw93 · 2026-10-20
+- **[Muse监控VPS黑五优惠](https://x.com/zenjian8/status/2112399976915419440)** — 让Muse定时监控VPS优惠并主动发邮件提醒。  
+  @zenjian8 · 2026-10-20
+- **[AI项目方案跨电脑跨窗口续接](https://x.com/cryozerolabs/status/2112332630914179240)** — 解决与AI聊出的方案上下文在换电脑、换窗口时丢失的问题。  
+  @cryozerolabs · 2026-10-20
+- **[好用的前端提示词](https://x.com/jakevin7/status/2112244985156481059)** — 指定shadcn/ui、Lucide、Motion等统一库，让AI一次写出高质量前端的提示词。  
+  @jakevin7 · 2026-10-20
+- **[互联网赛博大善人](https://x.com/aronhouyu/status/2112025121582198860)** — 列举Cloudflare、GitHub、YouTube、Tailscale等免费良心服务。  
+  @aronhouyu · 2026-10-19
+- **[老学生续领Google AI Pro](https://x.com/duola_eth/status/2111981733059219629)** — 曾领过学生优惠者付8.99美元再续一年Google AI Pro的方法。  
+  @duola_eth · 2026-10-19
+- **[Personal Agent踩坑与提示语](https://x.com/aiwarts/status/2111812368972022217)** — 测评四款个人Agent，用3个提示语提升任务成功率。  
+  @aiwarts · 2026-10-18
+- **[Google AI Pro学生优惠续期](https://x.com/Vincent_AINotes/status/2111811720461386198)** — 已领学生优惠者重新领取可将订阅延长一年的方法。  
+  @Vincent_AINotes · 2026-10-18
+- **[codex-openpencil设计工具](https://x.com/FiniYang/status/2111665335510417893)** — 开源OpenPencil接入Codex，一句话生成可编辑设计稿并导出代码。  
+  @FiniYang · 2026-10-18
+- **[DSH把ESP32刷成AI音箱](https://x.com/xiangxiang103/status/2110948324543193560)** — 零命令零模型费用DSH把ESP32-S3刷成AI音箱。  
+  @xiangxiang103 · 2026-10-16
+- **[华为云200元代金券与免费Tokens](https://x.com/mjjwiki/status/2110933659100606574)** — 报名华为开发者大赛领取华为云代金券和每日免费模型Tokens。  
+  @mjjwiki · 2026-10-16
+- **[AI新闻雷达开源项目](https://x.com/grgerwcwetwet/status/2110697299819319741)** — 聚合 X、Telegram、Reddit 等多源并用 AI 筛选评分、生成中英文每日简报的开源项目。  
+  @grgerwcwetwet · 2026-10-15
+- **[Claude+Atypica做网站出单](https://x.com/gkxspace/status/2109970698303373750)** — 用Claude快速建站并借Atypica做市场分析，网站开始出单。  
+  @gkxspace · 2026-10-13
+- **[Magpie：ccswitch替代品](https://x.com/qizong007/status/2109871900297928909)** — 推荐Magpie，可多账号路由Codex等，功能强于ccswitch。  
+  @qizong007 · 2026-10-13
+- **[技术图解类开源项目](https://x.com/seekjourney/status/2109837538831765731)** — Archify、Diagram Design等技术图解项目登上GitHub Trending。  
+  @seekjourney · 2026-10-13
+- **[MLH免费Cursor Pro避坑](https://x.com/lidageai/status/2109416559043383395)** — MLH活动领取Cursor Pro兑换码的避坑指南。  
+  @lidageai · 2026-10-12
+- **[免费白嫖Cursor Pro](https://x.com/xiaomovps/status/2109209672192500125)** — MLH Global Hack Week免学生认证送Cursor Pro。  
+  @xiaomovps · 2026-10-11
+- **[Cloudflare从入门到精通](https://x.com/xiaomovps/status/2108371593747709979)** — 万字长文讲用Cloudflare搞定建站、邮箱、存储和AI后端。  
+  @xiaomovps · 2026-10-09
+- **[28元搭建个人网站](https://x.com/Chchenhao0129/status/2106257023910441081)** — 从0到1低成本搭建个人网站。  
+  @Chchenhao0129 · 2026-10-03
+- **[理解语言模型输出的建议](https://x.com/karpathy/status/2105819303471976479)** — 关于花更多时间理解LLM输出的思考与技巧（英文）。  
+  @karpathy · 2026-10-02
+- **[免费域名邮箱教程](https://x.com/Lonely__MH/status/2104878176811807050)** — Cloudflare+Gmail+Resend 5分钟配置免费个人域名邮箱。  
+  @Lonely__MH · 2026-09-29
+- **[JEV全自动答题](https://x.com/SUOHA_AI/status/2102091983292358839)** — 用JEV 21秒自动完成阿里云AI认证模拟考。  
+  @SUOHA_AI · 2026-09-22
+- **[Matt Pocock访谈：grill me](https://x.com/shao__meng/status/2100560279209979934)** — Skills作者谈grill me与wayfinder工作流。  
+  @shao__meng · 2026-09-17
+- **[更高效的Grill-Me用法](https://x.com/kasong2048/status/2100509534880137457)** — 把需求对齐视为需求树遍历的更高效方法。  
+  @kasong2048 · 2026-09-17
+- **[网页版ChatGPT接手本地项目](https://x.com/samdychan/status/2098276183867789567)** — Codex额度用完后用网页ChatGPT继续本地开发的教程。  
+  @samdychan · 2026-09-11
+
+<a id="cat-3"></a>
+
+## Claude·ChatGPT 账号与订阅（18）
+
+- **[长期稳定使用Claude订阅](https://x.com/tech_shrimp/status/2112406897743839324)** — 以Claude检测器为准，用干净独享海外IP等方法防止Claude封号的实操与原理。  
+  @tech_shrimp · 2026-10-20
 - **[美区礼品卡充值方式盘点](https://x.com/Lonely__MH/status/2110883671628460167)** — 汇总支付宝Pockyt、Apple官网、美区PayPal自动扣款等为美区账号充值以订阅Claude的方法。  
   @Lonely__MH · 2026-10-16
 - **[防Claude封号资源](https://x.com/dashiAIxz/status/2109837664803586056)** — 分享Gmail账号购买等防止Claude封号的关键资源。  
@@ -144,6 +237,8 @@
   @xiangxiang103 · 2026-10-02
 - **[Claude账号申诉攻略](https://x.com/AISuperDomain/status/2105660384350744770)** — Claude被封后如何申诉。  
   @AISuperDomain · 2026-10-01
+- **[长期用Claude与美国独享VPS](https://x.com/newbeeyu/status/2104763468360642916)** — 介绍长期稳定使用Claude及搭配美国独享VPS的方法。  
+  @newbeeyu · 2026-09-29
 - **[GPT降智与封号原因](https://x.com/yanxi067/status/2100469616783102183)** — GPT变笨、账号被封原因与自查清单。  
   @yanxi067 · 2026-09-17
 - **[官方订阅ChatGPT/Claude](https://x.com/suversal/status/2097245420397404529)** — 不找代充，自己官方订阅ChatGPT/Claude的方法。  
@@ -151,45 +246,24 @@
 - **[美区Apple ID+PayPal+Starryblu订阅Claude](https://x.com/Lonely__MH/status/2093347789459906831)** — 介绍用美区Apple ID、美区PayPal搭配Starryblu卡内购订阅Claude，被封号也方便退款。  
   @Lonely__MH · 2026-08-28
 
-<a id="cat-3"></a>
-
-## AI 编程与开发工具（15）
-
-- **[AI新闻雷达开源项目](https://x.com/grgerwcwetwet/status/2110697299819319741)** — 聚合 X、Telegram、Reddit 等多源并用 AI 筛选评分、生成中英文每日简报的开源项目。  
-  @grgerwcwetwet · 2026-10-15
-- **[Claude+Atypica做网站出单](https://x.com/gkxspace/status/2109970698303373750)** — 用Claude快速建站并借Atypica做市场分析，网站开始出单。  
-  @gkxspace · 2026-10-13
-- **[Magpie：ccswitch替代品](https://x.com/qizong007/status/2109871900297928909)** — 推荐Magpie，可多账号路由Codex等，功能强于ccswitch。  
-  @qizong007 · 2026-10-13
-- **[技术图解类开源项目](https://x.com/seekjourney/status/2109837538831765731)** — Archify、Diagram Design等技术图解项目登上GitHub Trending。  
-  @seekjourney · 2026-10-13
-- **[Codex无人值守跑3天](https://x.com/yupi996/status/2109802044189970471)** — 开发者dzhng让Codex连续自主运行3天并开源成Skill。  
-  @yupi996 · 2026-10-13
-- **[MLH免费Cursor Pro避坑](https://x.com/lidageai/status/2109416559043383395)** — MLH活动领取Cursor Pro兑换码的避坑指南。  
-  @lidageai · 2026-10-12
-- **[免费白嫖Cursor Pro](https://x.com/xiaomovps/status/2109209672192500125)** — MLH Global Hack Week免学生认证送Cursor Pro。  
-  @xiaomovps · 2026-10-11
-- **[Cloudflare从入门到精通](https://x.com/xiaomovps/status/2108371593747709979)** — 万字长文讲用Cloudflare搞定建站、邮箱、存储和AI后端。  
-  @xiaomovps · 2026-10-09
-- **[28元搭建个人网站](https://x.com/Chchenhao0129/status/2106257023910441081)** — 从0到1低成本搭建个人网站。  
-  @Chchenhao0129 · 2026-10-03
-- **[理解语言模型输出的建议](https://x.com/karpathy/status/2105819303471976479)** — 关于花更多时间理解LLM输出的思考与技巧（英文）。  
-  @karpathy · 2026-10-02
-- **[免费域名邮箱教程](https://x.com/Lonely__MH/status/2104878176811807050)** — Cloudflare+Gmail+Resend 5分钟配置免费个人域名邮箱。  
-  @Lonely__MH · 2026-09-29
-- **[JEV全自动答题](https://x.com/SUOHA_AI/status/2102091983292358839)** — 用JEV 21秒自动完成阿里云AI认证模拟考。  
-  @SUOHA_AI · 2026-09-22
-- **[Matt Pocock访谈：grill me](https://x.com/shao__meng/status/2100560279209979934)** — Skills作者谈grill me与wayfinder工作流。  
-  @shao__meng · 2026-09-17
-- **[更高效的Grill-Me用法](https://x.com/kasong2048/status/2100509534880137457)** — 把需求对齐视为需求树遍历的更高效方法。  
-  @kasong2048 · 2026-09-17
-- **[网页版ChatGPT接手本地项目](https://x.com/samdychan/status/2098276183867789567)** — Codex额度用完后用网页ChatGPT继续本地开发的教程。  
-  @samdychan · 2026-09-11
-
 <a id="cat-4"></a>
 
-## 自媒体运营与赚钱（10）
+## 自媒体运营与赚钱（17）
 
+- **[198位值得关注的中文X博主](https://x.com/AI_Jasonyu/status/2112564298429927449)** — 2026下半年值得关注的198位中文X博主重筛榜单。  
+  @AI_Jasonyu · 2026-10-20
+- **[BlueV插件做爆文海报](https://x.com/NFTCPS/status/2112462184945192994)** — 用BlueV浏览器插件把X爆款推文做成海报转发获取流量的方法。  
+  @NFTCPS · 2026-10-20
+- **[X两个月涨粉一万复盘](https://x.com/KinGao476942/status/2112198262661017812)** — 作者不到2个月涨到1万粉的经验、实操建议与模板。  
+  @KinGao476942 · 2026-10-19
+- **[小红书电商教程（1）](https://x.com/HytidelLegend/status/2112177915555410093)** — 小红书电商系列教程第一篇：赛道选择与开店流程。  
+  @HytidelLegend · 2026-10-19
+- **[小红书支持AI内容流量](https://x.com/Mileson07/status/2111817195886182908)** — 小红书开始给AI内容送流量，附流量标签说明。  
+  @Mileson07 · 2026-10-18
+- **[自媒体找热点三个网站](https://x.com/BossBear_0621/status/2111692069081075751)** — 推荐SoPilot、NewsNow、今日热榜三个找一手热点的网站。  
+  @BossBear_0621 · 2026-10-18
+- **[小白写文章单篇收益3000](https://x.com/nieerai_dev/status/2111654291215991223)** — 作者从零写出6万曝光文章并获3000元收益的经验。  
+  @nieerai_dev · 2026-10-18
 - **[小红书首批笔记怎么写](https://x.com/JessiCao_JC/status/2110614414890283326)** — 两周破万曝光、涨粉的定位选题与发布后调整清单，共 12 篇可照着做。  
   @JessiCao_JC · 2026-10-15
 - **[X创作者收益到账众安银行](https://x.com/realchendahuang/status/2110225994527494326)** — 作者分享X创作者分成到账众安银行，鼓励在X上活跃。  
@@ -213,8 +287,20 @@
 
 <a id="cat-5"></a>
 
-## Grok Bot 玩法（6）
+## Grok Bot 玩法（13）
 
+- **[53个Grok Bot模板分类合集](https://x.com/yaohongan2025/status/2112348685778489753)** — 按七类场景整理53个可一键复制的Grok Bot调教模板。  
+  @yaohongan2025 · 2026-10-20
+- **[用Grok Bot搭建X运营流程](https://x.com/SIAxiom/status/2111689540792655982)** — 10步用Grok Bot完成选题、创作、定时任务与复盘的X运营方案。  
+  @SIAxiom · 2026-10-18
+- **[Grok Bot接进微信实操](https://x.com/EvanWritesX/status/2111661828749373784)** — 把Grok Bot接入微信，发一句话让它去干活的教程。  
+  @EvanWritesX · 2026-10-18
+- **[Grok Bot是最好的产品](https://x.com/bei351009016/status/2111638973198016621)** — 作者称Grok Bot是最近用过最好的产品。  
+  @bei351009016 · 2026-10-18
+- **[Grok Bot必读文章合集](https://x.com/0xlangeai/status/2111396742264742034)** — 按9个分类整理24篇高阅读量Grok Bot文章。  
+  @0xlangeai · 2026-10-17
+- **[Grok Bot+Pi Agent+DeepSeek省额度](https://x.com/fankaishuoai/status/2111258866877190576)** — 让Grok Bot调度Pi Agent和DeepSeek，避免套餐额度不够用。  
+  @fankaishuoai · 2026-10-17
 - **[官方教你跑Grok Bot团队](https://x.com/CarsonYangk8s/status/2110593952290418918)** — 官方教程讲解如何用几十个 Grok Bot 组成可自我迭代升级的团队。  
   @CarsonYangk8s · 2026-10-15
 - **[用Grok Bot打造纯净时间线](https://x.com/HiTw93/status/2110154365667336695)** — 分享让Grok Bot每晚整理中文推特精选的提示词。  
@@ -223,6 +309,8 @@
   @op7418 · 2026-10-08
 - **[Grok Bot每天出AI早报视频](https://x.com/op7418/status/2108148604447883464)** — 让Grok Bot在云端自动生成每日AI早报视频。  
   @op7418 · 2026-10-08
+- **[Grok Bot接入微信指南](https://x.com/KinGao476942/status/2108132811635032316)** — 把Grok Bot接入微信的保姆级教程与提示词。  
+  @KinGao476942 · 2026-10-08
 - **[自媒体如何用好Grok Bot](https://x.com/KinGao476942/status/2099736121781764594)** — 介绍做自媒体时使用Grok Bot的方法。  
   @KinGao476942 · 2026-09-15
 - **[用Grok Bot搭建自媒体团队](https://x.com/AdrianPunk115/status/2097311704547987756)** — 保姆级教程：用Grok Bot组建自媒体工作流。  
@@ -230,8 +318,10 @@
 
 <a id="cat-6"></a>
 
-## 学习教育与思维（6）
+## 学习教育与思维（8）
 
+- **[2小时建立AI认知体系](https://x.com/long_jingai/status/2111356255889723723)** — 一篇文章带零基础读者系统了解AI（企业内训同款）。  
+  @long_jingai · 2026-10-17
 - **[每日必看的三个网站](https://x.com/WY_mask/status/2109685526567764019)** — 推荐中文聚合海外热点新闻等三个每日浏览网站。  
   @WY_mask · 2026-10-13
 - **[3D互动地理沙盘课件](https://x.com/readyfor2025/status/2108409664018977249)** — 融合自然地理历史等12主题的互动3D学习课件。  
@@ -240,6 +330,8 @@
   @jinglian · 2026-10-08
 - **[GitHub人生建议仓库](https://x.com/BossBear_0621/status/2106766370285441195)** — 39.6K星项目，34主题654条关于钱与自由的人生建议。  
   @BossBear_0621 · 2026-10-04
+- **[托马斯的硅谷来信001](https://x.com/thomaszhou_/status/2103401515822272782)** — 探讨AI投简历与AI筛简历时代个人能力如何被看见。  
+  @thomaszhou_ · 2026-09-25
 - **[Claude生成地理教学视频](https://x.com/akokoi1/status/2102606609574941028)** — 老师用Opus 5.5一段提示词生成“大气环流”讲解视频的教程。  
   @akokoi1 · 2026-09-23
 - **[四大思维模型](https://x.com/knowledgefxg/status/2099884732855341478)** — 第一性原理、贝叶斯、复利、逆向思维。  
@@ -247,23 +339,31 @@
 
 <a id="cat-7"></a>
 
-## 银行卡与支付（5）
+## 银行卡与支付（8）
 
+- **[从买Claude到云居民](https://x.com/qwerty__cs/status/2111704218608472143)** — 作者回顾为订阅AI学会U卡、港卡、美卡、PayPal等海外金融工具的历程。  
+  @qwerty__cs · 2026-10-18
 - **[Starryblu六边形战士卡](https://x.com/mjjwiki/status/2110377155716849846)** — 介绍兼具 Wise、港卡、U 卡优点的 Starryblu，可免费换汇、资金回国和订阅海外 AI。  
   @mjjwiki · 2026-10-14
 - **[免费领众安黑卡](https://x.com/wk95_free/status/2109914060242493571)** — 免费申请众安实体黑卡，填国内地址4天寄到。  
   @wk95_free · 2026-10-13
 - **[众安5元拿实体卡](https://x.com/wk95_free/status/2108368674486894608)** — 闲鱼拼团成为众安V2用户即可低价/免费领取实体卡。  
   @wk95_free · 2026-10-09
+- **[Gate U卡与加密货币入门](https://x.com/SwordXyj/status/2108134202457706990)** — 带新手开通Gate Card U卡、C2C换U和理解链上交易。  
+  @SwordXyj · 2026-10-08
 - **[美区PayPal注册教程](https://x.com/xmglab/status/2107776021038764484)** — 注册美区PayPal用于美区Apple Store订阅。  
   @xmglab · 2026-10-07
+- **[Bybit台湾U卡开卡教程](https://x.com/daitu0822/status/2102674335559520697)** — Bybit Card台湾卡开通教程，可绑支付宝微信ApplePay并订阅ChatGPT。  
+  @daitu0822 · 2026-09-23
 - **[Wise收港币与X分成](https://x.com/fly3nn/status/2101923625196806433)** — 大陆用户开通Wise港币收款需先入约200港币的说明。  
   @fly3nn · 2026-09-21
 
 <a id="cat-8"></a>
 
-## 娱乐与其他（3）
+## 娱乐与其他（4）
 
+- **[免费4C4G我的世界服务器](https://x.com/yedabinbinah/status/2112114280367583461)** — MCServerHost提供免费4核4G的Minecraft游戏服务器。  
+  @yedabinbinah · 2026-10-19
 - **[好看短剧推荐清单](https://x.com/fhwofjow51260/status/2109984587405533386)** — 推荐《持械入宋》《洪武苟长生》等多部穿越类短剧。  
   @fhwofjow51260 · 2026-10-13
 - **[AI短剧《持械入宋》](https://x.com/HanPaoao/status/2109955505678623154)** — 作者推荐800集AI短剧《持械入宋》，感叹AI将取代明星。  
