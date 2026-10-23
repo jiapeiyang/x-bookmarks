@@ -2,16 +2,16 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **164** 条书签 · 最后更新：2026-10-22 09:15（北京时间）
+共 **169** 条书签 · 最后更新：2026-10-23 09:23（北京时间）
 
 ## 目录
 
 - [翻墙 / VPS / 网络节点](#cat-0) — 35 条
-- [AI 创作（视频/游戏/3D）](#cat-1) — 29 条
-- [AI 编程与开发工具](#cat-2) — 28 条
-- [自媒体运营与赚钱](#cat-3) — 20 条
-- [Claude·ChatGPT 账号与订阅](#cat-4) — 18 条
-- [Grok Bot 玩法](#cat-5) — 14 条
+- [AI 创作（视频/游戏/3D）](#cat-1) — 30 条
+- [AI 编程与开发工具](#cat-2) — 29 条
+- [自媒体运营与赚钱](#cat-3) — 21 条
+- [Claude·ChatGPT 账号与订阅](#cat-4) — 19 条
+- [Grok Bot 玩法](#cat-5) — 15 条
 - [学习教育与思维](#cat-6) — 8 条
 - [银行卡与支付](#cat-7) — 8 条
 - [娱乐与其他](#cat-8) — 4 条
@@ -93,8 +93,10 @@
 
 <a id="cat-1"></a>
 
-## AI 创作（视频/游戏/3D）（29）
+## AI 创作（视频/游戏/3D）（30）
 
+- **[Lemo-Opuscar 更新：8 种新风格](https://x.com/lemomo_ai/status/2113195080517562646)** — Lemo-Opuscar 风格库大更新，新增 8 种风格和改编玩法，变成风格制作工具箱。  
+  @lemomo_ai · 2026-10-22
 - **[ChatGPT×Muse一图做微电影](https://x.com/vincent_ddup/status/2112547806946677038)** — ChatGPT负责导演分镜、Muse负责成片，用一张图做出《世界之树》微电影。  
   @vincent_ddup · 2026-10-20
 - **[「Vibe知识大赏」爆款知识短片教程](https://x.com/guanmo_ai/status/2112525216924807210)** — 拆解抖音Vibe知识大赏赛道的选题、标题钩子和视觉风格，用Opus代码生成知识短片，附完整提示词。  
@@ -156,8 +158,10 @@
 
 <a id="cat-2"></a>
 
-## AI 编程与开发工具（28）
+## AI 编程与开发工具（29）
 
+- **[Claude Code 90 秒破解酒店门锁](https://x.com/make_claude/status/2112962578020217145)** — 讲述用 Claude Code 扫描酒店房间蓝牙设备，逆向老旧 BLE 协议打开门锁的故事。  
+  @make_claude · 2026-10-22
 - **[谷歌8.99美元订阅Bug](https://x.com/mjjwiki/status/2112560043531133408)** — 吐槽谷歌只修复了美区8.99美元订阅漏洞，Antigravity中Gemini 4 Argon或被滥用。  
   @mjjwiki · 2026-10-20
 - **[Magpie：统一管理多个AI编程工具的模型](https://x.com/vincemask/status/2112528519091945666)** — 开源本地网关Magpie，统一管理Claude Code、Codex等Agent的模型与API，支持协议互转、复用订阅和自动切换。  
@@ -217,8 +221,10 @@
 
 <a id="cat-3"></a>
 
-## 自媒体运营与赚钱（20）
+## 自媒体运营与赚钱（21）
 
+- **[跑通第一个 1 万元副业的 5 个思路](https://x.com/Qitiankeaiduola/status/2113121065933439433)** — 从已有经验或反复出现的问题出发做最小方案卖给真实用户，分享 5 个副业起步思路。  
+  @Qitiankeaiduola · 2026-10-22
 - **[小红书电商教程（2）：选品全流程](https://x.com/HytidelLegend/status/2112912008320552974)** — 从选品逻辑、拼多多/抖店/灰豚数据选品、小红书对标号到1688供应商与面单发货的无货源选品全流程。  
   @HytidelLegend · 2026-10-21
 - **[公众号发帖赚钱，客单价很高](https://x.com/youtiao99/status/2112799102933360850)** — 分享一个通过公众号发帖赚钱、客单价很高的副业机会（配图说明）。  
@@ -262,8 +268,10 @@
 
 <a id="cat-4"></a>
 
-## Claude·ChatGPT 账号与订阅（18）
+## Claude·ChatGPT 账号与订阅（19）
 
+- **[Claude 注册跳过 KYC 的方法](https://x.com/aehyok/status/2113160491573068260)** — 先在 Claude 开发者平台注册并选「个人」，再登录 claude.ai，即可免 KYC 注册普号。  
+  @aehyok · 2026-10-22
 - **[长期稳定使用Claude订阅](https://x.com/tech_shrimp/status/2112406897743839324)** — 以Claude检测器为准，用干净独享海外IP等方法防止Claude封号的实操与原理。  
   @tech_shrimp · 2026-10-20
 - **[美区礼品卡充值方式盘点](https://x.com/Lonely__MH/status/2110883671628460167)** — 汇总支付宝Pockyt、Apple官网、美区PayPal自动扣款等为美区账号充值以订阅Claude的方法。  
@@ -303,8 +311,10 @@
 
 <a id="cat-5"></a>
 
-## Grok Bot 玩法（14）
+## Grok Bot 玩法（15）
 
+- **[7 个 Grok Bot 副业接单模式](https://x.com/0xluffy_eth/status/2113088019628777551)** — 用 Grok Bot 做副业的 7 种接单模式，含工作流、定价方法、审稿清单和 30 天起步计划。  
+  @0xluffy_eth · 2026-10-22
 - **[Grok Bot 新手指南中文学习站](https://x.com/cgnot996/status/2112761781080965416)** — 铁柱AGI整理的开源非官方中文学习站，四篇25章，从跑通第一个任务到触发器与多Bot协作，附案例和模板。  
   @cgnot996 · 2026-10-21
 - **[53个Grok Bot模板分类合集](https://x.com/yaohongan2025/status/2112348685778489753)** — 按七类场景整理53个可一键复制的Grok Bot调教模板。  
