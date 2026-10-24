@@ -2,24 +2,28 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **169** 条书签 · 最后更新：2026-10-23 09:23（北京时间）
+共 **177** 条书签 · 最后更新：2026-10-24 09:18（北京时间）
 
 ## 目录
 
-- [翻墙 / VPS / 网络节点](#cat-0) — 35 条
-- [AI 创作（视频/游戏/3D）](#cat-1) — 30 条
-- [AI 编程与开发工具](#cat-2) — 29 条
-- [自媒体运营与赚钱](#cat-3) — 21 条
+- [翻墙 / VPS / 网络节点](#cat-0) — 38 条
+- [AI 创作（视频/游戏/3D）](#cat-1) — 31 条
+- [AI 编程与开发工具](#cat-2) — 30 条
+- [自媒体运营与赚钱](#cat-3) — 22 条
 - [Claude·ChatGPT 账号与订阅](#cat-4) — 19 条
-- [Grok Bot 玩法](#cat-5) — 15 条
+- [Grok Bot 玩法](#cat-5) — 16 条
 - [学习教育与思维](#cat-6) — 8 条
 - [银行卡与支付](#cat-7) — 8 条
-- [娱乐与其他](#cat-8) — 4 条
+- [娱乐与其他](#cat-8) — 5 条
 
 <a id="cat-0"></a>
 
-## 翻墙 / VPS / 网络节点（35）
+## 翻墙 / VPS / 网络节点（38）
 
+- **[DediRock 美国 VPS 年付 9.88 美元起](https://x.com/gwvpsceping/status/2113606354053235051)** — DediRock 纽约/洛杉矶 VPS 年付特价，1核2G，下单后可发工单申请流量翻倍和 IPv6。  
+  @gwvpsceping · 2026-10-23
+- **[3 个 GitHub VPS 测评神器](https://x.com/0xjackkk/status/2113422170957459661)** — 推荐融合怪 ECS、NodeQuality、YABS 三个 VPS 测评脚本，买完小鸡先测 IP 质量、回程和速度。  
+  @0xjackkk · 2026-10-23
 - **[VMISS洛杉矶三网TRI放货预告](https://x.com/vpsing_de/status/2112584484277375231)** — VMISS将放出洛杉矶最便宜的三网优化TRI机器。  
   @vpsing_de · 2026-10-21
 - **[黑五VPS重点商家清单](https://x.com/0xjackkk/status/2112459283740926175)** — 整理VMISS、绿云、RackNerd等5家黑五重点蹲守的VPS商家。  
@@ -48,6 +52,8 @@
   @baofuzailushang · 2026-10-12
 - **[2026最强翻墙工具清单](https://x.com/404jsh/status/2109321637539746006)** — 整理2026年主流翻墙工具清单。  
   @404jsh · 2026-10-12
+- **[手把手白嫖 Google Cloud 永久免费 VPS（2026 版）](https://x.com/de_badcat/status/2108835879519506458)** — GCP e2-micro 永久免费实例的申请与配置避坑教程，包括绑卡预授权、区域、磁盘、网络层级等。  
+  @de_badcat · 2026-10-10
 - **[2026年VPS选购指南](https://x.com/suversal/status/2108829483100954990)** — 从线路、机房、套餐全面讲解VPS选购。  
   @suversal · 2026-10-10
 - **[两个常用科学上网脚本](https://x.com/PanXing0827/status/2108810788945498434)** — 科技lion VPS优化脚本与甬哥一键多协议节点脚本。  
@@ -93,7 +99,7 @@
 
 <a id="cat-1"></a>
 
-## AI 创作（视频/游戏/3D）（30）
+## AI 创作（视频/游戏/3D）（31）
 
 - **[Lemo-Opuscar 更新：8 种新风格](https://x.com/lemomo_ai/status/2113195080517562646)** — Lemo-Opuscar 风格库大更新，新增 8 种风格和改编玩法，变成风格制作工具箱。  
   @lemomo_ai · 2026-10-22
@@ -155,11 +161,15 @@
   @xenit_v0 · 2026-09-10
 - **[GPT6 vs GPT5.6生成对比](https://x.com/Jolyne_AI/status/2097530771028476047)** — 同一提示词下GPT6生成效果震撼。  
   @Jolyne_AI · 2026-09-09
+- **[旅行照片转极简纸感丙烯手绘提示词](https://x.com/AdrianPunk115/status/2089960426624758079)** — 一套把照片提炼成粗糙白纸、少量线条加鲜明丙烯色块、大留白风格封面插画的提示词。  
+  @AdrianPunk115 · 2026-08-19
 
 <a id="cat-2"></a>
 
-## AI 编程与开发工具（29）
+## AI 编程与开发工具（30）
 
+- **[Claude Code 远程方案：Tailscale + SSH + tmux](https://x.com/xiaomovps/status/2113664233493983317)** — 用 Tailscale 组网、SSH 远程、tmux 保持会话，随时随地稳定使用家里电脑上的 Claude Code。  
+  @xiaomovps · 2026-10-24
 - **[Claude Code 90 秒破解酒店门锁](https://x.com/make_claude/status/2112962578020217145)** — 讲述用 Claude Code 扫描酒店房间蓝牙设备，逆向老旧 BLE 协议打开门锁的故事。  
   @make_claude · 2026-10-22
 - **[谷歌8.99美元订阅Bug](https://x.com/mjjwiki/status/2112560043531133408)** — 吐槽谷歌只修复了美区8.99美元订阅漏洞，Antigravity中Gemini 4 Argon或被滥用。  
@@ -221,8 +231,10 @@
 
 <a id="cat-3"></a>
 
-## 自媒体运营与赚钱（21）
+## 自媒体运营与赚钱（22）
 
+- **[用 GamsGo 推广 AI 账号订阅做副业](https://x.com/songguoxiansen/status/2113248319237718175)** — 分享通过 GamsGo 推广链接帮人开通 Codex、Claude 等 AI 账号赚佣金的副业思路与分发渠道。  
+  @songguoxiansen · 2026-10-22
 - **[跑通第一个 1 万元副业的 5 个思路](https://x.com/Qitiankeaiduola/status/2113121065933439433)** — 从已有经验或反复出现的问题出发做最小方案卖给真实用户，分享 5 个副业起步思路。  
   @Qitiankeaiduola · 2026-10-22
 - **[小红书电商教程（2）：选品全流程](https://x.com/HytidelLegend/status/2112912008320552974)** — 从选品逻辑、拼多多/抖店/灰豚数据选品、小红书对标号到1688供应商与面单发货的无货源选品全流程。  
@@ -311,10 +323,12 @@
 
 <a id="cat-5"></a>
 
-## Grok Bot 玩法（15）
+## Grok Bot 玩法（16）
 
 - **[7 个 Grok Bot 副业接单模式](https://x.com/0xluffy_eth/status/2113088019628777551)** — 用 Grok Bot 做副业的 7 种接单模式，含工作流、定价方法、审稿清单和 30 天起步计划。  
   @0xluffy_eth · 2026-10-22
+- **[发挥 Grok Bot 最强实力的 7 个底层用法](https://x.com/Jackywxsz/status/2112831856777605166)** — 从 Bot 军团分工、产物落盘、知识库打通、Skill、模型混合调度到 Routine 自动化，讲透 Grok Bot 进阶用法。  
+  @Jackywxsz · 2026-10-21
 - **[Grok Bot 新手指南中文学习站](https://x.com/cgnot996/status/2112761781080965416)** — 铁柱AGI整理的开源非官方中文学习站，四篇25章，从跑通第一个任务到触发器与多Bot协作，附案例和模板。  
   @cgnot996 · 2026-10-21
 - **[53个Grok Bot模板分类合集](https://x.com/yaohongan2025/status/2112348685778489753)** — 按七类场景整理53个可一键复制的Grok Bot调教模板。  
@@ -388,7 +402,7 @@
 
 <a id="cat-8"></a>
 
-## 娱乐与其他（4）
+## 娱乐与其他（5）
 
 - **[免费4C4G我的世界服务器](https://x.com/yedabinbinah/status/2112114280367583461)** — MCServerHost提供免费4核4G的Minecraft游戏服务器。  
   @yedabinbinah · 2026-10-19
@@ -398,6 +412,8 @@
   @HanPaoao · 2026-10-13
 - **[各平台视频下载网站](https://x.com/xupaopaogm/status/2106036491050975361)** — X、抖音、TikTok、小红书、B站视频下载工具。  
   @xupaopaogm · 2026-10-02
+- **[iPhone 多区 Apple ID 同时更新下载的小技巧](https://x.com/xiangxiang103/status/2070562452492968236)** — 通过备忘录添加外区 iCloud 账户并信任设备，免切换账号即可更新多区 App。  
+  @xiangxiang103 · 2026-06-27
 
 ## 如何更新
 
