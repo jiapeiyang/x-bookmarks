@@ -2,24 +2,26 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **184** 条书签 · 最后更新：2026-10-25 09:18（北京时间）
+共 **192** 条书签 · 最后更新：2026-10-25 21:34（北京时间）
 
 ## 目录
 
-- [翻墙 / VPS / 网络节点](#cat-0) — 41 条
-- [AI 创作（视频/游戏/3D）](#cat-1) — 31 条
+- [翻墙 / VPS / 网络节点](#cat-0) — 42 条
+- [AI 创作（视频/游戏/3D）](#cat-1) — 32 条
 - [AI 编程与开发工具](#cat-2) — 31 条
-- [自媒体运营与赚钱](#cat-3) — 22 条
+- [自媒体运营与赚钱](#cat-3) — 27 条
 - [Claude·ChatGPT 账号与订阅](#cat-4) — 21 条
-- [Grok Bot 玩法](#cat-5) — 16 条
+- [Grok Bot 玩法](#cat-5) — 17 条
 - [学习教育与思维](#cat-6) — 8 条
 - [银行卡与支付](#cat-7) — 8 条
 - [娱乐与其他](#cat-8) — 6 条
 
 <a id="cat-0"></a>
 
-## 翻墙 / VPS / 网络节点（41）
+## 翻墙 / VPS / 网络节点（42）
 
+- **[DediRock 美国 VPS 年付 9.88 美元特价](https://x.com/gwvpsceping/status/2114295918342156443)** — 纽约、洛杉矶双节点，1 核 2G、30G SSD、2TB 月流量，适合建站和测试。  
+  @gwvpsceping · 2026-10-25
 - **[免费 VPS 推荐安装的 10 个开源项目](https://x.com/0xjackkk/status/2114043891716612409)** — 甲骨文免费 ARM 开出来后可部署 Uptime Kuma、New API、Vaultwarden 等实用开源项目。  
   @0xjackkk · 2026-10-25
 - **[白嫖的 GCP VPS 能干什么](https://x.com/NkaNkOMG/status/2113976760786387147)** — 小内存云服务器的九种玩法：建站、监控、RSS、推送、Git 仓库、API、定时任务、Tailscale 组网和学 Linux。  
@@ -105,8 +107,10 @@
 
 <a id="cat-1"></a>
 
-## AI 创作（视频/游戏/3D）（31）
+## AI 创作（视频/游戏/3D）（32）
 
+- **[AI 音乐短片《茶汤》六步制作全流程](https://x.com/xitang_ai/status/2114258652928381298)** — 拆解从找对标、写剧本、做角色场景到即梦生视频、剪映后期的完整 AI 短片制作流程，附提示词。  
+  @xitang_ai · 2026-10-25
 - **[Lemo-Opuscar 更新：8 种新风格](https://x.com/lemomo_ai/status/2113195080517562646)** — Lemo-Opuscar 风格库大更新，新增 8 种风格和改编玩法，变成风格制作工具箱。  
   @lemomo_ai · 2026-10-22
 - **[ChatGPT×Muse一图做微电影](https://x.com/vincent_ddup/status/2112547806946677038)** — ChatGPT负责导演分镜、Muse负责成片，用一张图做出《世界之树》微电影。  
@@ -239,8 +243,12 @@
 
 <a id="cat-3"></a>
 
-## 自媒体运营与赚钱（22）
+## 自媒体运营与赚钱（27）
 
+- **[用 AI 搭小红书变现工作流的心得](https://x.com/liuqindong888/status/2114159223240306889)** — 让 Codex/Claude Code 等 AI 用苏格拉底式提问陪你搭建定位、素材库、出稿、复盘的闭环工作流。  
+  @liuqindong888 · 2026-10-25
+- **[小红书个人售卖卖壁纸从 0 到第一单](https://x.com/TodayKan/status/2113904947565613388)** — 用 Grok Bot 做壁纸和文案，通过小红书个人售卖免开店门槛变现的保姆级教程。  
+  @TodayKan · 2026-10-24
 - **[用 GamsGo 推广 AI 账号订阅做副业](https://x.com/songguoxiansen/status/2113248319237718175)** — 分享通过 GamsGo 推广链接帮人开通 Codex、Claude 等 AI 账号赚佣金的副业思路与分发渠道。  
   @songguoxiansen · 2026-10-22
 - **[跑通第一个 1 万元副业的 5 个思路](https://x.com/Qitiankeaiduola/status/2113121065933439433)** — 从已有经验或反复出现的问题出发做最小方案卖给真实用户，分享 5 个副业起步思路。  
@@ -275,16 +283,22 @@
   @mjjwiki · 2026-10-13
 - **[搬运AI资讯到小红书赚钱](https://x.com/AndyL5cc/status/2109947481870217540)** — 把Reddit/X上的AI资讯翻译发小红书接商单的思路。  
   @AndyL5cc · 2026-10-13
+- **[微信公众号流量主入门教程](https://x.com/Boki106658/status/2109565827783745570)** — 从注册公众号、积累读者到开通流量主、设置广告和结算收益的手把手教程，门槛已降到 100 粉。  
+  @Boki106658 · 2026-10-12
 - **[7个网站日赚2000](https://x.com/huoshan007/status/2109237323175264749)** — 按7个网站操作的网络赚钱方法（需翻墙）。  
   @huoshan007 · 2026-10-11
 - **[X原创奖励中文榜单](https://x.com/0xarthurzs/status/2108874197070188588)** — X第二期创作者奖励中文榜单、趋势与蓝V收益计算。  
   @0xarthurzs · 2026-10-10
 - **[AI代充批发网站](https://x.com/donniy520/status/2107651354743165359)** — 低价代充蓝V、Muse、Gemini Pro、多邻国等的批发站。  
   @donniy520 · 2026-10-07
+- **[X 原创内容奖励开通与 Stripe 港卡收款教程](https://x.com/niaoshu/status/2104158675430777055)** — X 创作者收益申请门槛、身份验证，以及切换香港地区用 Stripe 绑定港卡/Wise 收款的详细步骤。  
+  @niaoshu · 2026-09-27
 - **[AI做抖音Skill](https://x.com/ChengYi3629/status/2097611763391119504)** — native-subtitle-quote-image 2.0技能做抖音，平均赞藏上千。  
   @ChengYi3629 · 2026-09-09
 - **[公众号起号教程](https://x.com/isnail/status/2060928267046060445)** — 公众号新号从0到1起号SOP与提示词。  
   @isnail · 2026-05-31
+- **[公众号日更 60 天变现 1 万+复盘](https://x.com/wangzan101/status/2009124320157593617)** — 研究生泛类公众号日更两个月涨粉九千、6 篇 10w+，复盘选题、算法与流量主/广告变现。  
+  @wangzan101 · 2026-01-08
 
 <a id="cat-4"></a>
 
@@ -335,8 +349,10 @@
 
 <a id="cat-5"></a>
 
-## Grok Bot 玩法（16）
+## Grok Bot 玩法（17）
 
+- **[「我看谁不学 Grok bot」Day1：打通 IM 与本地设备](https://x.com/czzzzzzJ_/status/2114204952403030210)** — 讲解把微信变成接收 Bot 成果的入口，以及给常驻工作站配专属管家 Bot 的玩法。  
+  @czzzzzzJ_ · 2026-10-25
 - **[7 个 Grok Bot 副业接单模式](https://x.com/0xluffy_eth/status/2113088019628777551)** — 用 Grok Bot 做副业的 7 种接单模式，含工作流、定价方法、审稿清单和 30 天起步计划。  
   @0xluffy_eth · 2026-10-22
 - **[发挥 Grok Bot 最强实力的 7 个底层用法](https://x.com/Jackywxsz/status/2112831856777605166)** — 从 Bot 军团分工、产物落盘、知识库打通、Skill、模型混合调度到 Routine 自动化，讲透 Grok Bot 进阶用法。  
