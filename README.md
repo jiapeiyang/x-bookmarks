@@ -2,26 +2,32 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **177** 条书签 · 最后更新：2026-10-24 09:18（北京时间）
+共 **184** 条书签 · 最后更新：2026-10-25 09:18（北京时间）
 
 ## 目录
 
-- [翻墙 / VPS / 网络节点](#cat-0) — 38 条
+- [翻墙 / VPS / 网络节点](#cat-0) — 41 条
 - [AI 创作（视频/游戏/3D）](#cat-1) — 31 条
-- [AI 编程与开发工具](#cat-2) — 30 条
+- [AI 编程与开发工具](#cat-2) — 31 条
 - [自媒体运营与赚钱](#cat-3) — 22 条
-- [Claude·ChatGPT 账号与订阅](#cat-4) — 19 条
+- [Claude·ChatGPT 账号与订阅](#cat-4) — 21 条
 - [Grok Bot 玩法](#cat-5) — 16 条
 - [学习教育与思维](#cat-6) — 8 条
 - [银行卡与支付](#cat-7) — 8 条
-- [娱乐与其他](#cat-8) — 5 条
+- [娱乐与其他](#cat-8) — 6 条
 
 <a id="cat-0"></a>
 
-## 翻墙 / VPS / 网络节点（38）
+## 翻墙 / VPS / 网络节点（41）
 
+- **[免费 VPS 推荐安装的 10 个开源项目](https://x.com/0xjackkk/status/2114043891716612409)** — 甲骨文免费 ARM 开出来后可部署 Uptime Kuma、New API、Vaultwarden 等实用开源项目。  
+  @0xjackkk · 2026-10-25
+- **[白嫖的 GCP VPS 能干什么](https://x.com/NkaNkOMG/status/2113976760786387147)** — 小内存云服务器的九种玩法：建站、监控、RSS、推送、Git 仓库、API、定时任务、Tailscale 组网和学 Linux。  
+  @NkaNkOMG · 2026-10-24
 - **[DediRock 美国 VPS 年付 9.88 美元起](https://x.com/gwvpsceping/status/2113606354053235051)** — DediRock 纽约/洛杉矶 VPS 年付特价，1核2G，下单后可发工单申请流量翻倍和 IPv6。  
   @gwvpsceping · 2026-10-23
+- **[开源 VPS 探针 Komari 部署教程](https://x.com/0xjackkk/status/2113596424248336670)** — 多台 VPS 集中监控的开源面板 Komari 介绍，附面板与 Agent 的 AI 部署提示词。  
+  @0xjackkk · 2026-10-23
 - **[3 个 GitHub VPS 测评神器](https://x.com/0xjackkk/status/2113422170957459661)** — 推荐融合怪 ECS、NodeQuality、YABS 三个 VPS 测评脚本，买完小鸡先测 IP 质量、回程和速度。  
   @0xjackkk · 2026-10-23
 - **[VMISS洛杉矶三网TRI放货预告](https://x.com/vpsing_de/status/2112584484277375231)** — VMISS将放出洛杉矶最便宜的三网优化TRI机器。  
@@ -166,8 +172,10 @@
 
 <a id="cat-2"></a>
 
-## AI 编程与开发工具（30）
+## AI 编程与开发工具（31）
 
+- **[用 VPS 搭建自己的 AI API 中转站](https://x.com/0xjackkk/status/2113972267386618086)** — 手把手教你在 VPS 上用 New API（可选 CLIProxyAPI）+ Docker + Nginx + Cloudflare 搭建 AI API 中转站。  
+  @0xjackkk · 2026-10-24
 - **[Claude Code 远程方案：Tailscale + SSH + tmux](https://x.com/xiaomovps/status/2113664233493983317)** — 用 Tailscale 组网、SSH 远程、tmux 保持会话，随时随地稳定使用家里电脑上的 Claude Code。  
   @xiaomovps · 2026-10-24
 - **[Claude Code 90 秒破解酒店门锁](https://x.com/make_claude/status/2112962578020217145)** — 讲述用 Claude Code 扫描酒店房间蓝牙设备，逆向老旧 BLE 协议打开门锁的故事。  
@@ -280,8 +288,12 @@
 
 <a id="cat-4"></a>
 
-## Claude·ChatGPT 账号与订阅（19）
+## Claude·ChatGPT 账号与订阅（21）
 
+- **[Gemini Pro 被退款后可再免费领一年](https://x.com/yedabinbinah/status/2113817581308334426)** — 被退款的用户用美国 IP 打开谷歌学生优惠链接，可再领取一年 Gemini Pro。  
+  @yedabinbinah · 2026-10-24
+- **[用 VPS + Magpie 降低 Claude 封号风险](https://x.com/vincemask/status/2113810654872424697)** — 把 Claude 账号绑定在美国 VPS 的 Magpie 上，本地 Claude Code 通过远程 Magpie 统一走 VPS 出口调用。  
+  @vincemask · 2026-10-24
 - **[Claude 注册跳过 KYC 的方法](https://x.com/aehyok/status/2113160491573068260)** — 先在 Claude 开发者平台注册并选「个人」，再登录 claude.ai，即可免 KYC 注册普号。  
   @aehyok · 2026-10-22
 - **[长期稳定使用Claude订阅](https://x.com/tech_shrimp/status/2112406897743839324)** — 以Claude检测器为准，用干净独享海外IP等方法防止Claude封号的实操与原理。  
@@ -402,8 +414,10 @@
 
 <a id="cat-8"></a>
 
-## 娱乐与其他（5）
+## 娱乐与其他（6）
 
+- **[iPhone 美区/国区 Apple ID 切换方案汇总](https://x.com/zstmfhy/status/2114010606831567277)** — 整理四种多区 Apple ID 用法，作者最终选择 iCloud 用国区、App Store 常驻美区。  
+  @zstmfhy · 2026-10-24
 - **[免费4C4G我的世界服务器](https://x.com/yedabinbinah/status/2112114280367583461)** — MCServerHost提供免费4核4G的Minecraft游戏服务器。  
   @yedabinbinah · 2026-10-19
 - **[好看短剧推荐清单](https://x.com/fhwofjow51260/status/2109984587405533386)** — 推荐《持械入宋》《洪武苟长生》等多部穿越类短剧。  
