@@ -2,19 +2,19 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **192** 条书签 · 最后更新：2026-10-25 21:34（北京时间）
+共 **204** 条书签 · 最后更新：2026-10-26 09:23（北京时间）
 
 ## 目录
 
 - [翻墙 / VPS / 网络节点](#cat-0) — 42 条
-- [AI 创作（视频/游戏/3D）](#cat-1) — 32 条
+- [AI 创作（视频/游戏/3D）](#cat-1) — 37 条
 - [AI 编程与开发工具](#cat-2) — 31 条
-- [自媒体运营与赚钱](#cat-3) — 27 条
+- [自媒体运营与赚钱](#cat-3) — 31 条
 - [Claude·ChatGPT 账号与订阅](#cat-4) — 21 条
-- [Grok Bot 玩法](#cat-5) — 17 条
-- [学习教育与思维](#cat-6) — 8 条
-- [银行卡与支付](#cat-7) — 8 条
-- [娱乐与其他](#cat-8) — 6 条
+- [Grok Bot 玩法](#cat-5) — 18 条
+- [娱乐与其他](#cat-6) — 8 条
+- [学习教育与思维](#cat-7) — 8 条
+- [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
 
@@ -107,10 +107,20 @@
 
 <a id="cat-1"></a>
 
-## AI 创作（视频/游戏/3D）（32）
+## AI 创作（视频/游戏/3D）（37）
 
+- **[只传配音用 Claude 做知识短视频](https://x.com/ji_she46383/status/2114397922494382362)** — 小白完整教程：只上传配音，用 Claude 自动生成知识类短视频。  
+  @ji_she46383 · 2026-10-26
+- **[免费 3D 素材库：Kenney 与 ThreeJS Assets](https://x.com/yrzhe_top/status/2114345422504239443)** — 推荐两个免费城市 3D 素材库，并用 AI 配合 Three.js 搭出会等红灯的小街区。  
+  @yrzhe_top · 2026-10-25
+- **[树屋豪宅建造 AI 视频提示词](https://x.com/CrazyKaomei/status/2114322834516492694)** — 用 Google Flow 的 Nano Banana 2 生图再生成动画，展示在树上建造迷你豪华树屋的提示词。  
+  @CrazyKaomei · 2026-10-25
 - **[AI 音乐短片《茶汤》六步制作全流程](https://x.com/xitang_ai/status/2114258652928381298)** — 拆解从找对标、写剧本、做角色场景到即梦生视频、剪映后期的完整 AI 短片制作流程，附提示词。  
   @xitang_ai · 2026-10-25
+- **[Gemini Omni 1.1 Flash 生成视频作品](https://x.com/DeepBlueX0/status/2114214646769147978)** — 用 Gemini Omni 1.1 Flash 模型生成的一段意境视频作品。  
+  @DeepBlueX0 · 2026-10-25
+- **[用 AI 创作绘本、动画和互动课件](https://x.com/majiabin/status/2114179994343887266)** — 教程：教你用 AI 制作儿童绘本、动画和互动课件。  
+  @majiabin · 2026-10-25
 - **[Lemo-Opuscar 更新：8 种新风格](https://x.com/lemomo_ai/status/2113195080517562646)** — Lemo-Opuscar 风格库大更新，新增 8 种风格和改编玩法，变成风格制作工具箱。  
   @lemomo_ai · 2026-10-22
 - **[ChatGPT×Muse一图做微电影](https://x.com/vincent_ddup/status/2112547806946677038)** — ChatGPT负责导演分镜、Muse负责成片，用一张图做出《世界之树》微电影。  
@@ -243,10 +253,14 @@
 
 <a id="cat-3"></a>
 
-## 自媒体运营与赚钱（27）
+## 自媒体运营与赚钱（31）
 
+- **[历史人物视频号带货 Skill](https://x.com/Tanghulu188/status/2114200114613092643)** — 作者用自写的直出剪映草稿 Skill 做历史人物视频号带货，两天卖出 7000 多元，计划开源。  
+  @Tanghulu188 · 2026-10-25
 - **[用 AI 搭小红书变现工作流的心得](https://x.com/liuqindong888/status/2114159223240306889)** — 让 Codex/Claude Code 等 AI 用苏格拉底式提问陪你搭建定位、素材库、出稿、复盘的闭环工作流。  
   @liuqindong888 · 2026-10-25
+- **[AI 推荐的 294 个创业点子复盘](https://x.com/FinnTsai88/status/2113963779558117539)** — 作者研究了 AI 推荐的 294 个创业点子，总结大多数人第一步就做错的地方。  
+  @FinnTsai88 · 2026-10-24
 - **[小红书个人售卖卖壁纸从 0 到第一单](https://x.com/TodayKan/status/2113904947565613388)** — 用 Grok Bot 做壁纸和文案，通过小红书个人售卖免开店门槛变现的保姆级教程。  
   @TodayKan · 2026-10-24
 - **[用 GamsGo 推广 AI 账号订阅做副业](https://x.com/songguoxiansen/status/2113248319237718175)** — 分享通过 GamsGo 推广链接帮人开通 Codex、Claude 等 AI 账号赚佣金的副业思路与分发渠道。  
@@ -295,6 +309,10 @@
   @niaoshu · 2026-09-27
 - **[AI做抖音Skill](https://x.com/ChengYi3629/status/2097611763391119504)** — native-subtitle-quote-image 2.0技能做抖音，平均赞藏上千。  
   @ChengYi3629 · 2026-09-09
+- **[48 小时从 100 粉涨到 6000 粉](https://x.com/AaronYiaazw/status/2095504367327776798)** — 作者分享拆解复现 AI 赚钱项目做成喂饭级教程而快速涨粉，下一期讲 AI 真人视频定制。  
+  @AaronYiaazw · 2026-09-03
+- **[小红书生日祝福短片工作流开源](https://x.com/CrazyKaomei/status/2090625258239984120)** — 复刻小红书卖爆 30 万+的 29.9 元生日祝福短片生意，并开源整套 AI 工作流。  
+  @CrazyKaomei · 2026-08-21
 - **[公众号起号教程](https://x.com/isnail/status/2060928267046060445)** — 公众号新号从0到1起号SOP与提示词。  
   @isnail · 2026-05-31
 - **[公众号日更 60 天变现 1 万+复盘](https://x.com/wangzan101/status/2009124320157593617)** — 研究生泛类公众号日更两个月涨粉九千、6 篇 10w+，复盘选题、算法与流量主/广告变现。  
@@ -304,8 +322,6 @@
 
 ## Claude·ChatGPT 账号与订阅（21）
 
-- **[Gemini Pro 被退款后可再免费领一年](https://x.com/yedabinbinah/status/2113817581308334426)** — 被退款的用户用美国 IP 打开谷歌学生优惠链接，可再领取一年 Gemini Pro。  
-  @yedabinbinah · 2026-10-24
 - **[用 VPS + Magpie 降低 Claude 封号风险](https://x.com/vincemask/status/2113810654872424697)** — 把 Claude 账号绑定在美国 VPS 的 Magpie 上，本地 Claude Code 通过远程 Magpie 统一走 VPS 出口调用。  
   @vincemask · 2026-10-24
 - **[Claude 注册跳过 KYC 的方法](https://x.com/aehyok/status/2113160491573068260)** — 先在 Claude 开发者平台注册并选「个人」，再登录 claude.ai，即可免 KYC 注册普号。  
@@ -344,13 +360,17 @@
   @yanxi067 · 2026-09-17
 - **[官方订阅ChatGPT/Claude](https://x.com/suversal/status/2097245420397404529)** — 不找代充，自己官方订阅ChatGPT/Claude的方法。  
   @suversal · 2026-09-08
+- **[7 块钱解锁 18 个月谷歌 Pro](https://x.com/CrazyKaomei/status/2093893997223923822)** — 低价开通 18 个月 Google AI Pro，无限 Nano Banana 生图和视频模型，附 Flow 速通攻略。  
+  @CrazyKaomei · 2026-08-30
 - **[美区Apple ID+PayPal+Starryblu订阅Claude](https://x.com/Lonely__MH/status/2093347789459906831)** — 介绍用美区Apple ID、美区PayPal搭配Starryblu卡内购订阅Claude，被封号也方便退款。  
   @Lonely__MH · 2026-08-28
 
 <a id="cat-5"></a>
 
-## Grok Bot 玩法（17）
+## Grok Bot 玩法（18）
 
+- **[《53 个 Grok Bot 模板》视频版](https://x.com/yaohongan2025/status/2114335185915269293)** — 作者用 Opus 5.5 + Blender 把 9000 多字的 53 个 Grok Bot 模板长文做成 3 分钟视频，按 7 类快速浏览。  
+  @yaohongan2025 · 2026-10-25
 - **[「我看谁不学 Grok bot」Day1：打通 IM 与本地设备](https://x.com/czzzzzzJ_/status/2114204952403030210)** — 讲解把微信变成接收 Bot 成果的入口，以及给常驻工作站配专属管家 Bot 的玩法。  
   @czzzzzzJ_ · 2026-10-25
 - **[7 个 Grok Bot 副业接单模式](https://x.com/0xluffy_eth/status/2113088019628777551)** — 用 Grok Bot 做副业的 7 种接单模式，含工作流、定价方法、审稿清单和 30 天起步计划。  
@@ -388,6 +408,27 @@
 
 <a id="cat-6"></a>
 
+## 娱乐与其他（8）
+
+- **[百年欧美女性妆容与发型](https://x.com/LC666888999/status/2114344033002909977)** — 一分钟视频带你看遍百年来欧美女性的妆容和发型变化。  
+  @LC666888999 · 2026-10-25
+- **[frvky.online 网站分享](https://x.com/Frvkyy/status/2114042099435811096)** — 分享网站 frvky.online，引用 zarazhangrui 的一条帖子。  
+  @Frvkyy · 2026-10-25
+- **[iPhone 美区/国区 Apple ID 切换方案汇总](https://x.com/zstmfhy/status/2114010606831567277)** — 整理四种多区 Apple ID 用法，作者最终选择 iCloud 用国区、App Store 常驻美区。  
+  @zstmfhy · 2026-10-24
+- **[免费4C4G我的世界服务器](https://x.com/yedabinbinah/status/2112114280367583461)** — MCServerHost提供免费4核4G的Minecraft游戏服务器。  
+  @yedabinbinah · 2026-10-19
+- **[好看短剧推荐清单](https://x.com/fhwofjow51260/status/2109984587405533386)** — 推荐《持械入宋》《洪武苟长生》等多部穿越类短剧。  
+  @fhwofjow51260 · 2026-10-13
+- **[AI短剧《持械入宋》](https://x.com/HanPaoao/status/2109955505678623154)** — 作者推荐800集AI短剧《持械入宋》，感叹AI将取代明星。  
+  @HanPaoao · 2026-10-13
+- **[各平台视频下载网站](https://x.com/xupaopaogm/status/2106036491050975361)** — X、抖音、TikTok、小红书、B站视频下载工具。  
+  @xupaopaogm · 2026-10-02
+- **[iPhone 多区 Apple ID 同时更新下载的小技巧](https://x.com/xiangxiang103/status/2070562452492968236)** — 通过备忘录添加外区 iCloud 账户并信任设备，免切换账号即可更新多区 App。  
+  @xiangxiang103 · 2026-06-27
+
+<a id="cat-7"></a>
+
 ## 学习教育与思维（8）
 
 - **[2小时建立AI认知体系](https://x.com/long_jingai/status/2111356255889723723)** — 一篇文章带零基础读者系统了解AI（企业内训同款）。  
@@ -407,7 +448,7 @@
 - **[四大思维模型](https://x.com/knowledgefxg/status/2099884732855341478)** — 第一性原理、贝叶斯、复利、逆向思维。  
   @knowledgefxg · 2026-09-15
 
-<a id="cat-7"></a>
+<a id="cat-8"></a>
 
 ## 银行卡与支付（8）
 
@@ -427,23 +468,6 @@
   @daitu0822 · 2026-09-23
 - **[Wise收港币与X分成](https://x.com/fly3nn/status/2101923625196806433)** — 大陆用户开通Wise港币收款需先入约200港币的说明。  
   @fly3nn · 2026-09-21
-
-<a id="cat-8"></a>
-
-## 娱乐与其他（6）
-
-- **[iPhone 美区/国区 Apple ID 切换方案汇总](https://x.com/zstmfhy/status/2114010606831567277)** — 整理四种多区 Apple ID 用法，作者最终选择 iCloud 用国区、App Store 常驻美区。  
-  @zstmfhy · 2026-10-24
-- **[免费4C4G我的世界服务器](https://x.com/yedabinbinah/status/2112114280367583461)** — MCServerHost提供免费4核4G的Minecraft游戏服务器。  
-  @yedabinbinah · 2026-10-19
-- **[好看短剧推荐清单](https://x.com/fhwofjow51260/status/2109984587405533386)** — 推荐《持械入宋》《洪武苟长生》等多部穿越类短剧。  
-  @fhwofjow51260 · 2026-10-13
-- **[AI短剧《持械入宋》](https://x.com/HanPaoao/status/2109955505678623154)** — 作者推荐800集AI短剧《持械入宋》，感叹AI将取代明星。  
-  @HanPaoao · 2026-10-13
-- **[各平台视频下载网站](https://x.com/xupaopaogm/status/2106036491050975361)** — X、抖音、TikTok、小红书、B站视频下载工具。  
-  @xupaopaogm · 2026-10-02
-- **[iPhone 多区 Apple ID 同时更新下载的小技巧](https://x.com/xiangxiang103/status/2070562452492968236)** — 通过备忘录添加外区 iCloud 账户并信任设备，免切换账号即可更新多区 App。  
-  @xiangxiang103 · 2026-06-27
 
 ## 如何更新
 
