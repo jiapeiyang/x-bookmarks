@@ -2,16 +2,16 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **204** 条书签 · 最后更新：2026-10-26 09:23（北京时间）
+共 **211** 条书签 · 最后更新：2026-10-27 09:19（北京时间）
 
 ## 目录
 
 - [翻墙 / VPS / 网络节点](#cat-0) — 42 条
-- [AI 创作（视频/游戏/3D）](#cat-1) — 37 条
-- [AI 编程与开发工具](#cat-2) — 31 条
-- [自媒体运营与赚钱](#cat-3) — 31 条
+- [AI 创作（视频/游戏/3D）](#cat-1) — 41 条
+- [自媒体运营与赚钱](#cat-2) — 33 条
+- [AI 编程与开发工具](#cat-3) — 31 条
 - [Claude·ChatGPT 账号与订阅](#cat-4) — 21 条
-- [Grok Bot 玩法](#cat-5) — 18 条
+- [Grok Bot 玩法](#cat-5) — 19 条
 - [娱乐与其他](#cat-6) — 8 条
 - [学习教育与思维](#cat-7) — 8 条
 - [银行卡与支付](#cat-8) — 8 条
@@ -107,13 +107,19 @@
 
 <a id="cat-1"></a>
 
-## AI 创作（视频/游戏/3D）（37）
+## AI 创作（视频/游戏/3D）（41）
 
+- **[孟菲斯微缩世界动画提示词](https://x.com/EianLu/status/2114695987424063730)** — 作者分享用代码（Canvas+无头 Chrome+ffmpeg）生成孟菲斯风格微缩世界治愈动画的完整提示词。  
+  @EianLu · 2026-10-26
+- **[火柴人 Skill 全自动出片更新](https://x.com/CrazyKaomei/status/2114528689434022190)** — 火柴人视频 Skill 大更新，给一个话题即可自动完成脚本、配音、音效和字幕并导出成片，已开源。  
+  @CrazyKaomei · 2026-10-26
+- **[Seedance 2.5 生成的 AI 视频](https://x.com/wiliam_web3/status/2114418489465442642)** — 作者分享一段用 Seedance 2.5 生成、效果惊艳的 AI 视频。  
+  @wiliam_web3 · 2026-10-26
 - **[只传配音用 Claude 做知识短视频](https://x.com/ji_she46383/status/2114397922494382362)** — 小白完整教程：只上传配音，用 Claude 自动生成知识类短视频。  
   @ji_she46383 · 2026-10-26
 - **[免费 3D 素材库：Kenney 与 ThreeJS Assets](https://x.com/yrzhe_top/status/2114345422504239443)** — 推荐两个免费城市 3D 素材库，并用 AI 配合 Three.js 搭出会等红灯的小街区。  
   @yrzhe_top · 2026-10-25
-- **[树屋豪宅建造 AI 视频提示词](https://x.com/CrazyKaomei/status/2114322834516492694)** — 用 Google Flow 的 Nano Banana 2 生图再生成动画，展示在树上建造迷你豪华树屋的提示词。  
+- **[AI 微缩木工树屋视频](https://x.com/CrazyKaomei/status/2114322832993988820)** — 作者用 AI 做了 1 分钟沉浸式微缩木工「森林小树屋」视频，拆解解压过程加惊艳结果的爆款逻辑，提示词在评论。  
   @CrazyKaomei · 2026-10-25
 - **[AI 音乐短片《茶汤》六步制作全流程](https://x.com/xitang_ai/status/2114258652928381298)** — 拆解从找对标、写剧本、做角色场景到即梦生视频、剪映后期的完整 AI 短片制作流程，附提示词。  
   @xitang_ai · 2026-10-25
@@ -121,6 +127,8 @@
   @DeepBlueX0 · 2026-10-25
 - **[用 AI 创作绘本、动画和互动课件](https://x.com/majiabin/status/2114179994343887266)** — 教程：教你用 AI 制作儿童绘本、动画和互动课件。  
   @majiabin · 2026-10-25
+- **[Opus 的艺术作品](https://x.com/petergostev/status/2113260175155220903)** — 作者展示 Claude Opus 生成的艺术作品，感叹它很有艺术感。  
+  @petergostev · 2026-10-22
 - **[Lemo-Opuscar 更新：8 种新风格](https://x.com/lemomo_ai/status/2113195080517562646)** — Lemo-Opuscar 风格库大更新，新增 8 种风格和改编玩法，变成风格制作工具箱。  
   @lemomo_ai · 2026-10-22
 - **[ChatGPT×Muse一图做微电影](https://x.com/vincent_ddup/status/2112547806946677038)** — ChatGPT负责导演分镜、Muse负责成片，用一张图做出《世界之树》微电影。  
@@ -185,6 +193,77 @@
   @AdrianPunk115 · 2026-08-19
 
 <a id="cat-2"></a>
+
+## 自媒体运营与赚钱（33）
+
+- **[0 粉公众号一个月真实数据](https://x.com/yuguo_aicn/status/2114579166029070382)** — 作者公开新公众号运营一个月的数据：总阅读超 10 万、关注 290、流量主一周收入 125 元，靠追热点。  
+  @yuguo_aicn · 2026-10-26
+- **[历史人物视频号带货 Skill](https://x.com/Tanghulu188/status/2114200114613092643)** — 作者用自写的直出剪映草稿 Skill 做历史人物视频号带货，两天卖出 7000 多元，计划开源。  
+  @Tanghulu188 · 2026-10-25
+- **[用 AI 搭小红书变现工作流的心得](https://x.com/liuqindong888/status/2114159223240306889)** — 让 Codex/Claude Code 等 AI 用苏格拉底式提问陪你搭建定位、素材库、出稿、复盘的闭环工作流。  
+  @liuqindong888 · 2026-10-25
+- **[AI 推荐的 294 个创业点子复盘](https://x.com/FinnTsai88/status/2113963779558117539)** — 作者研究了 AI 推荐的 294 个创业点子，总结大多数人第一步就做错的地方。  
+  @FinnTsai88 · 2026-10-24
+- **[小红书个人售卖卖壁纸从 0 到第一单](https://x.com/TodayKan/status/2113904947565613388)** — 用 Grok Bot 做壁纸和文案，通过小红书个人售卖免开店门槛变现的保姆级教程。  
+  @TodayKan · 2026-10-24
+- **[用 GamsGo 推广 AI 账号订阅做副业](https://x.com/songguoxiansen/status/2113248319237718175)** — 分享通过 GamsGo 推广链接帮人开通 Codex、Claude 等 AI 账号赚佣金的副业思路与分发渠道。  
+  @songguoxiansen · 2026-10-22
+- **[跑通第一个 1 万元副业的 5 个思路](https://x.com/Qitiankeaiduola/status/2113121065933439433)** — 从已有经验或反复出现的问题出发做最小方案卖给真实用户，分享 5 个副业起步思路。  
+  @Qitiankeaiduola · 2026-10-22
+- **[小红书电商教程（2）：选品全流程](https://x.com/HytidelLegend/status/2112912008320552974)** — 从选品逻辑、拼多多/抖店/灰豚数据选品、小红书对标号到1688供应商与面单发货的无货源选品全流程。  
+  @HytidelLegend · 2026-10-21
+- **[公众号发帖赚钱，客单价很高](https://x.com/youtiao99/status/2112799102933360850)** — 分享一个通过公众号发帖赚钱、客单价很高的副业机会（配图说明）。  
+  @youtiao99 · 2026-10-21
+- **[198位值得关注的中文X博主](https://x.com/AI_Jasonyu/status/2112564298429927449)** — 2026下半年值得关注的198位中文X博主重筛榜单。  
+  @AI_Jasonyu · 2026-10-20
+- **[万粉复盘：三个月千粉到一个月近万粉](https://x.com/0xlangeai/status/2112516355455066170)** — 蓝哥复盘X账号从千粉到近万粉的爆款、停滞与选题思路，并给出新手可执行的六步涨粉方法。  
+  @0xlangeai · 2026-10-20
+- **[BlueV插件做爆文海报](https://x.com/NFTCPS/status/2112462184945192994)** — 用BlueV浏览器插件把X爆款推文做成海报转发获取流量的方法。  
+  @NFTCPS · 2026-10-20
+- **[X两个月涨粉一万复盘](https://x.com/KinGao476942/status/2112198262661017812)** — 作者不到2个月涨到1万粉的经验、实操建议与模板。  
+  @KinGao476942 · 2026-10-19
+- **[小红书电商教程（1）](https://x.com/HytidelLegend/status/2112177915555410093)** — 小红书电商系列教程第一篇：赛道选择与开店流程。  
+  @HytidelLegend · 2026-10-19
+- **[小红书支持AI内容流量](https://x.com/Mileson07/status/2111817195886182908)** — 小红书开始给AI内容送流量，附流量标签说明。  
+  @Mileson07 · 2026-10-18
+- **[自媒体找热点三个网站](https://x.com/BossBear_0621/status/2111692069081075751)** — 推荐SoPilot、NewsNow、今日热榜三个找一手热点的网站。  
+  @BossBear_0621 · 2026-10-18
+- **[小白写文章单篇收益3000](https://x.com/nieerai_dev/status/2111654291215991223)** — 作者从零写出6万曝光文章并获3000元收益的经验。  
+  @nieerai_dev · 2026-10-18
+- **[小红书首批笔记怎么写](https://x.com/JessiCao_JC/status/2110614414890283326)** — 两周破万曝光、涨粉的定位选题与发布后调整清单，共 12 篇可照着做。  
+  @JessiCao_JC · 2026-10-15
+- **[X创作者收益到账众安银行](https://x.com/realchendahuang/status/2110225994527494326)** — 作者分享X创作者分成到账众安银行，鼓励在X上活跃。  
+  @realchendahuang · 2026-10-14
+- **[X Premium+年费经历](https://x.com/realchendahuang/status/2110020381637857725)** — 作者讲述打折购入X Premium+年费并获得回报的故事。  
+  @realchendahuang · 2026-10-13
+- **[AI代充赚钱项目](https://x.com/mjjwiki/status/2109995059492028465)** — 讲AI中转站、AI代充、X会员代充等赚钱项目。  
+  @mjjwiki · 2026-10-13
+- **[搬运AI资讯到小红书赚钱](https://x.com/AndyL5cc/status/2109947481870217540)** — 把Reddit/X上的AI资讯翻译发小红书接商单的思路。  
+  @AndyL5cc · 2026-10-13
+- **[微信公众号流量主入门教程](https://x.com/Boki106658/status/2109565827783745570)** — 从注册公众号、积累读者到开通流量主、设置广告和结算收益的手把手教程，门槛已降到 100 粉。  
+  @Boki106658 · 2026-10-12
+- **[7个网站日赚2000](https://x.com/huoshan007/status/2109237323175264749)** — 按7个网站操作的网络赚钱方法（需翻墙）。  
+  @huoshan007 · 2026-10-11
+- **[X原创奖励中文榜单](https://x.com/0xarthurzs/status/2108874197070188588)** — X第二期创作者奖励中文榜单、趋势与蓝V收益计算。  
+  @0xarthurzs · 2026-10-10
+- **[AI代充批发网站](https://x.com/donniy520/status/2107651354743165359)** — 低价代充蓝V、Muse、Gemini Pro、多邻国等的批发站。  
+  @donniy520 · 2026-10-07
+- **[普通人用 AI 做互联网副业项目](https://x.com/DongQingAsk/status/2106953767061168438)** — 作者结合自身经历，介绍小红书虚拟资料店铺等可用 AI 提效的互联网副业项目及收入情况。  
+  @DongQingAsk · 2026-10-05
+- **[X 原创内容奖励开通与 Stripe 港卡收款教程](https://x.com/niaoshu/status/2104158675430777055)** — X 创作者收益申请门槛、身份验证，以及切换香港地区用 Stripe 绑定港卡/Wise 收款的详细步骤。  
+  @niaoshu · 2026-09-27
+- **[AI做抖音Skill](https://x.com/ChengYi3629/status/2097611763391119504)** — native-subtitle-quote-image 2.0技能做抖音，平均赞藏上千。  
+  @ChengYi3629 · 2026-09-09
+- **[48 小时从 100 粉涨到 6000 粉](https://x.com/AaronYiaazw/status/2095504367327776798)** — 作者分享拆解复现 AI 赚钱项目做成喂饭级教程而快速涨粉，下一期讲 AI 真人视频定制。  
+  @AaronYiaazw · 2026-09-03
+- **[小红书生日祝福短片工作流开源](https://x.com/CrazyKaomei/status/2090625258239984120)** — 复刻小红书卖爆 30 万+的 29.9 元生日祝福短片生意，并开源整套 AI 工作流。  
+  @CrazyKaomei · 2026-08-21
+- **[公众号起号教程](https://x.com/isnail/status/2060928267046060445)** — 公众号新号从0到1起号SOP与提示词。  
+  @isnail · 2026-05-31
+- **[公众号日更 60 天变现 1 万+复盘](https://x.com/wangzan101/status/2009124320157593617)** — 研究生泛类公众号日更两个月涨粉九千、6 篇 10w+，复盘选题、算法与流量主/广告变现。  
+  @wangzan101 · 2026-01-08
+
+<a id="cat-3"></a>
 
 ## AI 编程与开发工具（31）
 
@@ -251,73 +330,6 @@
 - **[网页版ChatGPT接手本地项目](https://x.com/samdychan/status/2098276183867789567)** — Codex额度用完后用网页ChatGPT继续本地开发的教程。  
   @samdychan · 2026-09-11
 
-<a id="cat-3"></a>
-
-## 自媒体运营与赚钱（31）
-
-- **[历史人物视频号带货 Skill](https://x.com/Tanghulu188/status/2114200114613092643)** — 作者用自写的直出剪映草稿 Skill 做历史人物视频号带货，两天卖出 7000 多元，计划开源。  
-  @Tanghulu188 · 2026-10-25
-- **[用 AI 搭小红书变现工作流的心得](https://x.com/liuqindong888/status/2114159223240306889)** — 让 Codex/Claude Code 等 AI 用苏格拉底式提问陪你搭建定位、素材库、出稿、复盘的闭环工作流。  
-  @liuqindong888 · 2026-10-25
-- **[AI 推荐的 294 个创业点子复盘](https://x.com/FinnTsai88/status/2113963779558117539)** — 作者研究了 AI 推荐的 294 个创业点子，总结大多数人第一步就做错的地方。  
-  @FinnTsai88 · 2026-10-24
-- **[小红书个人售卖卖壁纸从 0 到第一单](https://x.com/TodayKan/status/2113904947565613388)** — 用 Grok Bot 做壁纸和文案，通过小红书个人售卖免开店门槛变现的保姆级教程。  
-  @TodayKan · 2026-10-24
-- **[用 GamsGo 推广 AI 账号订阅做副业](https://x.com/songguoxiansen/status/2113248319237718175)** — 分享通过 GamsGo 推广链接帮人开通 Codex、Claude 等 AI 账号赚佣金的副业思路与分发渠道。  
-  @songguoxiansen · 2026-10-22
-- **[跑通第一个 1 万元副业的 5 个思路](https://x.com/Qitiankeaiduola/status/2113121065933439433)** — 从已有经验或反复出现的问题出发做最小方案卖给真实用户，分享 5 个副业起步思路。  
-  @Qitiankeaiduola · 2026-10-22
-- **[小红书电商教程（2）：选品全流程](https://x.com/HytidelLegend/status/2112912008320552974)** — 从选品逻辑、拼多多/抖店/灰豚数据选品、小红书对标号到1688供应商与面单发货的无货源选品全流程。  
-  @HytidelLegend · 2026-10-21
-- **[公众号发帖赚钱，客单价很高](https://x.com/youtiao99/status/2112799102933360850)** — 分享一个通过公众号发帖赚钱、客单价很高的副业机会（配图说明）。  
-  @youtiao99 · 2026-10-21
-- **[198位值得关注的中文X博主](https://x.com/AI_Jasonyu/status/2112564298429927449)** — 2026下半年值得关注的198位中文X博主重筛榜单。  
-  @AI_Jasonyu · 2026-10-20
-- **[万粉复盘：三个月千粉到一个月近万粉](https://x.com/0xlangeai/status/2112516355455066170)** — 蓝哥复盘X账号从千粉到近万粉的爆款、停滞与选题思路，并给出新手可执行的六步涨粉方法。  
-  @0xlangeai · 2026-10-20
-- **[BlueV插件做爆文海报](https://x.com/NFTCPS/status/2112462184945192994)** — 用BlueV浏览器插件把X爆款推文做成海报转发获取流量的方法。  
-  @NFTCPS · 2026-10-20
-- **[X两个月涨粉一万复盘](https://x.com/KinGao476942/status/2112198262661017812)** — 作者不到2个月涨到1万粉的经验、实操建议与模板。  
-  @KinGao476942 · 2026-10-19
-- **[小红书电商教程（1）](https://x.com/HytidelLegend/status/2112177915555410093)** — 小红书电商系列教程第一篇：赛道选择与开店流程。  
-  @HytidelLegend · 2026-10-19
-- **[小红书支持AI内容流量](https://x.com/Mileson07/status/2111817195886182908)** — 小红书开始给AI内容送流量，附流量标签说明。  
-  @Mileson07 · 2026-10-18
-- **[自媒体找热点三个网站](https://x.com/BossBear_0621/status/2111692069081075751)** — 推荐SoPilot、NewsNow、今日热榜三个找一手热点的网站。  
-  @BossBear_0621 · 2026-10-18
-- **[小白写文章单篇收益3000](https://x.com/nieerai_dev/status/2111654291215991223)** — 作者从零写出6万曝光文章并获3000元收益的经验。  
-  @nieerai_dev · 2026-10-18
-- **[小红书首批笔记怎么写](https://x.com/JessiCao_JC/status/2110614414890283326)** — 两周破万曝光、涨粉的定位选题与发布后调整清单，共 12 篇可照着做。  
-  @JessiCao_JC · 2026-10-15
-- **[X创作者收益到账众安银行](https://x.com/realchendahuang/status/2110225994527494326)** — 作者分享X创作者分成到账众安银行，鼓励在X上活跃。  
-  @realchendahuang · 2026-10-14
-- **[X Premium+年费经历](https://x.com/realchendahuang/status/2110020381637857725)** — 作者讲述打折购入X Premium+年费并获得回报的故事。  
-  @realchendahuang · 2026-10-13
-- **[AI代充赚钱项目](https://x.com/mjjwiki/status/2109995059492028465)** — 讲AI中转站、AI代充、X会员代充等赚钱项目。  
-  @mjjwiki · 2026-10-13
-- **[搬运AI资讯到小红书赚钱](https://x.com/AndyL5cc/status/2109947481870217540)** — 把Reddit/X上的AI资讯翻译发小红书接商单的思路。  
-  @AndyL5cc · 2026-10-13
-- **[微信公众号流量主入门教程](https://x.com/Boki106658/status/2109565827783745570)** — 从注册公众号、积累读者到开通流量主、设置广告和结算收益的手把手教程，门槛已降到 100 粉。  
-  @Boki106658 · 2026-10-12
-- **[7个网站日赚2000](https://x.com/huoshan007/status/2109237323175264749)** — 按7个网站操作的网络赚钱方法（需翻墙）。  
-  @huoshan007 · 2026-10-11
-- **[X原创奖励中文榜单](https://x.com/0xarthurzs/status/2108874197070188588)** — X第二期创作者奖励中文榜单、趋势与蓝V收益计算。  
-  @0xarthurzs · 2026-10-10
-- **[AI代充批发网站](https://x.com/donniy520/status/2107651354743165359)** — 低价代充蓝V、Muse、Gemini Pro、多邻国等的批发站。  
-  @donniy520 · 2026-10-07
-- **[X 原创内容奖励开通与 Stripe 港卡收款教程](https://x.com/niaoshu/status/2104158675430777055)** — X 创作者收益申请门槛、身份验证，以及切换香港地区用 Stripe 绑定港卡/Wise 收款的详细步骤。  
-  @niaoshu · 2026-09-27
-- **[AI做抖音Skill](https://x.com/ChengYi3629/status/2097611763391119504)** — native-subtitle-quote-image 2.0技能做抖音，平均赞藏上千。  
-  @ChengYi3629 · 2026-09-09
-- **[48 小时从 100 粉涨到 6000 粉](https://x.com/AaronYiaazw/status/2095504367327776798)** — 作者分享拆解复现 AI 赚钱项目做成喂饭级教程而快速涨粉，下一期讲 AI 真人视频定制。  
-  @AaronYiaazw · 2026-09-03
-- **[小红书生日祝福短片工作流开源](https://x.com/CrazyKaomei/status/2090625258239984120)** — 复刻小红书卖爆 30 万+的 29.9 元生日祝福短片生意，并开源整套 AI 工作流。  
-  @CrazyKaomei · 2026-08-21
-- **[公众号起号教程](https://x.com/isnail/status/2060928267046060445)** — 公众号新号从0到1起号SOP与提示词。  
-  @isnail · 2026-05-31
-- **[公众号日更 60 天变现 1 万+复盘](https://x.com/wangzan101/status/2009124320157593617)** — 研究生泛类公众号日更两个月涨粉九千、6 篇 10w+，复盘选题、算法与流量主/广告变现。  
-  @wangzan101 · 2026-01-08
-
 <a id="cat-4"></a>
 
 ## Claude·ChatGPT 账号与订阅（21）
@@ -367,8 +379,10 @@
 
 <a id="cat-5"></a>
 
-## Grok Bot 玩法（18）
+## Grok Bot 玩法（19）
 
+- **[用 Grok Bot 替换 iPhone Siri](https://x.com/liyue_ai/status/2114570263035789763)** — 作者介绍通过快捷指令和语音快捷方式，用「Hey Grok」唤醒 Grok Bot 语音对话来替代 Siri 的设置步骤。  
+  @liyue_ai · 2026-10-26
 - **[《53 个 Grok Bot 模板》视频版](https://x.com/yaohongan2025/status/2114335185915269293)** — 作者用 Opus 5.5 + Blender 把 9000 多字的 53 个 Grok Bot 模板长文做成 3 分钟视频，按 7 类快速浏览。  
   @yaohongan2025 · 2026-10-25
 - **[「我看谁不学 Grok bot」Day1：打通 IM 与本地设备](https://x.com/czzzzzzJ_/status/2114204952403030210)** — 讲解把微信变成接收 Bot 成果的入口，以及给常驻工作站配专属管家 Bot 的玩法。  
