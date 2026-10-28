@@ -2,24 +2,30 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **211** 条书签 · 最后更新：2026-10-27 09:19（北京时间）
+共 **222** 条书签 · 最后更新：2026-10-28 09:18（北京时间）
 
 ## 目录
 
-- [翻墙 / VPS / 网络节点](#cat-0) — 42 条
-- [AI 创作（视频/游戏/3D）](#cat-1) — 41 条
-- [自媒体运营与赚钱](#cat-2) — 33 条
-- [AI 编程与开发工具](#cat-3) — 31 条
+- [翻墙 / VPS / 网络节点](#cat-0) — 45 条
+- [AI 创作（视频/游戏/3D）](#cat-1) — 44 条
+- [自媒体运营与赚钱](#cat-2) — 35 条
+- [AI 编程与开发工具](#cat-3) — 33 条
 - [Claude·ChatGPT 账号与订阅](#cat-4) — 21 条
 - [Grok Bot 玩法](#cat-5) — 19 条
-- [娱乐与其他](#cat-6) — 8 条
+- [娱乐与其他](#cat-6) — 9 条
 - [学习教育与思维](#cat-7) — 8 条
 - [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
 
-## 翻墙 / VPS / 网络节点（42）
+## 翻墙 / VPS / 网络节点（45）
 
+- **[VPS 被墙的三种应对方法](https://x.com/InfiCheesy/status/2115135555579326602)** — 针对 GFW 封锁海外服务器 TCP 连接，推荐改用 UDP 节点（Hy2/TUIC）、IPv6 节点或 Cloudflare CDN 应急。  
+  @InfiCheesy · 2026-10-28
+- **[Claude Code 专用 VPS 选购网站](https://x.com/app_sail/status/2115126953825185925)** — 作者做了一个为 Claude Code 精选 VPS 的网站，可按运营商和线路筛选，提供测试 IP、延迟和优惠码自动更新。  
+  @app_sail · 2026-10-28
+- **[2026 推特口碑 VPN 推荐（外贸版）](https://x.com/MeiJynol/status/2115026780952424906)** — 汇总推特 37 条真实用户评价，按稳定性、速度、价格给外贸人推荐 ExpressVPN、Astrill、Surfshark 等 VPN。  
+  @MeiJynol · 2026-10-27
 - **[DediRock 美国 VPS 年付 9.88 美元特价](https://x.com/gwvpsceping/status/2114295918342156443)** — 纽约、洛杉矶双节点，1 核 2G、30G SSD、2TB 月流量，适合建站和测试。  
   @gwvpsceping · 2026-10-25
 - **[免费 VPS 推荐安装的 10 个开源项目](https://x.com/0xjackkk/status/2114043891716612409)** — 甲骨文免费 ARM 开出来后可部署 Uptime Kuma、New API、Vaultwarden 等实用开源项目。  
@@ -107,10 +113,16 @@
 
 <a id="cat-1"></a>
 
-## AI 创作（视频/游戏/3D）（41）
+## AI 创作（视频/游戏/3D）（44）
 
+- **[369 个 AI 视频与自动剪辑开源项目评估](https://x.com/leo_xiaolei/status/2115032723375218763)** — 作者整理了 369 个能让 Claude Code、Codex 等 Agent 生成视频、自动剪辑和渲染动效的开源仓库清单。  
+  @leo_xiaolei · 2026-10-27
+- **[AI 视频做营销段子的思路](https://x.com/eternityspring/status/2114889855545278727)** — 建议 AI 视频不只盯短剧，可借爽剧名场面改编剧本、结合实体行业做营销段子，低成本获得曝光。  
+  @eternityspring · 2026-10-27
 - **[孟菲斯微缩世界动画提示词](https://x.com/EianLu/status/2114695987424063730)** — 作者分享用代码（Canvas+无头 Chrome+ffmpeg）生成孟菲斯风格微缩世界治愈动画的完整提示词。  
   @EianLu · 2026-10-26
+- **[展示品味的 AI 短片](https://x.com/EHuanglu/status/2114679577738162359)** — 作者分享一段 AI 影片，回应“AI 电影没有品味”的说法。  
+  @EHuanglu · 2026-10-26
 - **[火柴人 Skill 全自动出片更新](https://x.com/CrazyKaomei/status/2114528689434022190)** — 火柴人视频 Skill 大更新，给一个话题即可自动完成脚本、配音、音效和字幕并导出成片，已开源。  
   @CrazyKaomei · 2026-10-26
 - **[Seedance 2.5 生成的 AI 视频](https://x.com/wiliam_web3/status/2114418489465442642)** — 作者分享一段用 Seedance 2.5 生成、效果惊艳的 AI 视频。  
@@ -194,8 +206,10 @@
 
 <a id="cat-2"></a>
 
-## 自媒体运营与赚钱（33）
+## 自媒体运营与赚钱（35）
 
+- **[开源 Skill 全自动做视频号带货](https://x.com/Tanghulu188/status/2115052176968159627)** — 作者开源 Story Studio，用 AI Agent 一句话自动完成历史故事短视频的选题、配音、分镜到剪映草稿，并分享带货成绩。  
+  @Tanghulu188 · 2026-10-27
 - **[0 粉公众号一个月真实数据](https://x.com/yuguo_aicn/status/2114579166029070382)** — 作者公开新公众号运营一个月的数据：总阅读超 10 万、关注 290、流量主一周收入 125 元，靠追热点。  
   @yuguo_aicn · 2026-10-26
 - **[历史人物视频号带货 Skill](https://x.com/Tanghulu188/status/2114200114613092643)** — 作者用自写的直出剪映草稿 Skill 做历史人物视频号带货，两天卖出 7000 多元，计划开源。  
@@ -258,6 +272,8 @@
   @AaronYiaazw · 2026-09-03
 - **[小红书生日祝福短片工作流开源](https://x.com/CrazyKaomei/status/2090625258239984120)** — 复刻小红书卖爆 30 万+的 29.9 元生日祝福短片生意，并开源整套 AI 工作流。  
   @CrazyKaomei · 2026-08-21
+- **[公众号贴图的赚钱逻辑拆解](https://x.com/WolfMoneyNotes/status/2077624635105980561)** — 长文拆解公众号贴图的流量逻辑、细分赛道选择、内容制作、变现链路与避坑要点。  
+  @WolfMoneyNotes · 2026-07-16
 - **[公众号起号教程](https://x.com/isnail/status/2060928267046060445)** — 公众号新号从0到1起号SOP与提示词。  
   @isnail · 2026-05-31
 - **[公众号日更 60 天变现 1 万+复盘](https://x.com/wangzan101/status/2009124320157593617)** — 研究生泛类公众号日更两个月涨粉九千、6 篇 10w+，复盘选题、算法与流量主/广告变现。  
@@ -265,8 +281,12 @@
 
 <a id="cat-3"></a>
 
-## AI 编程与开发工具（31）
+## AI 编程与开发工具（33）
 
+- **[用 GPT-6.1 Terra 跑浏览器操控任务](https://x.com/Khazix0918/status/2115093669657371061)** — 作者让 Claude 调用 Codex 操控浏览器和电脑，实测新出的 GPT-6.1 Terra 又快又稳又省，于是切为默认模型。  
+  @Khazix0918 · 2026-10-27
+- **[FDE 实战：海量多模态数据清洗](https://x.com/miles_mazy/status/2115006510979801566)** — 以美妆企业项目为例，讲解把小红书、抖音等平台的多模态数据清洗、关联、核验并入库的八步通用链路。  
+  @miles_mazy · 2026-10-27
 - **[用 VPS 搭建自己的 AI API 中转站](https://x.com/0xjackkk/status/2113972267386618086)** — 手把手教你在 VPS 上用 New API（可选 CLIProxyAPI）+ Docker + Nginx + Cloudflare 搭建 AI API 中转站。  
   @0xjackkk · 2026-10-24
 - **[Claude Code 远程方案：Tailscale + SSH + tmux](https://x.com/xiaomovps/status/2113664233493983317)** — 用 Tailscale 组网、SSH 远程、tmux 保持会话，随时随地稳定使用家里电脑上的 Claude Code。  
@@ -422,8 +442,10 @@
 
 <a id="cat-6"></a>
 
-## 娱乐与其他（8）
+## 娱乐与其他（9）
 
+- **[好玩的创意视频](https://x.com/GeekCatX/status/2114967064784109917)** — 作者转发一段很会玩的创意作品视频，感叹制作者的巧思。  
+  @GeekCatX · 2026-10-27
 - **[百年欧美女性妆容与发型](https://x.com/LC666888999/status/2114344033002909977)** — 一分钟视频带你看遍百年来欧美女性的妆容和发型变化。  
   @LC666888999 · 2026-10-25
 - **[frvky.online 网站分享](https://x.com/Frvkyy/status/2114042099435811096)** — 分享网站 frvky.online，引用 zarazhangrui 的一条帖子。  
