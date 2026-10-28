@@ -2,21 +2,116 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **222** 条书签 · 最后更新：2026-10-28 09:18（北京时间）
+共 **225** 条书签 · 最后更新：2026-10-28 11:36（北京时间）
 
 ## 目录
 
-- [翻墙 / VPS / 网络节点](#cat-0) — 45 条
-- [AI 创作（视频/游戏/3D）](#cat-1) — 44 条
-- [自媒体运营与赚钱](#cat-2) — 35 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 45 条
+- [翻墙 / VPS / 网络节点](#cat-1) — 45 条
+- [自媒体运营与赚钱](#cat-2) — 36 条
 - [AI 编程与开发工具](#cat-3) — 33 条
 - [Claude·ChatGPT 账号与订阅](#cat-4) — 21 条
-- [Grok Bot 玩法](#cat-5) — 19 条
+- [Grok Bot 玩法](#cat-5) — 20 条
 - [娱乐与其他](#cat-6) — 9 条
 - [学习教育与思维](#cat-7) — 8 条
 - [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
+
+## AI 创作（视频/游戏/3D）（45）
+
+- **[Opus 5.5 纯代码生成的治愈系 3D 小世界](https://x.com/keydol123/status/2115168883040817610)** — 作者用 Opus 5.5 零素材、全代码搭出带水车、柳树、瀑布和凉亭的温馨小场景。  
+  @keydol123 · 2026-10-28
+- **[369 个 AI 视频与自动剪辑开源项目评估](https://x.com/leo_xiaolei/status/2115032723375218763)** — 作者整理了 369 个能让 Claude Code、Codex 等 Agent 生成视频、自动剪辑和渲染动效的开源仓库清单。  
+  @leo_xiaolei · 2026-10-27
+- **[AI 视频做营销段子的思路](https://x.com/eternityspring/status/2114889855545278727)** — 建议 AI 视频不只盯短剧，可借爽剧名场面改编剧本、结合实体行业做营销段子，低成本获得曝光。  
+  @eternityspring · 2026-10-27
+- **[孟菲斯微缩世界动画提示词](https://x.com/EianLu/status/2114695987424063730)** — 作者分享用代码（Canvas+无头 Chrome+ffmpeg）生成孟菲斯风格微缩世界治愈动画的完整提示词。  
+  @EianLu · 2026-10-26
+- **[展示品味的 AI 短片](https://x.com/EHuanglu/status/2114679577738162359)** — 作者分享一段 AI 影片，回应“AI 电影没有品味”的说法。  
+  @EHuanglu · 2026-10-26
+- **[火柴人 Skill 全自动出片更新](https://x.com/CrazyKaomei/status/2114528689434022190)** — 火柴人视频 Skill 大更新，给一个话题即可自动完成脚本、配音、音效和字幕并导出成片，已开源。  
+  @CrazyKaomei · 2026-10-26
+- **[Seedance 2.5 生成的 AI 视频](https://x.com/wiliam_web3/status/2114418489465442642)** — 作者分享一段用 Seedance 2.5 生成、效果惊艳的 AI 视频。  
+  @wiliam_web3 · 2026-10-26
+- **[只传配音用 Claude 做知识短视频](https://x.com/ji_she46383/status/2114397922494382362)** — 小白完整教程：只上传配音，用 Claude 自动生成知识类短视频。  
+  @ji_she46383 · 2026-10-26
+- **[免费 3D 素材库：Kenney 与 ThreeJS Assets](https://x.com/yrzhe_top/status/2114345422504239443)** — 推荐两个免费城市 3D 素材库，并用 AI 配合 Three.js 搭出会等红灯的小街区。  
+  @yrzhe_top · 2026-10-25
+- **[AI 微缩木工树屋视频](https://x.com/CrazyKaomei/status/2114322832993988820)** — 作者用 AI 做了 1 分钟沉浸式微缩木工「森林小树屋」视频，拆解解压过程加惊艳结果的爆款逻辑，提示词在评论。  
+  @CrazyKaomei · 2026-10-25
+- **[AI 音乐短片《茶汤》六步制作全流程](https://x.com/xitang_ai/status/2114258652928381298)** — 拆解从找对标、写剧本、做角色场景到即梦生视频、剪映后期的完整 AI 短片制作流程，附提示词。  
+  @xitang_ai · 2026-10-25
+- **[Gemini Omni 1.1 Flash 生成视频作品](https://x.com/DeepBlueX0/status/2114214646769147978)** — 用 Gemini Omni 1.1 Flash 模型生成的一段意境视频作品。  
+  @DeepBlueX0 · 2026-10-25
+- **[用 AI 创作绘本、动画和互动课件](https://x.com/majiabin/status/2114179994343887266)** — 教程：教你用 AI 制作儿童绘本、动画和互动课件。  
+  @majiabin · 2026-10-25
+- **[Opus 的艺术作品](https://x.com/petergostev/status/2113260175155220903)** — 作者展示 Claude Opus 生成的艺术作品，感叹它很有艺术感。  
+  @petergostev · 2026-10-22
+- **[Lemo-Opuscar 更新：8 种新风格](https://x.com/lemomo_ai/status/2113195080517562646)** — Lemo-Opuscar 风格库大更新，新增 8 种风格和改编玩法，变成风格制作工具箱。  
+  @lemomo_ai · 2026-10-22
+- **[ChatGPT×Muse一图做微电影](https://x.com/vincent_ddup/status/2112547806946677038)** — ChatGPT负责导演分镜、Muse负责成片，用一张图做出《世界之树》微电影。  
+  @vincent_ddup · 2026-10-20
+- **[「Vibe知识大赏」爆款知识短片教程](https://x.com/guanmo_ai/status/2112525216924807210)** — 拆解抖音Vibe知识大赏赛道的选题、标题钩子和视觉风格，用Opus代码生成知识短片，附完整提示词。  
+  @guanmo_ai · 2026-10-20
+- **[可灵4.0实测与AI短剧全流程教程](https://x.com/xitang_ai/status/2112514646196244880)** — 对比可灵4.0与Seedance 2.5五组案例，并用Codex接入可灵完成剧本、资产、生成到剪辑的AI短剧全流程。  
+  @xitang_ai · 2026-10-20
+- **[AI直出北京3D城市历史视频](https://x.com/Gorden_Sun/status/2112488511479902346)** — 用一段提示词让AI构建北京3D城市并生成讲解北京历史的视频。  
+  @Gorden_Sun · 2026-10-20
+- **[Opus+Renoise做视频](https://x.com/PMbackttfuture/status/2112354179054531006)** — 作者用Claude Code+Renoise生成视频，解读Opus为何对视频制作是颠覆式的。  
+  @PMbackttfuture · 2026-10-20
+- **[Opus复刻小Lin说10分钟视频](https://x.com/WaterrrMiao/status/2112122511509065797)** — 用Opus 5.5和HyperFrames做出10分钟小Lin说风格的经济讲解视频。  
+  @WaterrrMiao · 2026-10-19
+- **[Opus5.5做视频流程与提示词](https://x.com/VincentWei93/status/2111798272776179741)** — 分享用Opus 5.5写代码做视频和剪辑的流程与提示词。  
+  @VincentWei93 · 2026-10-18
+- **[Claude渲染成都3271年城市史](https://x.com/EianLu/status/2111662397278847478)** — 全部由Claude写代码渲染的成都城市变迁短片《一座城的年轮》。  
+  @EianLu · 2026-10-18
+- **[Opus5.5做7分钟手绘动画](https://x.com/HaileyAILabs/status/2111265099096973334)** — 不会画画剪辑，用Opus 5.5加豆包配音把故事做成动画，Skill开源。  
+  @HaileyAILabs · 2026-10-17
+- **[让Claude从Openverse免费音效库配音效](https://x.com/yupi996/status/2110978294891897173)** — 把Openverse接口给Claude，剪视频时自动搜索下载免费音效，无需API Key，音效建议按freesound来源搜。  
+  @yupi996 · 2026-10-16
+- **[Opus+Tripo做3D游戏](https://x.com/Saccc_c/status/2110694725640474759)** — 用 Opus 5.5、Tripo 等把《小王子》做成可探索 3D 游戏的手把手教程。  
+  @Saccc_c · 2026-10-15
+- **[Opus做《小王子》3D游戏](https://x.com/Saccc_c/status/2109962425512734739)** — 用Opus 5.5+Tripo+Blender把小王子故事做成3D剧情游戏。  
+  @Saccc_c · 2026-10-13
+- **[Anatomy Skill做科普动画](https://x.com/op7418/status/2109679880438989160)** — 用Anatomy Skill+Grok Bot+即梦制作等轴立体机械科普视频。  
+  @op7418 · 2026-10-13
+- **[Muse AI注册教程](https://x.com/ai_suxiaole/status/2108146466082734198)** — 绕过等待名单注册Muse AI（10月8日更新）。  
+  @ai_suxiaole · 2026-10-08
+- **[huashu-art-motion成果](https://x.com/AlchainHust/status/2107757400224596291)** — 首批用户用huashu-art-motion做动效作品的成果。  
+  @AlchainHust · 2026-10-07
+- **[Muse一键注册方法](https://x.com/Super_Nius/status/2107374944296603960)** — Muse手机/PC端三分钟注册、免年龄验证的方法。  
+  @Super_Nius · 2026-10-06
+- **[零基础用Opus做视频](https://x.com/xilo2991/status/2104912748794589515)** — 万字拆解AI用代码做视频，提示词与Skill开源。  
+  @xilo2991 · 2026-09-29
+- **[Opus5.5稳定出片：39种风格视频库](https://x.com/lemomo_ai/status/2103823847632060854)** — 作者开源39种风格视频库，总结用Opus 5.5稳定生成视频的方法。  
+  @lemomo_ai · 2026-09-26
+- **[Muse上手保姆级教程](https://x.com/0xlangeai/status/2103300004966478284)** — Muse从登录到完成第一个任务的入门教程。  
+  @0xlangeai · 2026-09-25
+- **[YouTube火柴人视频搞钱流水线](https://x.com/CrazyKaomei/status/2102311241046008268)** — 开源火柴人视频Skill，含爆款文案结构与豆包成片全流程。  
+  @CrazyKaomei · 2026-09-22
+- **[AI游戏20天赚23000元](https://x.com/XiaohuiAI666/status/2102236448175128643)** — 作者用AI做游戏发布20天的收入复盘。  
+  @XiaohuiAI666 · 2026-09-22
+- **[GPT-6做3D小岛Tidehaven](https://x.com/vib3coded/status/2100752564832616652)** — 用GPT-6 Astra+Three.js做交互式3D场景（英文）。  
+  @vib3coded · 2026-09-18
+- **[人人做游戏](https://x.com/berryxia/status/2100646925007737292)** — AI生成类塞尔达矿车游戏的演示。  
+  @berryxia · 2026-09-18
+- **[GPT Image 2.5做游戏画面](https://x.com/muku_sns/status/2098994140310843550)** — 用GPT Image 2.5批量生成儿童暑假游戏画面（日文）。  
+  @muku_sns · 2026-09-13
+- **[Unity 6.6 CLI+Astra](https://x.com/speaksGaming/status/2098964589752779221)** — 用Unity新CLI与AI生成四季场景（英文）。  
+  @speaksGaming · 2026-09-13
+- **[悉尼城3D交互场景](https://x.com/rionaifantasy/status/2098797241628758421)** — 用AI做悉尼3D场景，参考谷歌地图优化。  
+  @rionaifantasy · 2026-09-12
+- **[StoryComet儿童绘本](https://x.com/MengTo/status/2098027027760840864)** — 三天用AI做出15本五语种动画儿童书（英文）。  
+  @MengTo · 2026-09-10
+- **[GPT 6做可售卖游戏](https://x.com/xenit_v0/status/2097908321718071433)** — 用GPT 6从零做出完整咖啡馆游戏（土耳其语）。  
+  @xenit_v0 · 2026-09-10
+- **[GPT6 vs GPT5.6生成对比](https://x.com/Jolyne_AI/status/2097530771028476047)** — 同一提示词下GPT6生成效果震撼。  
+  @Jolyne_AI · 2026-09-09
+- **[旅行照片转极简纸感丙烯手绘提示词](https://x.com/AdrianPunk115/status/2089960426624758079)** — 一套把照片提炼成粗糙白纸、少量线条加鲜明丙烯色块、大留白风格封面插画的提示词。  
+  @AdrianPunk115 · 2026-08-19
+
+<a id="cat-1"></a>
 
 ## 翻墙 / VPS / 网络节点（45）
 
@@ -111,103 +206,12 @@
 - **[60元搭建VLESS+Reality](https://x.com/xaiwind/status/2067050155015340111)** — 双ISP服务器+Sing-box搭建VPN的小白指引。  
   @xaiwind · 2026-06-17
 
-<a id="cat-1"></a>
-
-## AI 创作（视频/游戏/3D）（44）
-
-- **[369 个 AI 视频与自动剪辑开源项目评估](https://x.com/leo_xiaolei/status/2115032723375218763)** — 作者整理了 369 个能让 Claude Code、Codex 等 Agent 生成视频、自动剪辑和渲染动效的开源仓库清单。  
-  @leo_xiaolei · 2026-10-27
-- **[AI 视频做营销段子的思路](https://x.com/eternityspring/status/2114889855545278727)** — 建议 AI 视频不只盯短剧，可借爽剧名场面改编剧本、结合实体行业做营销段子，低成本获得曝光。  
-  @eternityspring · 2026-10-27
-- **[孟菲斯微缩世界动画提示词](https://x.com/EianLu/status/2114695987424063730)** — 作者分享用代码（Canvas+无头 Chrome+ffmpeg）生成孟菲斯风格微缩世界治愈动画的完整提示词。  
-  @EianLu · 2026-10-26
-- **[展示品味的 AI 短片](https://x.com/EHuanglu/status/2114679577738162359)** — 作者分享一段 AI 影片，回应“AI 电影没有品味”的说法。  
-  @EHuanglu · 2026-10-26
-- **[火柴人 Skill 全自动出片更新](https://x.com/CrazyKaomei/status/2114528689434022190)** — 火柴人视频 Skill 大更新，给一个话题即可自动完成脚本、配音、音效和字幕并导出成片，已开源。  
-  @CrazyKaomei · 2026-10-26
-- **[Seedance 2.5 生成的 AI 视频](https://x.com/wiliam_web3/status/2114418489465442642)** — 作者分享一段用 Seedance 2.5 生成、效果惊艳的 AI 视频。  
-  @wiliam_web3 · 2026-10-26
-- **[只传配音用 Claude 做知识短视频](https://x.com/ji_she46383/status/2114397922494382362)** — 小白完整教程：只上传配音，用 Claude 自动生成知识类短视频。  
-  @ji_she46383 · 2026-10-26
-- **[免费 3D 素材库：Kenney 与 ThreeJS Assets](https://x.com/yrzhe_top/status/2114345422504239443)** — 推荐两个免费城市 3D 素材库，并用 AI 配合 Three.js 搭出会等红灯的小街区。  
-  @yrzhe_top · 2026-10-25
-- **[AI 微缩木工树屋视频](https://x.com/CrazyKaomei/status/2114322832993988820)** — 作者用 AI 做了 1 分钟沉浸式微缩木工「森林小树屋」视频，拆解解压过程加惊艳结果的爆款逻辑，提示词在评论。  
-  @CrazyKaomei · 2026-10-25
-- **[AI 音乐短片《茶汤》六步制作全流程](https://x.com/xitang_ai/status/2114258652928381298)** — 拆解从找对标、写剧本、做角色场景到即梦生视频、剪映后期的完整 AI 短片制作流程，附提示词。  
-  @xitang_ai · 2026-10-25
-- **[Gemini Omni 1.1 Flash 生成视频作品](https://x.com/DeepBlueX0/status/2114214646769147978)** — 用 Gemini Omni 1.1 Flash 模型生成的一段意境视频作品。  
-  @DeepBlueX0 · 2026-10-25
-- **[用 AI 创作绘本、动画和互动课件](https://x.com/majiabin/status/2114179994343887266)** — 教程：教你用 AI 制作儿童绘本、动画和互动课件。  
-  @majiabin · 2026-10-25
-- **[Opus 的艺术作品](https://x.com/petergostev/status/2113260175155220903)** — 作者展示 Claude Opus 生成的艺术作品，感叹它很有艺术感。  
-  @petergostev · 2026-10-22
-- **[Lemo-Opuscar 更新：8 种新风格](https://x.com/lemomo_ai/status/2113195080517562646)** — Lemo-Opuscar 风格库大更新，新增 8 种风格和改编玩法，变成风格制作工具箱。  
-  @lemomo_ai · 2026-10-22
-- **[ChatGPT×Muse一图做微电影](https://x.com/vincent_ddup/status/2112547806946677038)** — ChatGPT负责导演分镜、Muse负责成片，用一张图做出《世界之树》微电影。  
-  @vincent_ddup · 2026-10-20
-- **[「Vibe知识大赏」爆款知识短片教程](https://x.com/guanmo_ai/status/2112525216924807210)** — 拆解抖音Vibe知识大赏赛道的选题、标题钩子和视觉风格，用Opus代码生成知识短片，附完整提示词。  
-  @guanmo_ai · 2026-10-20
-- **[可灵4.0实测与AI短剧全流程教程](https://x.com/xitang_ai/status/2112514646196244880)** — 对比可灵4.0与Seedance 2.5五组案例，并用Codex接入可灵完成剧本、资产、生成到剪辑的AI短剧全流程。  
-  @xitang_ai · 2026-10-20
-- **[AI直出北京3D城市历史视频](https://x.com/Gorden_Sun/status/2112488511479902346)** — 用一段提示词让AI构建北京3D城市并生成讲解北京历史的视频。  
-  @Gorden_Sun · 2026-10-20
-- **[Opus+Renoise做视频](https://x.com/PMbackttfuture/status/2112354179054531006)** — 作者用Claude Code+Renoise生成视频，解读Opus为何对视频制作是颠覆式的。  
-  @PMbackttfuture · 2026-10-20
-- **[Opus复刻小Lin说10分钟视频](https://x.com/WaterrrMiao/status/2112122511509065797)** — 用Opus 5.5和HyperFrames做出10分钟小Lin说风格的经济讲解视频。  
-  @WaterrrMiao · 2026-10-19
-- **[Opus5.5做视频流程与提示词](https://x.com/VincentWei93/status/2111798272776179741)** — 分享用Opus 5.5写代码做视频和剪辑的流程与提示词。  
-  @VincentWei93 · 2026-10-18
-- **[Claude渲染成都3271年城市史](https://x.com/EianLu/status/2111662397278847478)** — 全部由Claude写代码渲染的成都城市变迁短片《一座城的年轮》。  
-  @EianLu · 2026-10-18
-- **[Opus5.5做7分钟手绘动画](https://x.com/HaileyAILabs/status/2111265099096973334)** — 不会画画剪辑，用Opus 5.5加豆包配音把故事做成动画，Skill开源。  
-  @HaileyAILabs · 2026-10-17
-- **[让Claude从Openverse免费音效库配音效](https://x.com/yupi996/status/2110978294891897173)** — 把Openverse接口给Claude，剪视频时自动搜索下载免费音效，无需API Key，音效建议按freesound来源搜。  
-  @yupi996 · 2026-10-16
-- **[Opus+Tripo做3D游戏](https://x.com/Saccc_c/status/2110694725640474759)** — 用 Opus 5.5、Tripo 等把《小王子》做成可探索 3D 游戏的手把手教程。  
-  @Saccc_c · 2026-10-15
-- **[Opus做《小王子》3D游戏](https://x.com/Saccc_c/status/2109962425512734739)** — 用Opus 5.5+Tripo+Blender把小王子故事做成3D剧情游戏。  
-  @Saccc_c · 2026-10-13
-- **[Anatomy Skill做科普动画](https://x.com/op7418/status/2109679880438989160)** — 用Anatomy Skill+Grok Bot+即梦制作等轴立体机械科普视频。  
-  @op7418 · 2026-10-13
-- **[Muse AI注册教程](https://x.com/ai_suxiaole/status/2108146466082734198)** — 绕过等待名单注册Muse AI（10月8日更新）。  
-  @ai_suxiaole · 2026-10-08
-- **[huashu-art-motion成果](https://x.com/AlchainHust/status/2107757400224596291)** — 首批用户用huashu-art-motion做动效作品的成果。  
-  @AlchainHust · 2026-10-07
-- **[Muse一键注册方法](https://x.com/Super_Nius/status/2107374944296603960)** — Muse手机/PC端三分钟注册、免年龄验证的方法。  
-  @Super_Nius · 2026-10-06
-- **[零基础用Opus做视频](https://x.com/xilo2991/status/2104912748794589515)** — 万字拆解AI用代码做视频，提示词与Skill开源。  
-  @xilo2991 · 2026-09-29
-- **[Opus5.5稳定出片：39种风格视频库](https://x.com/lemomo_ai/status/2103823847632060854)** — 作者开源39种风格视频库，总结用Opus 5.5稳定生成视频的方法。  
-  @lemomo_ai · 2026-09-26
-- **[Muse上手保姆级教程](https://x.com/0xlangeai/status/2103300004966478284)** — Muse从登录到完成第一个任务的入门教程。  
-  @0xlangeai · 2026-09-25
-- **[YouTube火柴人视频搞钱流水线](https://x.com/CrazyKaomei/status/2102311241046008268)** — 开源火柴人视频Skill，含爆款文案结构与豆包成片全流程。  
-  @CrazyKaomei · 2026-09-22
-- **[AI游戏20天赚23000元](https://x.com/XiaohuiAI666/status/2102236448175128643)** — 作者用AI做游戏发布20天的收入复盘。  
-  @XiaohuiAI666 · 2026-09-22
-- **[GPT-6做3D小岛Tidehaven](https://x.com/vib3coded/status/2100752564832616652)** — 用GPT-6 Astra+Three.js做交互式3D场景（英文）。  
-  @vib3coded · 2026-09-18
-- **[人人做游戏](https://x.com/berryxia/status/2100646925007737292)** — AI生成类塞尔达矿车游戏的演示。  
-  @berryxia · 2026-09-18
-- **[GPT Image 2.5做游戏画面](https://x.com/muku_sns/status/2098994140310843550)** — 用GPT Image 2.5批量生成儿童暑假游戏画面（日文）。  
-  @muku_sns · 2026-09-13
-- **[Unity 6.6 CLI+Astra](https://x.com/speaksGaming/status/2098964589752779221)** — 用Unity新CLI与AI生成四季场景（英文）。  
-  @speaksGaming · 2026-09-13
-- **[悉尼城3D交互场景](https://x.com/rionaifantasy/status/2098797241628758421)** — 用AI做悉尼3D场景，参考谷歌地图优化。  
-  @rionaifantasy · 2026-09-12
-- **[StoryComet儿童绘本](https://x.com/MengTo/status/2098027027760840864)** — 三天用AI做出15本五语种动画儿童书（英文）。  
-  @MengTo · 2026-09-10
-- **[GPT 6做可售卖游戏](https://x.com/xenit_v0/status/2097908321718071433)** — 用GPT 6从零做出完整咖啡馆游戏（土耳其语）。  
-  @xenit_v0 · 2026-09-10
-- **[GPT6 vs GPT5.6生成对比](https://x.com/Jolyne_AI/status/2097530771028476047)** — 同一提示词下GPT6生成效果震撼。  
-  @Jolyne_AI · 2026-09-09
-- **[旅行照片转极简纸感丙烯手绘提示词](https://x.com/AdrianPunk115/status/2089960426624758079)** — 一套把照片提炼成粗糙白纸、少量线条加鲜明丙烯色块、大留白风格封面插画的提示词。  
-  @AdrianPunk115 · 2026-08-19
-
 <a id="cat-2"></a>
 
-## 自媒体运营与赚钱（35）
+## 自媒体运营与赚钱（36）
 
+- **[用费曼学习法写 AI 口播稿的提示词](https://x.com/369Serena/status/2115232080661774386)** — 在口播稿提示词里加入费曼学习法，按钩子、痛点共鸣等结构把复杂 AI 概念讲得通俗易懂。  
+  @369Serena · 2026-10-28
 - **[开源 Skill 全自动做视频号带货](https://x.com/Tanghulu188/status/2115052176968159627)** — 作者开源 Story Studio，用 AI Agent 一句话自动完成历史故事短视频的选题、配音、分镜到剪映草稿，并分享带货成绩。  
   @Tanghulu188 · 2026-10-27
 - **[0 粉公众号一个月真实数据](https://x.com/yuguo_aicn/status/2114579166029070382)** — 作者公开新公众号运营一个月的数据：总阅读超 10 万、关注 290、流量主一周收入 125 元，靠追热点。  
@@ -399,8 +403,10 @@
 
 <a id="cat-5"></a>
 
-## Grok Bot 玩法（19）
+## Grok Bot 玩法（20）
 
+- **[各家个人 AI 助理的价格门槛汇总](https://x.com/Shuton_leon/status/2115009002136563920)** — 对比 Grok Bot、GPT Dots、Claude Duet、Gemini Spark 和 Muse 的订阅门槛，Muse 可先免费试用。  
+  @Shuton_leon · 2026-10-27
 - **[用 Grok Bot 替换 iPhone Siri](https://x.com/liyue_ai/status/2114570263035789763)** — 作者介绍通过快捷指令和语音快捷方式，用「Hey Grok」唤醒 Grok Bot 语音对话来替代 Siri 的设置步骤。  
   @liyue_ai · 2026-10-26
 - **[《53 个 Grok Bot 模板》视频版](https://x.com/yaohongan2025/status/2114335185915269293)** — 作者用 Opus 5.5 + Blender 把 9000 多字的 53 个 Grok Bot 模板长文做成 3 分钟视频，按 7 类快速浏览。  
