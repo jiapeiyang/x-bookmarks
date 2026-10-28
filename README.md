@@ -2,15 +2,15 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **225** 条书签 · 最后更新：2026-10-28 11:36（北京时间）
+共 **234** 条书签 · 最后更新：2026-10-28 14:44（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 45 条
-- [翻墙 / VPS / 网络节点](#cat-1) — 45 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 51 条
+- [翻墙 / VPS / 网络节点](#cat-1) — 47 条
 - [自媒体运营与赚钱](#cat-2) — 36 条
 - [AI 编程与开发工具](#cat-3) — 33 条
-- [Claude·ChatGPT 账号与订阅](#cat-4) — 21 条
+- [Claude·ChatGPT 账号与订阅](#cat-4) — 22 条
 - [Grok Bot 玩法](#cat-5) — 20 条
 - [娱乐与其他](#cat-6) — 9 条
 - [学习教育与思维](#cat-7) — 8 条
@@ -18,12 +18,24 @@
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（45）
+## AI 创作（视频/游戏/3D）（51）
 
+- **[用 1 分钱/秒的 MiniMax H3 平替 Seedance](https://x.com/GaryAIytb/status/2115274475323207969)** — 实测一百多条视频，用 RH 上的 MiniMax H3 低成本替代 Seedance 和复杂 ComfyUI 的制作流程。  
+  @GaryAIytb · 2026-10-28
+- **[Seedance 2.5 制作的 AI 视频佳作（附提示词）](https://x.com/AizaAi12/status/2115273090129400014)** — 一条用 Seedance 2.5 生成的高质量 AI 视频，作者附上了提示词。  
+  @AizaAi12 · 2026-10-28
 - **[Opus 5.5 纯代码生成的治愈系 3D 小世界](https://x.com/keydol123/status/2115168883040817610)** — 作者用 Opus 5.5 零素材、全代码搭出带水车、柳树、瀑布和凉亭的温馨小场景。  
   @keydol123 · 2026-10-28
+- **[Mr Animer 的搞笑 AI 动画短片](https://x.com/MrAnimer_X/status/2115131666717184200)** — 一条搞笑向的 AI 动画视频。  
+  @MrAnimer_X · 2026-10-28
+- **[一条风格相似的 AI 创意视频分享](https://x.com/saishankar404/status/2115089469854601505)** — sai 回复中分享的一条风格相近的创意视频作品。  
+  @saishankar404 · 2026-10-27
+- **[用 Claude Code 拉片 + MiniMax H3 做宣传视频](https://x.com/eternityspring/status/2115073449983164432)** — 让 Claude Code 拉片改写剧本，再调用 MiniMax H3 官方 skill 写提示词生成视频，素材在评论区。  
+  @eternityspring · 2026-10-27
 - **[369 个 AI 视频与自动剪辑开源项目评估](https://x.com/leo_xiaolei/status/2115032723375218763)** — 作者整理了 369 个能让 Claude Code、Codex 等 Agent 生成视频、自动剪辑和渲染动效的开源仓库清单。  
   @leo_xiaolei · 2026-10-27
+- **[Seedance 2.5 制作的 AI 视频佳作 Part 2](https://x.com/AiwithBloodline/status/2115023229350039664)** — Dr Bloodline 分享的 Seedance 2.5 高质量 AI 视频第二部分。  
+  @AiwithBloodline · 2026-10-27
 - **[AI 视频做营销段子的思路](https://x.com/eternityspring/status/2114889855545278727)** — 建议 AI 视频不只盯短剧，可借爽剧名场面改编剧本、结合实体行业做营销段子，低成本获得曝光。  
   @eternityspring · 2026-10-27
 - **[孟菲斯微缩世界动画提示词](https://x.com/EianLu/status/2114695987424063730)** — 作者分享用代码（Canvas+无头 Chrome+ffmpeg）生成孟菲斯风格微缩世界治愈动画的完整提示词。  
@@ -113,7 +125,7 @@
 
 <a id="cat-1"></a>
 
-## 翻墙 / VPS / 网络节点（45）
+## 翻墙 / VPS / 网络节点（47）
 
 - **[VPS 被墙的三种应对方法](https://x.com/InfiCheesy/status/2115135555579326602)** — 针对 GFW 封锁海外服务器 TCP 连接，推荐改用 UDP 节点（Hy2/TUIC）、IPv6 节点或 Cloudflare CDN 应急。  
   @InfiCheesy · 2026-10-28
@@ -121,6 +133,10 @@
   @app_sail · 2026-10-28
 - **[2026 推特口碑 VPN 推荐（外贸版）](https://x.com/MeiJynol/status/2115026780952424906)** — 汇总推特 37 条真实用户评价，按稳定性、速度、价格给外贸人推荐 ExpressVPN、Astrill、Surfshark 等 VPN。  
   @MeiJynol · 2026-10-27
+- **[InstaBox 4 核 8G 免费云主机保姆级教程](https://x.com/Ylj158852/status/2114980778899845132)** — 零元领取 InstaBox 4 核 8G 云主机的步骤，附保活防暂停方法。  
+  @Ylj158852 · 2026-10-27
+- **[免费领 Google GCP VPS，配合 Muse 一键开通](https://x.com/morganxu45/status/2114974286649929852)** — 推荐 InstaBox 之外再领 GCP 免费服务器 24 小时在线，Pro 会员每月 10 美元额度，附 Muse skill。  
+  @morganxu45 · 2026-10-27
 - **[DediRock 美国 VPS 年付 9.88 美元特价](https://x.com/gwvpsceping/status/2114295918342156443)** — 纽约、洛杉矶双节点，1 核 2G、30G SSD、2TB 月流量，适合建站和测试。  
   @gwvpsceping · 2026-10-25
 - **[免费 VPS 推荐安装的 10 个开源项目](https://x.com/0xjackkk/status/2114043891716612409)** — 甲骨文免费 ARM 开出来后可部署 Uptime Kuma、New API、Vaultwarden 等实用开源项目。  
@@ -356,8 +372,10 @@
 
 <a id="cat-4"></a>
 
-## Claude·ChatGPT 账号与订阅（21）
+## Claude·ChatGPT 账号与订阅（22）
 
+- **[6.99 美元拿下一年美国手机号并注册 Claude](https://x.com/zyan13145/status/2115160903348015306)** — 中国护照秒过 KYC，5 分钟开通一年美国手机号，顺手注册 Claude 和 Gmail 的截图教程。  
+  @zyan13145 · 2026-10-28
 - **[用 VPS + Magpie 降低 Claude 封号风险](https://x.com/vincemask/status/2113810654872424697)** — 把 Claude 账号绑定在美国 VPS 的 Magpie 上，本地 Claude Code 通过远程 Magpie 统一走 VPS 出口调用。  
   @vincemask · 2026-10-24
 - **[Claude 注册跳过 KYC 的方法](https://x.com/aehyok/status/2113160491573068260)** — 先在 Claude 开发者平台注册并选「个人」，再登录 claude.ai，即可免 KYC 注册普号。  
