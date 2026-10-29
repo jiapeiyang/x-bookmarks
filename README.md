@@ -2,18 +2,18 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **254** 条书签 · 最后更新：2026-10-28 16:20（北京时间）
+共 **256** 条书签 · 最后更新：2026-10-29 09:24（北京时间）
 
 ## 目录
 
 - [AI 创作（视频/游戏/3D）](#cat-0) — 58 条
-- [翻墙 / VPS / 网络节点](#cat-1) — 46 条
-- [AI 编程与开发工具](#cat-2) — 40 条
+- [翻墙 / VPS / 网络节点](#cat-1) — 45 条
+- [AI 编程与开发工具](#cat-2) — 41 条
 - [自媒体运营与赚钱](#cat-3) — 38 条
-- [Claude·ChatGPT 账号与订阅](#cat-4) — 23 条
-- [Grok Bot 玩法](#cat-5) — 23 条
-- [娱乐与其他](#cat-6) — 9 条
-- [学习教育与思维](#cat-7) — 9 条
+- [Grok Bot 玩法](#cat-4) — 24 条
+- [Claude·ChatGPT 账号与订阅](#cat-5) — 23 条
+- [学习教育与思维](#cat-6) — 10 条
+- [娱乐与其他](#cat-7) — 9 条
 - [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
@@ -139,14 +139,12 @@
 
 <a id="cat-1"></a>
 
-## 翻墙 / VPS / 网络节点（46）
+## 翻墙 / VPS / 网络节点（45）
 
 - **[VPS 被墙的三种应对方法](https://x.com/InfiCheesy/status/2115135555579326602)** — 针对 GFW 封锁海外服务器 TCP 连接，推荐改用 UDP 节点（Hy2/TUIC）、IPv6 节点或 Cloudflare CDN 应急。  
   @InfiCheesy · 2026-10-28
 - **[Claude Code 专用 VPS 选购网站](https://x.com/app_sail/status/2115126953825185925)** — 作者做了一个为 Claude Code 精选 VPS 的网站，可按运营商和线路筛选，提供测试 IP、延迟和优惠码自动更新。  
   @app_sail · 2026-10-28
-- **[2026 推特口碑 VPN 推荐（外贸版）](https://x.com/MeiJynol/status/2115026780952424906)** — 汇总推特 37 条真实用户评价，按稳定性、速度、价格给外贸人推荐 ExpressVPN、Astrill、Surfshark 等 VPN。  
-  @MeiJynol · 2026-10-27
 - **[InstaBox 4 核 8G 免费云主机保姆级教程](https://x.com/Ylj158852/status/2114980778899845132)** — 零元领取 InstaBox 4 核 8G 云主机的步骤，附保活防暂停方法。  
   @Ylj158852 · 2026-10-27
 - **[免费领 Google GCP VPS，配合 Muse 一键开通](https://x.com/morganxu45/status/2114974286649929852)** — 推荐 InstaBox 之外再领 GCP 免费服务器 24 小时在线，Pro 会员每月 10 美元额度，附 Muse skill。  
@@ -236,8 +234,10 @@
 
 <a id="cat-2"></a>
 
-## AI 编程与开发工具（40）
+## AI 编程与开发工具（41）
 
+- **[instabox 云主机上手须知](https://x.com/morganxu45/status/2115303778245394929)** — 船长AI 介绍 instabox：4核8G、带公网入口免 VPN，预装 Claude、Codex 等开发环境，可补 Muse 短板。  
+  @morganxu45 · 2026-10-28
 - **[用 GPT-6.1 Terra 跑浏览器操控任务](https://x.com/Khazix0918/status/2115093669657371061)** — 作者让 Claude 调用 Codex 操控浏览器和电脑，实测新出的 GPT-6.1 Terra 又快又稳又省，于是切为默认模型。  
   @Khazix0918 · 2026-10-27
 - **[FDE 实战：海量多模态数据清洗](https://x.com/miles_mazy/status/2115006510979801566)** — 以美妆企业项目为例，讲解把小红书、抖音等平台的多模态数据清洗、关联、核验并入库的八步通用链路。  
@@ -402,6 +402,59 @@
 
 <a id="cat-4"></a>
 
+## Grok Bot 玩法（24）
+
+- **[各家个人 AI 助理的价格门槛汇总](https://x.com/Shuton_leon/status/2115009002136563920)** — 对比 Grok Bot、GPT Dots、Claude Duet、Gemini Spark 和 Muse 的订阅门槛，Muse 可先免费试用。  
+  @Shuton_leon · 2026-10-27
+- **[四款 Personal Agent 中国大陆实测对比](https://x.com/QianXiguaAI/status/2114994258889638097)** — 钱西瓜用 8 个通用场景实测 Grok Bot、Muse、Dots、Instinct，Grok Bot 以 7/8 完成度领先。  
+  @QianXiguaAI · 2026-10-27
+- **[用 Grok Bot 替换 iPhone Siri](https://x.com/liyue_ai/status/2114570263035789763)** — 作者介绍通过快捷指令和语音快捷方式，用「Hey Grok」唤醒 Grok Bot 语音对话来替代 Siri 的设置步骤。  
+  @liyue_ai · 2026-10-26
+- **[《53 个 Grok Bot 模板》视频版](https://x.com/yaohongan2025/status/2114335185915269293)** — 作者用 Opus 5.5 + Blender 把 9000 多字的 53 个 Grok Bot 模板长文做成 3 分钟视频，按 7 类快速浏览。  
+  @yaohongan2025 · 2026-10-25
+- **[「我看谁不学 Grok bot」Day1：打通 IM 与本地设备](https://x.com/czzzzzzJ_/status/2114204952403030210)** — 讲解把微信变成接收 Bot 成果的入口，以及给常驻工作站配专属管家 Bot 的玩法。  
+  @czzzzzzJ_ · 2026-10-25
+- **[7 个 Grok Bot 副业接单模式](https://x.com/0xluffy_eth/status/2113088019628777551)** — 用 Grok Bot 做副业的 7 种接单模式，含工作流、定价方法、审稿清单和 30 天起步计划。  
+  @0xluffy_eth · 2026-10-22
+- **[发挥 Grok Bot 最强实力的 7 个底层用法](https://x.com/Jackywxsz/status/2112831856777605166)** — 从 Bot 军团分工、产物落盘、知识库打通、Skill、模型混合调度到 Routine 自动化，讲透 Grok Bot 进阶用法。  
+  @Jackywxsz · 2026-10-21
+- **[Grok Bot 新手指南中文学习站](https://x.com/cgnot996/status/2112761781080965416)** — 铁柱AGI整理的开源非官方中文学习站，四篇25章，从跑通第一个任务到触发器与多Bot协作，附案例和模板。  
+  @cgnot996 · 2026-10-21
+- **[53个Grok Bot模板分类合集](https://x.com/yaohongan2025/status/2112348685778489753)** — 按七类场景整理53个可一键复制的Grok Bot调教模板。  
+  @yaohongan2025 · 2026-10-20
+- **[用Grok Bot搭建X运营流程](https://x.com/SIAxiom/status/2111689540792655982)** — 10步用Grok Bot完成选题、创作、定时任务与复盘的X运营方案。  
+  @SIAxiom · 2026-10-18
+- **[Grok Bot接进微信实操](https://x.com/EvanWritesX/status/2111661828749373784)** — 把Grok Bot接入微信，发一句话让它去干活的教程。  
+  @EvanWritesX · 2026-10-18
+- **[Grok Bot是最好的产品](https://x.com/bei351009016/status/2111638973198016621)** — 作者称Grok Bot是最近用过最好的产品。  
+  @bei351009016 · 2026-10-18
+- **[Grok Bot必读文章合集](https://x.com/0xlangeai/status/2111396742264742034)** — 按9个分类整理24篇高阅读量Grok Bot文章。  
+  @0xlangeai · 2026-10-17
+- **[Grok Bot+Pi Agent+DeepSeek省额度](https://x.com/fankaishuoai/status/2111258866877190576)** — 让Grok Bot调度Pi Agent和DeepSeek，避免套餐额度不够用。  
+  @fankaishuoai · 2026-10-17
+- **[官方教你跑Grok Bot团队](https://x.com/CarsonYangk8s/status/2110593952290418918)** — 官方教程讲解如何用几十个 Grok Bot 组成可自我迭代升级的团队。  
+  @CarsonYangk8s · 2026-10-15
+- **[用Grok Bot打造纯净时间线](https://x.com/HiTw93/status/2110154365667336695)** — 分享让Grok Bot每晚整理中文推特精选的提示词。  
+  @HiTw93 · 2026-10-14
+- **[AI早报视频提示词](https://x.com/op7418/status/2108148741014458839)** — 上一条的完整提示词，可直接复制给Grok Bot。  
+  @op7418 · 2026-10-08
+- **[Grok Bot每天出AI早报视频](https://x.com/op7418/status/2108148604447883464)** — 让Grok Bot在云端自动生成每日AI早报视频。  
+  @op7418 · 2026-10-08
+- **[Grok Bot接入微信指南](https://x.com/KinGao476942/status/2108132811635032316)** — 把Grok Bot接入微信的保姆级教程与提示词。  
+  @KinGao476942 · 2026-10-08
+- **[自媒体如何用好Grok Bot](https://x.com/KinGao476942/status/2099736121781764594)** — 介绍做自媒体时使用Grok Bot的方法。  
+  @KinGao476942 · 2026-09-15
+- **[用Grok Bot搭建自媒体团队](https://x.com/AdrianPunk115/status/2097311704547987756)** — 保姆级教程：用Grok Bot组建自媒体工作流。  
+  @AdrianPunk115 · 2026-09-08
+- **[Grok Bot 工程师开源的元 skill：自动生成验证 Skill](https://x.com/Saccc_c/status/2095428351595020774)** — 介绍能为每个项目自动创建验收 Skill 的元 skill，重点是项目 CLI 和功能地图两个设计。  
+  @Saccc_c · 2026-09-03
+- **[新手 Grok Bot 25 个功能概念手册](https://x.com/tonychuhai/status/2095087061045051620)** — Tony出海为新手整理的 Grok Bot 25 个核心功能与概念说明。  
+  @tonychuhai · 2026-09-02
+- **[用 SSH 连上 Grok Bot 服务器保姆级教程](https://x.com/0xlangeai/status/2093192039051489662)** — 蓝哥AI 手把手教你通过 SSH 连接 Grok Bot 的云端服务器。  
+  @0xlangeai · 2026-08-28
+
+<a id="cat-5"></a>
+
 ## Claude·ChatGPT 账号与订阅（23）
 
 - **[6.99 美元拿下一年美国手机号并注册 Claude](https://x.com/zyan13145/status/2115160903348015306)** — 中国护照秒过 KYC，5 分钟开通一年美国手机号，顺手注册 Claude 和 Gmail 的截图教程。  
@@ -451,58 +504,32 @@
 - **[美区Apple ID+PayPal+Starryblu订阅Claude](https://x.com/Lonely__MH/status/2093347789459906831)** — 介绍用美区Apple ID、美区PayPal搭配Starryblu卡内购订阅Claude，被封号也方便退款。  
   @Lonely__MH · 2026-08-28
 
-<a id="cat-5"></a>
-
-## Grok Bot 玩法（23）
-
-- **[各家个人 AI 助理的价格门槛汇总](https://x.com/Shuton_leon/status/2115009002136563920)** — 对比 Grok Bot、GPT Dots、Claude Duet、Gemini Spark 和 Muse 的订阅门槛，Muse 可先免费试用。  
-  @Shuton_leon · 2026-10-27
-- **[用 Grok Bot 替换 iPhone Siri](https://x.com/liyue_ai/status/2114570263035789763)** — 作者介绍通过快捷指令和语音快捷方式，用「Hey Grok」唤醒 Grok Bot 语音对话来替代 Siri 的设置步骤。  
-  @liyue_ai · 2026-10-26
-- **[《53 个 Grok Bot 模板》视频版](https://x.com/yaohongan2025/status/2114335185915269293)** — 作者用 Opus 5.5 + Blender 把 9000 多字的 53 个 Grok Bot 模板长文做成 3 分钟视频，按 7 类快速浏览。  
-  @yaohongan2025 · 2026-10-25
-- **[「我看谁不学 Grok bot」Day1：打通 IM 与本地设备](https://x.com/czzzzzzJ_/status/2114204952403030210)** — 讲解把微信变成接收 Bot 成果的入口，以及给常驻工作站配专属管家 Bot 的玩法。  
-  @czzzzzzJ_ · 2026-10-25
-- **[7 个 Grok Bot 副业接单模式](https://x.com/0xluffy_eth/status/2113088019628777551)** — 用 Grok Bot 做副业的 7 种接单模式，含工作流、定价方法、审稿清单和 30 天起步计划。  
-  @0xluffy_eth · 2026-10-22
-- **[发挥 Grok Bot 最强实力的 7 个底层用法](https://x.com/Jackywxsz/status/2112831856777605166)** — 从 Bot 军团分工、产物落盘、知识库打通、Skill、模型混合调度到 Routine 自动化，讲透 Grok Bot 进阶用法。  
-  @Jackywxsz · 2026-10-21
-- **[Grok Bot 新手指南中文学习站](https://x.com/cgnot996/status/2112761781080965416)** — 铁柱AGI整理的开源非官方中文学习站，四篇25章，从跑通第一个任务到触发器与多Bot协作，附案例和模板。  
-  @cgnot996 · 2026-10-21
-- **[53个Grok Bot模板分类合集](https://x.com/yaohongan2025/status/2112348685778489753)** — 按七类场景整理53个可一键复制的Grok Bot调教模板。  
-  @yaohongan2025 · 2026-10-20
-- **[用Grok Bot搭建X运营流程](https://x.com/SIAxiom/status/2111689540792655982)** — 10步用Grok Bot完成选题、创作、定时任务与复盘的X运营方案。  
-  @SIAxiom · 2026-10-18
-- **[Grok Bot接进微信实操](https://x.com/EvanWritesX/status/2111661828749373784)** — 把Grok Bot接入微信，发一句话让它去干活的教程。  
-  @EvanWritesX · 2026-10-18
-- **[Grok Bot是最好的产品](https://x.com/bei351009016/status/2111638973198016621)** — 作者称Grok Bot是最近用过最好的产品。  
-  @bei351009016 · 2026-10-18
-- **[Grok Bot必读文章合集](https://x.com/0xlangeai/status/2111396742264742034)** — 按9个分类整理24篇高阅读量Grok Bot文章。  
-  @0xlangeai · 2026-10-17
-- **[Grok Bot+Pi Agent+DeepSeek省额度](https://x.com/fankaishuoai/status/2111258866877190576)** — 让Grok Bot调度Pi Agent和DeepSeek，避免套餐额度不够用。  
-  @fankaishuoai · 2026-10-17
-- **[官方教你跑Grok Bot团队](https://x.com/CarsonYangk8s/status/2110593952290418918)** — 官方教程讲解如何用几十个 Grok Bot 组成可自我迭代升级的团队。  
-  @CarsonYangk8s · 2026-10-15
-- **[用Grok Bot打造纯净时间线](https://x.com/HiTw93/status/2110154365667336695)** — 分享让Grok Bot每晚整理中文推特精选的提示词。  
-  @HiTw93 · 2026-10-14
-- **[AI早报视频提示词](https://x.com/op7418/status/2108148741014458839)** — 上一条的完整提示词，可直接复制给Grok Bot。  
-  @op7418 · 2026-10-08
-- **[Grok Bot每天出AI早报视频](https://x.com/op7418/status/2108148604447883464)** — 让Grok Bot在云端自动生成每日AI早报视频。  
-  @op7418 · 2026-10-08
-- **[Grok Bot接入微信指南](https://x.com/KinGao476942/status/2108132811635032316)** — 把Grok Bot接入微信的保姆级教程与提示词。  
-  @KinGao476942 · 2026-10-08
-- **[自媒体如何用好Grok Bot](https://x.com/KinGao476942/status/2099736121781764594)** — 介绍做自媒体时使用Grok Bot的方法。  
-  @KinGao476942 · 2026-09-15
-- **[用Grok Bot搭建自媒体团队](https://x.com/AdrianPunk115/status/2097311704547987756)** — 保姆级教程：用Grok Bot组建自媒体工作流。  
-  @AdrianPunk115 · 2026-09-08
-- **[Grok Bot 工程师开源的元 skill：自动生成验证 Skill](https://x.com/Saccc_c/status/2095428351595020774)** — 介绍能为每个项目自动创建验收 Skill 的元 skill，重点是项目 CLI 和功能地图两个设计。  
-  @Saccc_c · 2026-09-03
-- **[新手 Grok Bot 25 个功能概念手册](https://x.com/tonychuhai/status/2095087061045051620)** — Tony出海为新手整理的 Grok Bot 25 个核心功能与概念说明。  
-  @tonychuhai · 2026-09-02
-- **[用 SSH 连上 Grok Bot 服务器保姆级教程](https://x.com/0xlangeai/status/2093192039051489662)** — 蓝哥AI 手把手教你通过 SSH 连接 Grok Bot 的云端服务器。  
-  @0xlangeai · 2026-08-28
-
 <a id="cat-6"></a>
+
+## 学习教育与思维（10）
+
+- **[开源 55 门高中理科 3D 互动实验课件](https://x.com/CopperForgeAI/status/2115311202876453351)** — 铜匠开源对齐人教版教材的物理化学生物地理 3D 课件，单文件 HTML 可离线使用，并分享 AI 制作流程。  
+  @CopperForgeAI · 2026-10-28
+- **[2小时建立AI认知体系](https://x.com/long_jingai/status/2111356255889723723)** — 一篇文章带零基础读者系统了解AI（企业内训同款）。  
+  @long_jingai · 2026-10-17
+- **[每日必看的三个网站](https://x.com/WY_mask/status/2109685526567764019)** — 推荐中文聚合海外热点新闻等三个每日浏览网站。  
+  @WY_mask · 2026-10-13
+- **[3D互动地理沙盘课件](https://x.com/readyfor2025/status/2108409664018977249)** — 融合自然地理历史等12主题的互动3D学习课件。  
+  @readyfor2025 · 2026-10-09
+- **[交互式教学工具库](https://x.com/jinglian/status/2108037441005445598)** — 推荐免安装的网页交互式教学工具网站。  
+  @jinglian · 2026-10-08
+- **[GitHub人生建议仓库](https://x.com/BossBear_0621/status/2106766370285441195)** — 39.6K星项目，34主题654条关于钱与自由的人生建议。  
+  @BossBear_0621 · 2026-10-04
+- **[托马斯的硅谷来信001](https://x.com/thomaszhou_/status/2103401515822272782)** — 探讨AI投简历与AI筛简历时代个人能力如何被看见。  
+  @thomaszhou_ · 2026-09-25
+- **[Claude生成地理教学视频](https://x.com/akokoi1/status/2102606609574941028)** — 老师用Opus 5.5一段提示词生成“大气环流”讲解视频的教程。  
+  @akokoi1 · 2026-09-23
+- **[四大思维模型](https://x.com/knowledgefxg/status/2099884732855341478)** — 第一性原理、贝叶斯、复利、逆向思维。  
+  @knowledgefxg · 2026-09-15
+- **[万字长文：Hugging Face 从入门到精通](https://x.com/miles_mazy/status/2094730635932053664)** — Miles Ma 系统讲解 Hugging Face 平台的模型、数据集与使用方法。  
+  @miles_mazy · 2026-09-01
+
+<a id="cat-7"></a>
 
 ## 娱乐与其他（9）
 
@@ -524,29 +551,6 @@
   @xupaopaogm · 2026-10-02
 - **[iPhone 多区 Apple ID 同时更新下载的小技巧](https://x.com/xiangxiang103/status/2070562452492968236)** — 通过备忘录添加外区 iCloud 账户并信任设备，免切换账号即可更新多区 App。  
   @xiangxiang103 · 2026-06-27
-
-<a id="cat-7"></a>
-
-## 学习教育与思维（9）
-
-- **[2小时建立AI认知体系](https://x.com/long_jingai/status/2111356255889723723)** — 一篇文章带零基础读者系统了解AI（企业内训同款）。  
-  @long_jingai · 2026-10-17
-- **[每日必看的三个网站](https://x.com/WY_mask/status/2109685526567764019)** — 推荐中文聚合海外热点新闻等三个每日浏览网站。  
-  @WY_mask · 2026-10-13
-- **[3D互动地理沙盘课件](https://x.com/readyfor2025/status/2108409664018977249)** — 融合自然地理历史等12主题的互动3D学习课件。  
-  @readyfor2025 · 2026-10-09
-- **[交互式教学工具库](https://x.com/jinglian/status/2108037441005445598)** — 推荐免安装的网页交互式教学工具网站。  
-  @jinglian · 2026-10-08
-- **[GitHub人生建议仓库](https://x.com/BossBear_0621/status/2106766370285441195)** — 39.6K星项目，34主题654条关于钱与自由的人生建议。  
-  @BossBear_0621 · 2026-10-04
-- **[托马斯的硅谷来信001](https://x.com/thomaszhou_/status/2103401515822272782)** — 探讨AI投简历与AI筛简历时代个人能力如何被看见。  
-  @thomaszhou_ · 2026-09-25
-- **[Claude生成地理教学视频](https://x.com/akokoi1/status/2102606609574941028)** — 老师用Opus 5.5一段提示词生成“大气环流”讲解视频的教程。  
-  @akokoi1 · 2026-09-23
-- **[四大思维模型](https://x.com/knowledgefxg/status/2099884732855341478)** — 第一性原理、贝叶斯、复利、逆向思维。  
-  @knowledgefxg · 2026-09-15
-- **[万字长文：Hugging Face 从入门到精通](https://x.com/miles_mazy/status/2094730635932053664)** — Miles Ma 系统讲解 Hugging Face 平台的模型、数据集与使用方法。  
-  @miles_mazy · 2026-09-01
 
 <a id="cat-8"></a>
 
