@@ -2,24 +2,36 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **256** 条书签 · 最后更新：2026-10-29 09:24（北京时间）
+共 **272** 条书签 · 最后更新：2026-10-30 09:15（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 58 条
-- [翻墙 / VPS / 网络节点](#cat-1) — 45 条
-- [AI 编程与开发工具](#cat-2) — 41 条
-- [自媒体运营与赚钱](#cat-3) — 38 条
-- [Grok Bot 玩法](#cat-4) — 24 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 64 条
+- [翻墙 / VPS / 网络节点](#cat-1) — 46 条
+- [AI 编程与开发工具](#cat-2) — 42 条
+- [自媒体运营与赚钱](#cat-3) — 41 条
+- [Grok Bot 玩法](#cat-4) — 28 条
 - [Claude·ChatGPT 账号与订阅](#cat-5) — 23 条
-- [学习教育与思维](#cat-6) — 10 条
-- [娱乐与其他](#cat-7) — 9 条
+- [娱乐与其他](#cat-6) — 10 条
+- [学习教育与思维](#cat-7) — 10 条
 - [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（58）
+## AI 创作（视频/游戏/3D）（64）
 
+- **[GPT Image 2 提示词变现排行（第四弹）](https://x.com/aoaoao/status/2115768956602773733)** — 按能否挂闲鱼、小红书、抖音变现来排的 GPT Image 2 提示词榜单，如旅行手帐插画、宠物 IP 等。  
+  @aoaoao · 2026-10-29
+- **[开源卡点转场宣传片 Skill](https://x.com/Saccc_c/status/2115764968008396992)** — 作者把卡点转场视频的制作流程打包成 skill 开源，给 Agent 一张产品图就能生成宣传片。  
+  @Saccc_c · 2026-10-29
+- **[6 步构建用代码稳定出片的 AI 视频工作流](https://x.com/EianLu/status/2115761407774118044)** — 别再用一句话抽卡，教你用 Claude 等模型通过代码化工作流稳定生成视频，用于起号接商单。  
+  @EianLu · 2026-10-29
+- **[AI 短剧平台怎么选](https://x.com/Jackywine/status/2115646634197450935)** — 作者询问做 AI 短剧该选即梦、LibTV、Tapnow、小云雀还是国外平台。  
+  @Jackywine · 2026-10-29
+- **[Canvas 治愈系熊猫互动小玩具提示词](https://x.com/EianLu/status/2115624666161418709)** — 复刻英文区爆火的治愈系互动小玩具，附用单个 HTML + Canvas 2D 生成熊猫场景的完整提示词。  
+  @EianLu · 2026-10-29
+- **[拆解 AI 动画百万粉账号「呱呱历险记」](https://x.com/DDJCXX/status/2115623148033101845)** — 作者拆完了不到两个月涨到百万粉的 AI 动画号的角色、分镜和生成流程，正写成 Skill 免费开源。  
+  @DDJCXX · 2026-10-29
 - **[用 1 分钱/秒的 MiniMax H3 平替 Seedance](https://x.com/GaryAIytb/status/2115274475323207969)** — 实测一百多条视频，用 RH 上的 MiniMax H3 低成本替代 Seedance 和复杂 ComfyUI 的制作流程。  
   @GaryAIytb · 2026-10-28
 - **[Seedance 2.5 制作的 AI 视频佳作（附提示词）](https://x.com/AizaAi12/status/2115273090129400014)** — 一条用 Seedance 2.5 生成的高质量 AI 视频，作者附上了提示词。  
@@ -139,8 +151,10 @@
 
 <a id="cat-1"></a>
 
-## 翻墙 / VPS / 网络节点（45）
+## 翻墙 / VPS / 网络节点（46）
 
+- **[甲骨文免费 ARM 服务器申请经验](https://x.com/0xjackkk/status/2115652864945353186)** — 作者公开申请甲骨文龟壳的经验，核心是设备纯净、IP 纯净和本人银行卡三者串联。  
+  @0xjackkk · 2026-10-29
 - **[VPS 被墙的三种应对方法](https://x.com/InfiCheesy/status/2115135555579326602)** — 针对 GFW 封锁海外服务器 TCP 连接，推荐改用 UDP 节点（Hy2/TUIC）、IPv6 节点或 Cloudflare CDN 应急。  
   @InfiCheesy · 2026-10-28
 - **[Claude Code 专用 VPS 选购网站](https://x.com/app_sail/status/2115126953825185925)** — 作者做了一个为 Claude Code 精选 VPS 的网站，可按运营商和线路筛选，提供测试 IP、延迟和优惠码自动更新。  
@@ -234,8 +248,10 @@
 
 <a id="cat-2"></a>
 
-## AI 编程与开发工具（41）
+## AI 编程与开发工具（42）
 
+- **[Chrome 157 上线 HTML-in-Canvas](https://x.com/grok/status/2115857448229646841)** — Grok 解释新特性：可把可交互的 HTML 直接画进 canvas，同时保留文字选择、无障碍等浏览器功能。  
+  @grok · 2026-10-30
 - **[instabox 云主机上手须知](https://x.com/morganxu45/status/2115303778245394929)** — 船长AI 介绍 instabox：4核8G、带公网入口免 VPN，预装 Claude、Codex 等开发环境，可补 Muse 短板。  
   @morganxu45 · 2026-10-28
 - **[用 GPT-6.1 Terra 跑浏览器操控任务](https://x.com/Khazix0918/status/2115093669657371061)** — 作者让 Claude 调用 Codex 操控浏览器和电脑，实测新出的 GPT-6.1 Terra 又快又稳又省，于是切为默认模型。  
@@ -321,8 +337,14 @@
 
 <a id="cat-3"></a>
 
-## 自媒体运营与赚钱（38）
+## 自媒体运营与赚钱（41）
 
+- **[99 元网盘资源包变成网盘群生意](https://x.com/yhslgg/status/2115794852009185646)** — 老杨拆解自己买的学习资源包，半年卖出 800 多个网盘群会员，并把这门生意当项目开源。  
+  @yhslgg · 2026-10-29
+- **[从小红书痛点到 AI 短视频的六步流程](https://x.com/3three_AI/status/2115697893709353278)** — 从小红书评论找选题，用 Claude 写脚本、即梦出画面、剪映配音剪辑，再分发到各平台。  
+  @3three_AI · 2026-10-29
+- **[靠 GitHub Trending 写中文部署教程赚钱](https://x.com/EianLu/status/2115337776766091574)** — 盯 GitHub 趋势榜里缺中文教程的新工具，写成小白一键部署教程挂知识星球售卖，两个月赚十五万。  
+  @EianLu · 2026-10-28
 - **[用费曼学习法写 AI 口播稿的提示词](https://x.com/369Serena/status/2115232080661774386)** — 在口播稿提示词里加入费曼学习法，按钩子、痛点共鸣等结构把复杂 AI 概念讲得通俗易懂。  
   @369Serena · 2026-10-28
 - **[开源 Skill 全自动做视频号带货](https://x.com/Tanghulu188/status/2115052176968159627)** — 作者开源 Story Studio，用 AI Agent 一句话自动完成历史故事短视频的选题、配音、分镜到剪映草稿，并分享带货成绩。  
@@ -402,8 +424,14 @@
 
 <a id="cat-4"></a>
 
-## Grok Bot 玩法（24）
+## Grok Bot 玩法（28）
 
+- **[让其他 Agent 指挥 Grok Bot](https://x.com/cgnot996/status/2115722202712789476)** — 用一个 skill + CLI，让 Codex、Claude Code 列出并调度账号下所有 Grok Bot，还能跨账号派活。  
+  @cgnot996 · 2026-10-29
+- **[用 GrokBot 从新闻里拆解小商机](https://x.com/DongQingAsk/status/2115715262163091499)** — 分享一个把新闻链接拆解成虚拟资料等小商机的 Bot，并搭配小红书、闲鱼、淘宝 Bot 验证可行性。  
+  @DongQingAsk · 2026-10-29
+- **[把 GrokBot 接进 NewMax 调度云电脑](https://x.com/yangyi/status/2115253966355431881)** — 作者把 GrokBot 逆向成插件接到 NewMax，从手机端直接调度它的云电脑干活，省下 API 费用。  
+  @yangyi · 2026-10-28
 - **[各家个人 AI 助理的价格门槛汇总](https://x.com/Shuton_leon/status/2115009002136563920)** — 对比 Grok Bot、GPT Dots、Claude Duet、Gemini Spark 和 Muse 的订阅门槛，Muse 可先免费试用。  
   @Shuton_leon · 2026-10-27
 - **[四款 Personal Agent 中国大陆实测对比](https://x.com/QianXiguaAI/status/2114994258889638097)** — 钱西瓜用 8 个通用场景实测 Grok Bot、Muse、Dots、Instinct，Grok Bot 以 7/8 完成度领先。  
@@ -434,6 +462,8 @@
   @fankaishuoai · 2026-10-17
 - **[官方教你跑Grok Bot团队](https://x.com/CarsonYangk8s/status/2110593952290418918)** — 官方教程讲解如何用几十个 Grok Bot 组成可自我迭代升级的团队。  
   @CarsonYangk8s · 2026-10-15
+- **[微信文章捕手 Bot](https://x.com/cgnot996/status/2110246524185870802)** — 导入这个 Grok Bot 后按引导搭好服务，发公众号文章链接就能抓取全文。  
+  @cgnot996 · 2026-10-14
 - **[用Grok Bot打造纯净时间线](https://x.com/HiTw93/status/2110154365667336695)** — 分享让Grok Bot每晚整理中文推特精选的提示词。  
   @HiTw93 · 2026-10-14
 - **[AI早报视频提示词](https://x.com/op7418/status/2108148741014458839)** — 上一条的完整提示词，可直接复制给Grok Bot。  
@@ -506,6 +536,31 @@
 
 <a id="cat-6"></a>
 
+## 娱乐与其他（10）
+
+- **[召唤 Grok 解读的回复](https://x.com/AndyL5cc/status/2115857306143576458)** — 一条只 @ 了 leecooper616 和 Grok 的回复帖，用于召唤 Grok 解释原帖内容。  
+  @AndyL5cc · 2026-10-30
+- **[好玩的创意视频](https://x.com/GeekCatX/status/2114967064784109917)** — 作者转发一段很会玩的创意作品视频，感叹制作者的巧思。  
+  @GeekCatX · 2026-10-27
+- **[百年欧美女性妆容与发型](https://x.com/LC666888999/status/2114344033002909977)** — 一分钟视频带你看遍百年来欧美女性的妆容和发型变化。  
+  @LC666888999 · 2026-10-25
+- **[frvky.online 网站分享](https://x.com/Frvkyy/status/2114042099435811096)** — 分享网站 frvky.online，引用 zarazhangrui 的一条帖子。  
+  @Frvkyy · 2026-10-25
+- **[iPhone 美区/国区 Apple ID 切换方案汇总](https://x.com/zstmfhy/status/2114010606831567277)** — 整理四种多区 Apple ID 用法，作者最终选择 iCloud 用国区、App Store 常驻美区。  
+  @zstmfhy · 2026-10-24
+- **[免费4C4G我的世界服务器](https://x.com/yedabinbinah/status/2112114280367583461)** — MCServerHost提供免费4核4G的Minecraft游戏服务器。  
+  @yedabinbinah · 2026-10-19
+- **[好看短剧推荐清单](https://x.com/fhwofjow51260/status/2109984587405533386)** — 推荐《持械入宋》《洪武苟长生》等多部穿越类短剧。  
+  @fhwofjow51260 · 2026-10-13
+- **[AI短剧《持械入宋》](https://x.com/HanPaoao/status/2109955505678623154)** — 作者推荐800集AI短剧《持械入宋》，感叹AI将取代明星。  
+  @HanPaoao · 2026-10-13
+- **[各平台视频下载网站](https://x.com/xupaopaogm/status/2106036491050975361)** — X、抖音、TikTok、小红书、B站视频下载工具。  
+  @xupaopaogm · 2026-10-02
+- **[iPhone 多区 Apple ID 同时更新下载的小技巧](https://x.com/xiangxiang103/status/2070562452492968236)** — 通过备忘录添加外区 iCloud 账户并信任设备，免切换账号即可更新多区 App。  
+  @xiangxiang103 · 2026-06-27
+
+<a id="cat-7"></a>
+
 ## 学习教育与思维（10）
 
 - **[开源 55 门高中理科 3D 互动实验课件](https://x.com/CopperForgeAI/status/2115311202876453351)** — 铜匠开源对齐人教版教材的物理化学生物地理 3D 课件，单文件 HTML 可离线使用，并分享 AI 制作流程。  
@@ -528,29 +583,6 @@
   @knowledgefxg · 2026-09-15
 - **[万字长文：Hugging Face 从入门到精通](https://x.com/miles_mazy/status/2094730635932053664)** — Miles Ma 系统讲解 Hugging Face 平台的模型、数据集与使用方法。  
   @miles_mazy · 2026-09-01
-
-<a id="cat-7"></a>
-
-## 娱乐与其他（9）
-
-- **[好玩的创意视频](https://x.com/GeekCatX/status/2114967064784109917)** — 作者转发一段很会玩的创意作品视频，感叹制作者的巧思。  
-  @GeekCatX · 2026-10-27
-- **[百年欧美女性妆容与发型](https://x.com/LC666888999/status/2114344033002909977)** — 一分钟视频带你看遍百年来欧美女性的妆容和发型变化。  
-  @LC666888999 · 2026-10-25
-- **[frvky.online 网站分享](https://x.com/Frvkyy/status/2114042099435811096)** — 分享网站 frvky.online，引用 zarazhangrui 的一条帖子。  
-  @Frvkyy · 2026-10-25
-- **[iPhone 美区/国区 Apple ID 切换方案汇总](https://x.com/zstmfhy/status/2114010606831567277)** — 整理四种多区 Apple ID 用法，作者最终选择 iCloud 用国区、App Store 常驻美区。  
-  @zstmfhy · 2026-10-24
-- **[免费4C4G我的世界服务器](https://x.com/yedabinbinah/status/2112114280367583461)** — MCServerHost提供免费4核4G的Minecraft游戏服务器。  
-  @yedabinbinah · 2026-10-19
-- **[好看短剧推荐清单](https://x.com/fhwofjow51260/status/2109984587405533386)** — 推荐《持械入宋》《洪武苟长生》等多部穿越类短剧。  
-  @fhwofjow51260 · 2026-10-13
-- **[AI短剧《持械入宋》](https://x.com/HanPaoao/status/2109955505678623154)** — 作者推荐800集AI短剧《持械入宋》，感叹AI将取代明星。  
-  @HanPaoao · 2026-10-13
-- **[各平台视频下载网站](https://x.com/xupaopaogm/status/2106036491050975361)** — X、抖音、TikTok、小红书、B站视频下载工具。  
-  @xupaopaogm · 2026-10-02
-- **[iPhone 多区 Apple ID 同时更新下载的小技巧](https://x.com/xiangxiang103/status/2070562452492968236)** — 通过备忘录添加外区 iCloud 账户并信任设备，免切换账号即可更新多区 App。  
-  @xiangxiang103 · 2026-06-27
 
 <a id="cat-8"></a>
 
