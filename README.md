@@ -2,24 +2,28 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **272** 条书签 · 最后更新：2026-10-30 09:15（北京时间）
+共 **280** 条书签 · 最后更新：2026-10-31 09:20（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 64 条
-- [翻墙 / VPS / 网络节点](#cat-1) — 46 条
-- [AI 编程与开发工具](#cat-2) — 42 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 66 条
+- [翻墙 / VPS / 网络节点](#cat-1) — 51 条
+- [AI 编程与开发工具](#cat-2) — 41 条
 - [自媒体运营与赚钱](#cat-3) — 41 条
-- [Grok Bot 玩法](#cat-4) — 28 条
-- [Claude·ChatGPT 账号与订阅](#cat-5) — 23 条
+- [Grok Bot 玩法](#cat-4) — 31 条
+- [Claude·ChatGPT 账号与订阅](#cat-5) — 22 条
 - [娱乐与其他](#cat-6) — 10 条
 - [学习教育与思维](#cat-7) — 10 条
 - [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（64）
+## AI 创作（视频/游戏/3D）（66）
 
+- **[AI 儿童动画配音版](https://x.com/daaihq/status/2116145165094265092)** — 作者做的 AI 儿童动画出了配音版，小孩看得入迷，教程之后会出。  
+  @daaihq · 2026-10-30
+- **[开源剪辑工作流，零基础 1 小时做科普视频](https://x.com/Zerber_/status/2116029885869400106)** — 一篇长文汇总多个开源的 AI 视频剪辑工作流，教零基础用户约 1 小时做出科普视频。  
+  @Zerber_ · 2026-10-30
 - **[GPT Image 2 提示词变现排行（第四弹）](https://x.com/aoaoao/status/2115768956602773733)** — 按能否挂闲鱼、小红书、抖音变现来排的 GPT Image 2 提示词榜单，如旅行手帐插画、宠物 IP 等。  
   @aoaoao · 2026-10-29
 - **[开源卡点转场宣传片 Skill](https://x.com/Saccc_c/status/2115764968008396992)** — 作者把卡点转场视频的制作流程打包成 skill 开源，给 Agent 一张产品图就能生成宣传片。  
@@ -151,10 +155,18 @@
 
 <a id="cat-1"></a>
 
-## 翻墙 / VPS / 网络节点（46）
+## 翻墙 / VPS / 网络节点（51）
 
+- **[99% 的人用不上的网络](https://x.com/Feng6v/status/2116116774077010310)** — 作者晒出自己的网络配置截图，调侃大多数人用不上这种网络。  
+  @Feng6v · 2026-10-30
+- **[GFW 封 TCP 后 HY2/TUIC 也要备 CDN 节点](https://x.com/ygkkkg/status/2116090765218922831)** — 最近 GFW 封锁 TCP 端口，很多人从 Vless-reality 转到 HY2 或 TUIC，作者建议再备一个 CDN 节点，三方案共存。  
+  @ygkkkg · 2026-10-30
+- **[手机远程开机：Cloudflare Tunnel 内网穿透](https://x.com/suversal/status/2115691350108840180)** — 没有公网 IP 也能靠免费的 Cloudflare Tunnel 远程唤醒家里电脑、管理路由器。  
+  @suversal · 2026-10-29
 - **[甲骨文免费 ARM 服务器申请经验](https://x.com/0xjackkk/status/2115652864945353186)** — 作者公开申请甲骨文龟壳的经验，核心是设备纯净、IP 纯净和本人银行卡三者串联。  
   @0xjackkk · 2026-10-29
+- **[Cloudflare Tunnel 内网穿透保姆级教程](https://x.com/suversal/status/2115319987493847341)** — 不要公网 IP、不开端口，用免费的 Cloudflare Tunnel 在外面直接访问家里 NAS 和路由器后台的详细教程。  
+  @suversal · 2026-10-28
 - **[VPS 被墙的三种应对方法](https://x.com/InfiCheesy/status/2115135555579326602)** — 针对 GFW 封锁海外服务器 TCP 连接，推荐改用 UDP 节点（Hy2/TUIC）、IPv6 节点或 Cloudflare CDN 应急。  
   @InfiCheesy · 2026-10-28
 - **[Claude Code 专用 VPS 选购网站](https://x.com/app_sail/status/2115126953825185925)** — 作者做了一个为 Claude Code 精选 VPS 的网站，可按运营商和线路筛选，提供测试 IP、延迟和优惠码自动更新。  
@@ -233,6 +245,8 @@
   @xmglab · 2026-09-18
 - **[VPS换家庭宽带IP](https://x.com/xmglab/status/2100872966217371735)** — 几十元一年把VPS机房IP换成家宽IP。  
   @xmglab · 2026-09-18
+- **[每月 2 元自建 VPN 教程](https://x.com/mjjwiki/status/2100453699659366890)** — 用每月约 2 元的新加坡 NAT 小鸡搭 3x-ui，十分钟搭出固定 IP、比机场干净的自用 VPN。  
+  @mjjwiki · 2026-09-17
 - **[口碑机场推荐](https://x.com/vpsing_de/status/2100168034422063425)** — 回复中推荐的一家口碑机场。  
   @vpsing_de · 2026-09-16
 - **[高质量美国住宅IP](https://x.com/jaylenngx/status/2100018648597635194)** — 干净易用的美国住宅IP方案。  
@@ -248,8 +262,10 @@
 
 <a id="cat-2"></a>
 
-## AI 编程与开发工具（42）
+## AI 编程与开发工具（41）
 
+- **[Ghostty 作者新作 Rex 终端](https://x.com/alin_zone/status/2116102817119396040)** — Ghostty 作者推出结合原生终端和 Tmux 的 Rex 终端，支持状态感知、原生接入 Claude Code/Codex 和远程连接，目前 macOS 内测。  
+  @alin_zone · 2026-10-30
 - **[Chrome 157 上线 HTML-in-Canvas](https://x.com/grok/status/2115857448229646841)** — Grok 解释新特性：可把可交互的 HTML 直接画进 canvas，同时保留文字选择、无障碍等浏览器功能。  
   @grok · 2026-10-30
 - **[instabox 云主机上手须知](https://x.com/morganxu45/status/2115303778245394929)** — 船长AI 介绍 instabox：4核8G、带公网入口免 VPN，预装 Claude、Codex 等开发环境，可补 Muse 短板。  
@@ -278,12 +294,8 @@
   @jakevin7 · 2026-10-20
 - **[互联网赛博大善人](https://x.com/aronhouyu/status/2112025121582198860)** — 列举Cloudflare、GitHub、YouTube、Tailscale等免费良心服务。  
   @aronhouyu · 2026-10-19
-- **[老学生续领Google AI Pro](https://x.com/duola_eth/status/2111981733059219629)** — 曾领过学生优惠者付8.99美元再续一年Google AI Pro的方法。  
-  @duola_eth · 2026-10-19
 - **[Personal Agent踩坑与提示语](https://x.com/aiwarts/status/2111812368972022217)** — 测评四款个人Agent，用3个提示语提升任务成功率。  
   @aiwarts · 2026-10-18
-- **[Google AI Pro学生优惠续期](https://x.com/Vincent_AINotes/status/2111811720461386198)** — 已领学生优惠者重新领取可将订阅延长一年的方法。  
-  @Vincent_AINotes · 2026-10-18
 - **[codex-openpencil设计工具](https://x.com/FiniYang/status/2111665335510417893)** — 开源OpenPencil接入Codex，一句话生成可编辑设计稿并导出代码。  
   @FiniYang · 2026-10-18
 - **[DSH把ESP32刷成AI音箱](https://x.com/xiangxiang103/status/2110948324543193560)** — 零命令零模型费用DSH把ESP32-S3刷成AI音箱。  
@@ -424,12 +436,18 @@
 
 <a id="cat-4"></a>
 
-## Grok Bot 玩法（28）
+## Grok Bot 玩法（31）
 
+- **[用 Grok Bot 找「小号爆款」选题](https://x.com/penny777/status/2116167532172214653)** — 分享一个每天定时让 Grok Bot 抓取指定领域互动异常高的帖子并给出原创视频点子的 Prompt。  
+  @penny777 · 2026-10-30
+- **[开源全平台内容抓取 Bot](https://x.com/kkkeric_ai/status/2116116149796475026)** — 丢一个链接就能抓回 17 个平台的正文、作者、互动数据、原图、无水印视频、字幕和评论，默认全用免费开源方法。  
+  @kkkeric_ai · 2026-10-30
 - **[让其他 Agent 指挥 Grok Bot](https://x.com/cgnot996/status/2115722202712789476)** — 用一个 skill + CLI，让 Codex、Claude Code 列出并调度账号下所有 Grok Bot，还能跨账号派活。  
   @cgnot996 · 2026-10-29
 - **[用 GrokBot 从新闻里拆解小商机](https://x.com/DongQingAsk/status/2115715262163091499)** — 分享一个把新闻链接拆解成虚拟资料等小商机的 Bot，并搭配小红书、闲鱼、淘宝 Bot 验证可行性。  
   @DongQingAsk · 2026-10-29
+- **[把 Codex、Claude Code 等接入 Grok Bot](https://x.com/KinGao476942/status/2115592603605557564)** — 给出一组可直接发给总管 Bot 的指令，把 Codex、Claude Code、Gemini、DeepSeek 等接入 Grok Bot，用各自的额度干活。  
+  @KinGao476942 · 2026-10-29
 - **[把 GrokBot 接进 NewMax 调度云电脑](https://x.com/yangyi/status/2115253966355431881)** — 作者把 GrokBot 逆向成插件接到 NewMax，从手机端直接调度它的云电脑干活，省下 API 费用。  
   @yangyi · 2026-10-28
 - **[各家个人 AI 助理的价格门槛汇总](https://x.com/Shuton_leon/status/2115009002136563920)** — 对比 Grok Bot、GPT Dots、Claude Duet、Gemini Spark 和 Muse 的订阅门槛，Muse 可先免费试用。  
@@ -485,7 +503,7 @@
 
 <a id="cat-5"></a>
 
-## Claude·ChatGPT 账号与订阅（23）
+## Claude·ChatGPT 账号与订阅（22）
 
 - **[6.99 美元拿下一年美国手机号并注册 Claude](https://x.com/zyan13145/status/2115160903348015306)** — 中国护照秒过 KYC，5 分钟开通一年美国手机号，顺手注册 Claude 和 Gmail 的截图教程。  
   @zyan13145 · 2026-10-28
@@ -521,8 +539,6 @@
   @xiangxiang103 · 2026-10-02
 - **[Claude账号申诉攻略](https://x.com/AISuperDomain/status/2105660384350744770)** — Claude被封后如何申诉。  
   @AISuperDomain · 2026-10-01
-- **[长期用Claude与美国独享VPS](https://x.com/newbeeyu/status/2104763468360642916)** — 介绍长期稳定使用Claude及搭配美国独享VPS的方法。  
-  @newbeeyu · 2026-09-29
 - **[GPT降智与封号原因](https://x.com/yanxi067/status/2100469616783102183)** — GPT变笨、账号被封原因与自查清单。  
   @yanxi067 · 2026-09-17
 - **[官方订阅ChatGPT/Claude](https://x.com/suversal/status/2097245420397404529)** — 不找代充，自己官方订阅ChatGPT/Claude的方法。  
