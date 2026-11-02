@@ -2,24 +2,26 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **285** 条书签 · 最后更新：2026-11-01 09:23（北京时间）
+共 **304** 条书签 · 最后更新：2026-11-02 09:17（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 67 条
-- [翻墙 / VPS / 网络节点](#cat-1) — 51 条
-- [自媒体运营与赚钱](#cat-2) — 44 条
-- [AI 编程与开发工具](#cat-3) — 41 条
-- [Grok Bot 玩法](#cat-4) — 32 条
-- [Claude·ChatGPT 账号与订阅](#cat-5) — 22 条
-- [娱乐与其他](#cat-6) — 10 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 69 条
+- [翻墙 / VPS / 网络节点](#cat-1) — 58 条
+- [自媒体运营与赚钱](#cat-2) — 47 条
+- [AI 编程与开发工具](#cat-3) — 42 条
+- [Grok Bot 玩法](#cat-4) — 34 条
+- [Claude·ChatGPT 账号与订阅](#cat-5) — 24 条
+- [娱乐与其他](#cat-6) — 12 条
 - [学习教育与思维](#cat-7) — 10 条
 - [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（67）
+## AI 创作（视频/游戏/3D）（69）
 
+- **[给Codex装上10个视频制作Skills](https://x.com/AIExplorerTim/status/2116698995368280355)** — 推荐HyperFrames、video-use、Remotion等10个GitHub Skills，让Codex参与整条视频制作流程。  
+  @AIExplorerTim · 2026-11-01
 - **[萝卜设计：开源的AI设计物料skill](https://x.com/zhouluobo/status/2116484499915915393)** — 萝卜哥开源了luobo-design技能，一句话即可生成海报、小红书封面、请柬、通知等整套设计物料，可选接入生图模型。  
   @zhouluobo · 2026-10-31
 - **[AI 儿童动画配音版](https://x.com/daaihq/status/2116145165094265092)** — 作者做的 AI 儿童动画出了配音版，小孩看得入迷，教程之后会出。  
@@ -126,6 +128,8 @@
   @vib3coded · 2026-09-18
 - **[人人做游戏](https://x.com/berryxia/status/2100646925007737292)** — AI生成类塞尔达矿车游戏的演示。  
   @berryxia · 2026-09-18
+- **[Codex+Hyperframes拆解抖音爆款](https://x.com/Fred834567/status/2099667836088275433)** — 长文教你用Codex和Hyperframes拆解抖音爆款视频，并固化成可重复的AI视频制作流程。  
+  @Fred834567 · 2026-09-15
 - **[GPT Image 2.5做游戏画面](https://x.com/muku_sns/status/2098994140310843550)** — 用GPT Image 2.5批量生成儿童暑假游戏画面（日文）。  
   @muku_sns · 2026-09-13
 - **[Unity 6.6 CLI+Astra](https://x.com/speaksGaming/status/2098964589752779221)** — 用Unity新CLI与AI生成四季场景（英文）。  
@@ -157,8 +161,20 @@
 
 <a id="cat-1"></a>
 
-## 翻墙 / VPS / 网络节点（51）
+## 翻墙 / VPS / 网络节点（58）
 
+- **[30元/月美国双ISP住宅IP VPS](https://x.com/Leo_zhang2018/status/2116899881810116700)** — 推荐NovixLink洛杉矶双ISP静态住宅IP VPS，作为精品线路后的便宜落地出口。  
+  @Leo_zhang2018 · 2026-11-01
+- **[自建梯子推荐Snell协议](https://x.com/CMhOeNnExY/status/2116898159385592008)** — 作者分享自建代理用Snell半年稳定，特征冷门不易识别，并谈Mac mini软路由。  
+  @CMhOeNnExY · 2026-11-01
+- **[用changedetection监控VPS降价](https://x.com/Lovislexus/status/2116841009112084643)** — 推荐开源工具changedetection自动监控VPS降价、补货并通过Telegram提醒。  
+  @Lovislexus · 2026-11-01
+- **[黑五VPS厂商对比：RackNerd](https://x.com/jojeangsaing/status/2116838434065265024)** — 拆解RackNerd年付促销各档配置与优缺点，适合预算敏感的美区落地和自建小服务。  
+  @jojeangsaing · 2026-11-01
+- **[低价机场+家宽IP出口方案](https://x.com/Lovislexus/status/2116713083297042922)** — 用小火箭Fallback串联多个机场中转，再以Webshare住宅IP作为固定出口的低成本网络配置。  
+  @Lovislexus · 2026-11-01
+- **[1.68美元/月静态住宅IP购买教程](https://x.com/Lovislexus/status/2116479371506499638)** — 三步教你在Webshare购买静态住宅IP、筛选ASN并接入小火箭。  
+  @Lovislexus · 2026-10-31
 - **[99% 的人用不上的网络](https://x.com/Feng6v/status/2116116774077010310)** — 作者晒出自己的网络配置截图，调侃大多数人用不上这种网络。  
   @Feng6v · 2026-10-30
 - **[GFW 封 TCP 后 HY2/TUIC 也要备 CDN 节点](https://x.com/ygkkkg/status/2116090765218922831)** — 最近 GFW 封锁 TCP 端口，很多人从 Vless-reality 转到 HY2 或 TUIC，作者建议再备一个 CDN 节点，三方案共存。  
@@ -235,6 +251,8 @@
   @leeking420 · 2026-10-02
 - **[自购VPS搭出海节点实战](https://x.com/fly3nn/status/2105308049183305843)** — VPS选购、配置、优化与避坑全流程。  
   @fly3nn · 2026-09-30
+- **[美国家宽住宅IP推荐](https://x.com/mjjwiki/status/2104462663405420773)** — 推荐resip.net美国家宽纯净住宅IP，适合跨境、自媒体和养AI账号，1天套餐约1.2元。  
+  @mjjwiki · 2026-09-28
 - **[Tailscale+Cloudflare Tunnel](https://x.com/canmi21/status/2104352456213746142)** — 家庭与VPS服务零公网暴露的内网穿透方案。  
   @canmi21 · 2026-09-28
 - **[出海网络IP体检工具实测](https://x.com/fly3nn/status/2104147734408446188)** — 6款IP检测工具实测与理性选型。  
@@ -264,14 +282,20 @@
 
 <a id="cat-2"></a>
 
-## 自媒体运营与赚钱（44）
+## 自媒体运营与赚钱（47）
 
+- **[不露脸小红书数字产品副业](https://x.com/AIExplorerTim/status/2116799909798305921)** — 介绍开不露脸小红书账号、选细分领域、坚持日更并卖数字产品的副业思路。  
+  @AIExplorerTim · 2026-11-01
+- **[公众号贴图：中老年饮食方向](https://x.com/Missle8z/status/2116789589410980333)** — 建议用AI辅助做中老年饮食养生类公众号贴图，选题贴近日常、图片简单易读。  
+  @Missle8z · 2026-11-01
 - **[用MUSE做小红书美食号赚到453元](https://x.com/CryptoDaJin/status/2116489687275802985)** — 作者用MUSE辅助做小红书美食图文号，三周涨粉2138人，靠商单和橱窗佣金累计收入453.23元。  
   @CryptoDaJin · 2026-10-31
 - **[蜗牛King讲述离开社群的始末](https://x.com/isnail/status/2116427484640223579)** — 作者回顾自己从免费进群到当社群小助理、做起X账号，以及因付出不被尊重而离开社群的经过。  
   @isnail · 2026-10-31
 - **[用chengyi-skill加CreaoAI做小红书访谈截图热帖](https://x.com/0xtonixie/status/2116404603919258052)** — 作者分享用开源的chengyi-skill配合CreaoAI，把YouTube视频丢给agent五分钟做出小红书访谈截图帖。  
   @0xtonixie · 2026-10-31
+- **[开源爬虫MediaCrawler采集爆款数据](https://x.com/CryptoDaJin/status/2116390773990261090)** — 介绍近7万Star的开源工具MediaCrawler，可批量采集小红书、抖音、B站等平台内容和评论数据。  
+  @CryptoDaJin · 2026-10-31
 - **[99 元网盘资源包变成网盘群生意](https://x.com/yhslgg/status/2115794852009185646)** — 老杨拆解自己买的学习资源包，半年卖出 800 多个网盘群会员，并把这门生意当项目开源。  
   @yhslgg · 2026-10-29
 - **[从小红书痛点到 AI 短视频的六步流程](https://x.com/3three_AI/status/2115697893709353278)** — 从小红书评论找选题，用 Claude 写脚本、即梦出画面、剪映配音剪辑，再分发到各平台。  
@@ -357,8 +381,10 @@
 
 <a id="cat-3"></a>
 
-## AI 编程与开发工具（41）
+## AI 编程与开发工具（42）
 
+- **[Cloudflare从0到1全攻略](https://x.com/AdrianPunk115/status/2116848372854267963)** — 万字长文讲解Cloudflare的DNS、域名邮箱、Workers、存储、防护和AI等功能的使用方法。  
+  @AdrianPunk115 · 2026-11-01
 - **[Ghostty 作者新作 Rex 终端](https://x.com/alin_zone/status/2116102817119396040)** — Ghostty 作者推出结合原生终端和 Tmux 的 Rex 终端，支持状态感知、原生接入 Claude Code/Codex 和远程连接，目前 macOS 内测。  
   @alin_zone · 2026-10-30
 - **[Chrome 157 上线 HTML-in-Canvas](https://x.com/grok/status/2115857448229646841)** — Grok 解释新特性：可把可交互的 HTML 直接画进 canvas，同时保留文字选择、无障碍等浏览器功能。  
@@ -444,8 +470,12 @@
 
 <a id="cat-4"></a>
 
-## Grok Bot 玩法（32）
+## Grok Bot 玩法（34）
 
+- **[Grok Bot出海增长实战](https://x.com/kkkeric_ai/status/2116726197111648426)** — 作者分享一个人加22个Grok Bot运营20多个社媒渠道及SEO、外链、视频和竞品监控的经验。  
+  @kkkeric_ai · 2026-11-01
+- **[用Grok Bot统一指挥各类AI工具](https://x.com/LuBtc888/status/2116516034983477529)** — 介绍让Grok Bot统一调度Claude、Codex、Gemini等AI工具的玩法教程。  
+  @LuBtc888 · 2026-10-31
 - **[用Grok Bot做动画短片](https://x.com/HaileyAILabs/status/2116455418180604317)** — 作者称赞Grok Bot做的动画短片画质和人物表现不输付费AI视频模型，还自带配音和音效。  
   @HaileyAILabs · 2026-10-31
 - **[用 Grok Bot 找「小号爆款」选题](https://x.com/penny777/status/2116167532172214653)** — 分享一个每天定时让 Grok Bot 抓取指定领域互动异常高的帖子并给出原创视频点子的 Prompt。  
@@ -513,8 +543,12 @@
 
 <a id="cat-5"></a>
 
-## Claude·ChatGPT 账号与订阅（22）
+## Claude·ChatGPT 账号与订阅（24）
 
+- **[AI会员业务五天营业额近8万](https://x.com/Leobai825/status/2116850776039387374)** — 作者晒AI会员充值业务五天营业额79854元，并称GPT明显落后Claude。  
+  @Leobai825 · 2026-11-01
+- **[学生认证副业两个月收官复盘](https://x.com/alleywu270684/status/2116530115178016838)** — 作者复盘两个月做GPT Plus学生认证副业，从手搓到脚本再到卖成品号，累计毛利约1.2万元。  
+  @alleywu270684 · 2026-10-31
 - **[6.99 美元拿下一年美国手机号并注册 Claude](https://x.com/zyan13145/status/2115160903348015306)** — 中国护照秒过 KYC，5 分钟开通一年美国手机号，顺手注册 Claude 和 Gmail 的截图教程。  
   @zyan13145 · 2026-10-28
 - **[用 VPS + Magpie 降低 Claude 封号风险](https://x.com/vincemask/status/2113810654872424697)** — 把 Claude 账号绑定在美国 VPS 的 Magpie 上，本地 Claude Code 通过远程 Magpie 统一走 VPS 出口调用。  
@@ -562,8 +596,12 @@
 
 <a id="cat-6"></a>
 
-## 娱乐与其他（10）
+## 娱乐与其他（12）
 
+- **[购买的Gmail邮箱质量吐槽](https://x.com/zstmfhy/status/2116730053388349459)** — 作者买了30个Gmail邮箱，抽查5个全有问题，求稳定的购买渠道。  
+  @zstmfhy · 2026-11-01
+- **[免手机验证注册Gmail技巧](https://x.com/Pluvio9yte/status/2116382365404852227)** — 通过手机版Gmail的“添加其他账号—创建账号”注册Gmail，可绕过手机号验证。  
+  @Pluvio9yte · 2026-10-31
 - **[召唤 Grok 解读的回复](https://x.com/AndyL5cc/status/2115857306143576458)** — 一条只 @ 了 leecooper616 和 Grok 的回复帖，用于召唤 Grok 解释原帖内容。  
   @AndyL5cc · 2026-10-30
 - **[好玩的创意视频](https://x.com/GeekCatX/status/2114967064784109917)** — 作者转发一段很会玩的创意作品视频，感叹制作者的巧思。  
