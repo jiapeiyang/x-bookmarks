@@ -2,24 +2,28 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **304** 条书签 · 最后更新：2026-11-02 09:17（北京时间）
+共 **308** 条书签 · 最后更新：2026-11-03 09:24（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 69 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 71 条
 - [翻墙 / VPS / 网络节点](#cat-1) — 58 条
-- [自媒体运营与赚钱](#cat-2) — 47 条
+- [自媒体运营与赚钱](#cat-2) — 48 条
 - [AI 编程与开发工具](#cat-3) — 42 条
 - [Grok Bot 玩法](#cat-4) — 34 条
 - [Claude·ChatGPT 账号与订阅](#cat-5) — 24 条
 - [娱乐与其他](#cat-6) — 12 条
-- [学习教育与思维](#cat-7) — 10 条
+- [学习教育与思维](#cat-7) — 11 条
 - [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（69）
+## AI 创作（视频/游戏/3D）（71）
 
+- **[AI 短剧《阿丘的花语》](https://x.com/rngzhwn199456/status/2116929507991114217)** — 一部设定新颖、运镜和剧情都很出彩的艺术风 AI 短剧推荐。  
+  @rngzhwn199456 · 2026-11-02
+- **[用 Grok 画越南制香流程图](https://x.com/ann_nnng/status/2116811409921372642)** — 作者让 Grok 4.7 用纯 JavaScript 画出越南人制作香的流程示意图，效果出色。  
+  @ann_nnng · 2026-11-01
 - **[给Codex装上10个视频制作Skills](https://x.com/AIExplorerTim/status/2116698995368280355)** — 推荐HyperFrames、video-use、Remotion等10个GitHub Skills，让Codex参与整条视频制作流程。  
   @AIExplorerTim · 2026-11-01
 - **[萝卜设计：开源的AI设计物料skill](https://x.com/zhouluobo/status/2116484499915915393)** — 萝卜哥开源了luobo-design技能，一句话即可生成海报、小红书封面、请柬、通知等整套设计物料，可选接入生图模型。  
@@ -247,14 +251,14 @@
   @wangchangfu88 · 2026-10-06
 - **[Mac做全家翻墙网关](https://x.com/mason0x_/status/2106227929139036601)** — 不买软路由，用Mac让全家Wi-Fi翻墙，iPhone回家自动关梯子。  
   @mason0x_ · 2026-10-03
+- **[Webshare 静态住宅 IP 购买与链式代理教程](https://x.com/SecJack96/status/2106032804811407565)** — 约 16 美元买两个静态住宅 IP 用一年，详解注册购买、挑选 ASN 和 Clash 链式代理配置。  
+  @SecJack96 · 2026-10-02
 - **[VMISS美西三网VPS](https://x.com/leeking420/status/2105869992139071963)** — 比DMIT便宜的美西三网VPS，年付约144元。  
   @leeking420 · 2026-10-02
 - **[自购VPS搭出海节点实战](https://x.com/fly3nn/status/2105308049183305843)** — VPS选购、配置、优化与避坑全流程。  
   @fly3nn · 2026-09-30
 - **[美国家宽住宅IP推荐](https://x.com/mjjwiki/status/2104462663405420773)** — 推荐resip.net美国家宽纯净住宅IP，适合跨境、自媒体和养AI账号，1天套餐约1.2元。  
   @mjjwiki · 2026-09-28
-- **[Tailscale+Cloudflare Tunnel](https://x.com/canmi21/status/2104352456213746142)** — 家庭与VPS服务零公网暴露的内网穿透方案。  
-  @canmi21 · 2026-09-28
 - **[出海网络IP体检工具实测](https://x.com/fly3nn/status/2104147734408446188)** — 6款IP检测工具实测与理性选型。  
   @fly3nn · 2026-09-27
 - **[自建纯净IP防封号](https://x.com/zureA255062/status/2104017475226767708)** — 自建稳定纯净IP，用于Claude/GPT及社媒运营。  
@@ -282,12 +286,14 @@
 
 <a id="cat-2"></a>
 
-## 自媒体运营与赚钱（47）
+## 自媒体运营与赚钱（48）
 
 - **[不露脸小红书数字产品副业](https://x.com/AIExplorerTim/status/2116799909798305921)** — 介绍开不露脸小红书账号、选细分领域、坚持日更并卖数字产品的副业思路。  
   @AIExplorerTim · 2026-11-01
 - **[公众号贴图：中老年饮食方向](https://x.com/Missle8z/status/2116789589410980333)** — 建议用AI辅助做中老年饮食养生类公众号贴图，选题贴近日常、图片简单易读。  
   @Missle8z · 2026-11-01
+- **[四步把 X 养成高质量信息流](https://x.com/ChrisSlacker/status/2116783779130056845)** — 17 分钟实操教程，教你四步打造优质 X 信息流，并配合 Grok 高效找资料和读长文。  
+  @ChrisSlacker · 2026-11-01
 - **[用MUSE做小红书美食号赚到453元](https://x.com/CryptoDaJin/status/2116489687275802985)** — 作者用MUSE辅助做小红书美食图文号，三周涨粉2138人，靠商单和橱窗佣金累计收入453.23元。  
   @CryptoDaJin · 2026-10-31
 - **[蜗牛King讲述离开社群的始末](https://x.com/isnail/status/2116427484640223579)** — 作者回顾自己从免费进群到当社群小助理、做起X账号，以及因付出不被尊重而离开社群的经过。  
@@ -625,8 +631,10 @@
 
 <a id="cat-7"></a>
 
-## 学习教育与思维（10）
+## 学习教育与思维（11）
 
+- **[Karpathy 两小时 AI Agent 实战课](https://x.com/AndyL5cc/status/2116801447178482003)** — Karpathy 分享两小时课程，系统讲解 AI Agent、Harness、Loops、Graphs 等核心原理。  
+  @AndyL5cc · 2026-11-01
 - **[开源 55 门高中理科 3D 互动实验课件](https://x.com/CopperForgeAI/status/2115311202876453351)** — 铜匠开源对齐人教版教材的物理化学生物地理 3D 课件，单文件 HTML 可离线使用，并分享 AI 制作流程。  
   @CopperForgeAI · 2026-10-28
 - **[2小时建立AI认知体系](https://x.com/long_jingai/status/2111356255889723723)** — 一篇文章带零基础读者系统了解AI（企业内训同款）。  
