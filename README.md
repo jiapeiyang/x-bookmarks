@@ -2,24 +2,26 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **308** 条书签 · 最后更新：2026-11-03 09:24（北京时间）
+共 **313** 条书签 · 最后更新：2026-11-04 09:25（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 71 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 73 条
 - [翻墙 / VPS / 网络节点](#cat-1) — 58 条
 - [自媒体运营与赚钱](#cat-2) — 48 条
 - [AI 编程与开发工具](#cat-3) — 42 条
-- [Grok Bot 玩法](#cat-4) — 34 条
-- [Claude·ChatGPT 账号与订阅](#cat-5) — 24 条
+- [Grok Bot 玩法](#cat-4) — 36 条
+- [Claude·ChatGPT 账号与订阅](#cat-5) — 25 条
 - [娱乐与其他](#cat-6) — 12 条
 - [学习教育与思维](#cat-7) — 11 条
 - [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（71）
+## AI 创作（视频/游戏/3D）（73）
 
+- **[《Escape·逃离》黄金分割比例动画短片](https://x.com/EianLu/status/2117580488567406794)** — 把每一帧都按黄金分割比例构图、细抠人物眼神的温柔动画短片作品。  
+  @EianLu · 2026-11-03
 - **[AI 短剧《阿丘的花语》](https://x.com/rngzhwn199456/status/2116929507991114217)** — 一部设定新颖、运镜和剧情都很出彩的艺术风 AI 短剧推荐。  
   @rngzhwn199456 · 2026-11-02
 - **[用 Grok 画越南制香流程图](https://x.com/ann_nnng/status/2116811409921372642)** — 作者让 Grok 4.7 用纯 JavaScript 画出越南人制作香的流程示意图，效果出色。  
@@ -160,6 +162,8 @@
   @zhengli · 2026-09-05
 - **[GPT-6 Astra 做出 Gameboy 风格作品集网站](https://x.com/Angaisb_/status/2095964361105789424)** — 作者让 Astra 做一个游戏机控制台里的个人作品集，效果比 GPT-5.6 大幅提升。  
   @Angaisb_ · 2026-09-05
+- **[让个人主页头像动起来的 AI 视频玩法](https://x.com/glitter_11924/status/2095715114016260262)** — 把自己主页头像做成会动、会恶作剧的小动画，提示词贴在评论区。  
+  @glitter_11924 · 2026-09-04
 - **[旅行照片转极简纸感丙烯手绘提示词](https://x.com/AdrianPunk115/status/2089960426624758079)** — 一套把照片提炼成粗糙白纸、少量线条加鲜明丙烯色块、大留白风格封面插画的提示词。  
   @AdrianPunk115 · 2026-08-19
 
@@ -476,8 +480,12 @@
 
 <a id="cat-4"></a>
 
-## Grok Bot 玩法（34）
+## Grok Bot 玩法（36）
 
+- **[Grok Bot 自动运营小红书：5 个国内 MCP 和 Skill](https://x.com/xiaomovps/status/2117268289038770660)** — 整理小红书、抖音、B 站、飞猪、企业微信等可接入 Grok Bot 的 MCP、Skill 和 CLI。  
+  @xiaomovps · 2026-11-02
+- **[拆解 poteto 的 Grok Bot 使用指南](https://x.com/0xlangeai/status/2117197419779866647)** — 解读 poteto 的 Grok Bot 指南，讲怎样设计 bot 让它少猜、让人少返工，并附可直接用的提示词。  
+  @0xlangeai · 2026-11-02
 - **[Grok Bot出海增长实战](https://x.com/kkkeric_ai/status/2116726197111648426)** — 作者分享一个人加22个Grok Bot运营20多个社媒渠道及SEO、外链、视频和竞品监控的经验。  
   @kkkeric_ai · 2026-11-01
 - **[用Grok Bot统一指挥各类AI工具](https://x.com/LuBtc888/status/2116516034983477529)** — 介绍让Grok Bot统一调度Claude、Codex、Gemini等AI工具的玩法教程。  
@@ -549,8 +557,10 @@
 
 <a id="cat-5"></a>
 
-## Claude·ChatGPT 账号与订阅（24）
+## Claude·ChatGPT 账号与订阅（25）
 
+- **[Claude 0→1 稳定使用教程与防封指南](https://x.com/yaohui12138/status/2117439563367149830)** — 从干净美国节点、美区 Apple ID、手机注册到礼品卡订阅，详解 Claude 稳定使用和避坑经验。  
+  @yaohui12138 · 2026-11-03
 - **[AI会员业务五天营业额近8万](https://x.com/Leobai825/status/2116850776039387374)** — 作者晒AI会员充值业务五天营业额79854元，并称GPT明显落后Claude。  
   @Leobai825 · 2026-11-01
 - **[学生认证副业两个月收官复盘](https://x.com/alleywu270684/status/2116530115178016838)** — 作者复盘两个月做GPT Plus学生认证副业，从手搓到脚本再到卖成品号，累计毛利约1.2万元。  
