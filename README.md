@@ -2,26 +2,28 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **313** 条书签 · 最后更新：2026-11-04 09:25（北京时间）
+共 **321** 条书签 · 最后更新：2026-11-05 09:24（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 73 条
-- [翻墙 / VPS / 网络节点](#cat-1) — 58 条
-- [自媒体运营与赚钱](#cat-2) — 48 条
-- [AI 编程与开发工具](#cat-3) — 42 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 74 条
+- [翻墙 / VPS / 网络节点](#cat-1) — 59 条
+- [自媒体运营与赚钱](#cat-2) — 51 条
+- [AI 编程与开发工具](#cat-3) — 44 条
 - [Grok Bot 玩法](#cat-4) — 36 条
-- [Claude·ChatGPT 账号与订阅](#cat-5) — 25 条
+- [Claude·ChatGPT 账号与订阅](#cat-5) — 26 条
 - [娱乐与其他](#cat-6) — 12 条
 - [学习教育与思维](#cat-7) — 11 条
 - [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（73）
+## AI 创作（视频/游戏/3D）（74）
 
 - **[《Escape·逃离》黄金分割比例动画短片](https://x.com/EianLu/status/2117580488567406794)** — 把每一帧都按黄金分割比例构图、细抠人物眼神的温柔动画短片作品。  
   @EianLu · 2026-11-03
+- **[别复刻视频，用 Skills 打造自己的 IP](https://x.com/berryxia/status/2117226963911991578)** — 作者用可复用的 Skills 工作流制作口播类视频，建议别简单复刻，而是做自己的 IP 内容。  
+  @berryxia · 2026-11-02
 - **[AI 短剧《阿丘的花语》](https://x.com/rngzhwn199456/status/2116929507991114217)** — 一部设定新颖、运镜和剧情都很出彩的艺术风 AI 短剧推荐。  
   @rngzhwn199456 · 2026-11-02
 - **[用 Grok 画越南制香流程图](https://x.com/ann_nnng/status/2116811409921372642)** — 作者让 Grok 4.7 用纯 JavaScript 画出越南人制作香的流程示意图，效果出色。  
@@ -169,8 +171,10 @@
 
 <a id="cat-1"></a>
 
-## 翻墙 / VPS / 网络节点（58）
+## 翻墙 / VPS / 网络节点（59）
 
+- **[Tailscale + 美国 VPS 隔离 Claude 凭证](https://x.com/vincemask/status/2117597043128783178)** — 用 Tailscale 把本地电脑和美国 VPS 组成私网，Claude 凭证只放 VPS，本地用 Magpie 远程调用。  
+  @vincemask · 2026-11-03
 - **[30元/月美国双ISP住宅IP VPS](https://x.com/Leo_zhang2018/status/2116899881810116700)** — 推荐NovixLink洛杉矶双ISP静态住宅IP VPS，作为精品线路后的便宜落地出口。  
   @Leo_zhang2018 · 2026-11-01
 - **[自建梯子推荐Snell协议](https://x.com/CMhOeNnExY/status/2116898159385592008)** — 作者分享自建代理用Snell半年稳定，特征冷门不易识别，并谈Mac mini软路由。  
@@ -290,8 +294,14 @@
 
 <a id="cat-2"></a>
 
-## 自媒体运营与赚钱（48）
+## 自媒体运营与赚钱（51）
 
+- **[6 个帮你写公众号长文的 Skills](https://x.com/369Serena/status/2117887314210824405)** — 推荐 khazix-writer、wewrite 等 6 个 AI 写作 Skills，从整理思路、查资料到写完公众号正文。  
+  @369Serena · 2026-11-04
+- **[Dan Koe：2027 年最赚钱的 AI 创业方向（译文）](https://x.com/leo_xiaolei/status/2117779253660201239)** — Dan Koe 认为吸引注意力是最赚钱的技能，讲个人品牌与 AI 时代的创业方向，附拆解对标账号的提示词。  
+  @leo_xiaolei · 2026-11-04
+- **[AI 博主闭门会 20 条变现实战经验](https://x.com/bggg_ai/status/2116901099554943409)** — 总结私域、高客单、公众号引流、付费社群运营等 20 条 AI 博主赚钱与避坑经验。  
+  @bggg_ai · 2026-11-01
 - **[不露脸小红书数字产品副业](https://x.com/AIExplorerTim/status/2116799909798305921)** — 介绍开不露脸小红书账号、选细分领域、坚持日更并卖数字产品的副业思路。  
   @AIExplorerTim · 2026-11-01
 - **[公众号贴图：中老年饮食方向](https://x.com/Missle8z/status/2116789589410980333)** — 建议用AI辅助做中老年饮食养生类公众号贴图，选题贴近日常、图片简单易读。  
@@ -391,10 +401,14 @@
 
 <a id="cat-3"></a>
 
-## AI 编程与开发工具（42）
+## AI 编程与开发工具（44）
 
+- **[Mac 终端 Ghostty 配置指南](https://x.com/suversal/status/2117876089334956384)** — 一步步把 Mac 终端换成 Ghostty，并搭配 zsh、eza、zoxide 等工具打造高颜值高效终端。  
+  @suversal · 2026-11-04
 - **[Cloudflare从0到1全攻略](https://x.com/AdrianPunk115/status/2116848372854267963)** — 万字长文讲解Cloudflare的DNS、域名邮箱、Workers、存储、防护和AI等功能的使用方法。  
   @AdrianPunk115 · 2026-11-01
+- **[年度最佳 Agent 工具：Finch](https://x.com/chenbimo/status/2116822474533048714)** — 作者推荐 Finch，称其为年度最佳 Agent 工具。  
+  @chenbimo · 2026-11-01
 - **[Ghostty 作者新作 Rex 终端](https://x.com/alin_zone/status/2116102817119396040)** — Ghostty 作者推出结合原生终端和 Tmux 的 Rex 终端，支持状态感知、原生接入 Claude Code/Codex 和远程连接，目前 macOS 内测。  
   @alin_zone · 2026-10-30
 - **[Chrome 157 上线 HTML-in-Canvas](https://x.com/grok/status/2115857448229646841)** — Grok 解释新特性：可把可交互的 HTML 直接画进 canvas，同时保留文字选择、无障碍等浏览器功能。  
@@ -557,10 +571,12 @@
 
 <a id="cat-5"></a>
 
-## Claude·ChatGPT 账号与订阅（25）
+## Claude·ChatGPT 账号与订阅（26）
 
 - **[Claude 0→1 稳定使用教程与防封指南](https://x.com/yaohui12138/status/2117439563367149830)** — 从干净美国节点、美区 Apple ID、手机注册到礼品卡订阅，详解 Claude 稳定使用和避坑经验。  
   @yaohui12138 · 2026-11-03
+- **[Apple ID 订阅失败，礼品卡余额怎么用](https://x.com/bangbuilds/status/2117178580010676552)** — Apple ID 订阅一直提示购买未完成、无法订阅 Claude，求助礼品卡余额的使用或转移办法。  
+  @bangbuilds · 2026-11-02
 - **[AI会员业务五天营业额近8万](https://x.com/Leobai825/status/2116850776039387374)** — 作者晒AI会员充值业务五天营业额79854元，并称GPT明显落后Claude。  
   @Leobai825 · 2026-11-01
 - **[学生认证副业两个月收官复盘](https://x.com/alleywu270684/status/2116530115178016838)** — 作者复盘两个月做GPT Plus学生认证副业，从手搓到脚本再到卖成品号，累计毛利约1.2万元。  
