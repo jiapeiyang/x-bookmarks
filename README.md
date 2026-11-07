@@ -2,15 +2,15 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **323** 条书签 · 最后更新：2026-11-06 09:18（北京时间）
+共 **326** 条书签 · 最后更新：2026-11-07 09:20（北京时间）
 
 ## 目录
 
 - [AI 创作（视频/游戏/3D）](#cat-0) — 75 条
-- [翻墙 / VPS / 网络节点](#cat-1) — 58 条
-- [自媒体运营与赚钱](#cat-2) — 53 条
+- [翻墙 / VPS / 网络节点](#cat-1) — 59 条
+- [自媒体运营与赚钱](#cat-2) — 54 条
 - [AI 编程与开发工具](#cat-3) — 44 条
-- [Grok Bot 玩法](#cat-4) — 36 条
+- [Grok Bot 玩法](#cat-4) — 37 条
 - [Claude·ChatGPT 账号与订阅](#cat-5) — 26 条
 - [娱乐与其他](#cat-6) — 12 条
 - [学习教育与思维](#cat-7) — 11 条
@@ -173,8 +173,10 @@
 
 <a id="cat-1"></a>
 
-## 翻墙 / VPS / 网络节点（58）
+## 翻墙 / VPS / 网络节点（59）
 
+- **[几家常用 VPN 的真实缺点盘点](https://x.com/sosuke997/status/2118646076681138649)** — 抛开吹捧直说天机云、TAG、PP、Nvenix、TTCLOUD 等常见 VPN 在延迟、价格、客服和节点上的短板。  
+  @sosuke997 · 2026-11-06
 - **[Tailscale + 美国 VPS 隔离 Claude 凭证](https://x.com/vincemask/status/2117597043128783178)** — 用 Tailscale 把本地电脑和美国 VPS 组成私网，Claude 凭证只放 VPS，本地用 Magpie 远程调用。  
   @vincemask · 2026-11-03
 - **[30元/月美国双ISP住宅IP VPS](https://x.com/Leo_zhang2018/status/2116899881810116700)** — 推荐NovixLink洛杉矶双ISP静态住宅IP VPS，作为精品线路后的便宜落地出口。  
@@ -294,8 +296,10 @@
 
 <a id="cat-2"></a>
 
-## 自媒体运营与赚钱（53）
+## 自媒体运营与赚钱（54）
 
+- **[X 上学到的赚钱项目合集](https://x.com/ganfanren_ai/status/2118482318184853664)** — 整理 X 上大神推荐的 67 个赚钱小项目，按平台分类汇总，方便以后翻找跟进。  
+  @ganfanren_ai · 2026-11-06
 - **[AI 表情包提交微信平台变现超千元](https://x.com/ama_huangama/status/2118154620744708599)** — 用 GPT Image 做好表情包后，提交到微信表情开放平台并勾选赞赏，把算力直接换成收入。  
   @ama_huangama · 2026-11-05
 - **[用 Grok Bot 扒选题和高赞评论来变现](https://x.com/binghe/status/2118033995611205754)** — 教你建一个 Grok Bot，去扒 AI 大博主近 14 天选题和评论区痛点，借选题换内容，再把解决方案做成文或视频赚钱。  
@@ -498,8 +502,10 @@
 
 <a id="cat-4"></a>
 
-## Grok Bot 玩法（36）
+## Grok Bot 玩法（37）
 
+- **[SpaceXAI 放出 146 个免费 Grok Bot 模板](https://x.com/HeLi8866/status/2117986080452698298)** — 盘点官方免费放出的大批 Grok Bot 模板与社区仓库，覆盖搭团队骨架、写代码派活和具体场景用法。  
+  @HeLi8866 · 2026-11-04
 - **[Grok Bot 自动运营小红书：5 个国内 MCP 和 Skill](https://x.com/xiaomovps/status/2117268289038770660)** — 整理小红书、抖音、B 站、飞猪、企业微信等可接入 Grok Bot 的 MCP、Skill 和 CLI。  
   @xiaomovps · 2026-11-02
 - **[拆解 poteto 的 Grok Bot 使用指南](https://x.com/0xlangeai/status/2117197419779866647)** — 解读 poteto 的 Grok Bot 指南，讲怎样设计 bot 让它少猜、让人少返工，并附可直接用的提示词。  
