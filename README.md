@@ -2,24 +2,26 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **326** 条书签 · 最后更新：2026-11-07 09:20（北京时间）
+共 **333** 条书签 · 最后更新：2026-11-08 09:24（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 75 条
-- [翻墙 / VPS / 网络节点](#cat-1) — 59 条
-- [自媒体运营与赚钱](#cat-2) — 54 条
-- [AI 编程与开发工具](#cat-3) — 44 条
-- [Grok Bot 玩法](#cat-4) — 37 条
-- [Claude·ChatGPT 账号与订阅](#cat-5) — 26 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 76 条
+- [翻墙 / VPS / 网络节点](#cat-1) — 60 条
+- [自媒体运营与赚钱](#cat-2) — 55 条
+- [AI 编程与开发工具](#cat-3) — 45 条
+- [Grok Bot 玩法](#cat-4) — 38 条
+- [Claude·ChatGPT 账号与订阅](#cat-5) — 27 条
 - [娱乐与其他](#cat-6) — 12 条
-- [学习教育与思维](#cat-7) — 11 条
+- [学习教育与思维](#cat-7) — 12 条
 - [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（75）
+## AI 创作（视频/游戏/3D）（76）
 
+- **[0.65 美元在 Colab 拍完一部 AI 短剧](https://x.com/yangleiocx3/status/2118950523445354988)** — 作者用 Colab 上的 96G 显卡，从分镜到成片约 40 分钟、花费不到 5 块钱，完整记录没开即梦、也没充 Seedance 的短剧制作流程。  
+  @yangleiocx3 · 2026-11-07
 - **[Claude code/Codex+Seedance：从想法到 AI 视频成片全流程](https://x.com/EianLu/status/2118317430665613741)** — 作者分享用 Claude 当总导演、Codex 画首尾帧、Seedance 出片的多模型工作流，以及低成本、低抽卡率做出满意 AI 短片的实操要点。  
   @EianLu · 2026-11-05
 - **[《Escape·逃离》黄金分割比例动画短片](https://x.com/EianLu/status/2117580488567406794)** — 把每一帧都按黄金分割比例构图、细抠人物眼神的温柔动画短片作品。  
@@ -173,7 +175,7 @@
 
 <a id="cat-1"></a>
 
-## 翻墙 / VPS / 网络节点（59）
+## 翻墙 / VPS / 网络节点（60）
 
 - **[几家常用 VPN 的真实缺点盘点](https://x.com/sosuke997/status/2118646076681138649)** — 抛开吹捧直说天机云、TAG、PP、Nvenix、TTCLOUD 等常见 VPN 在延迟、价格、客服和节点上的短板。  
   @sosuke997 · 2026-11-06
@@ -269,6 +271,8 @@
   @fly3nn · 2026-09-30
 - **[美国家宽住宅IP推荐](https://x.com/mjjwiki/status/2104462663405420773)** — 推荐resip.net美国家宽纯净住宅IP，适合跨境、自媒体和养AI账号，1天套餐约1.2元。  
   @mjjwiki · 2026-09-28
+- **[Tailscale+Cloudflare Tunnel](https://x.com/canmi21/status/2104352456213746142)** — 家庭与VPS服务零公网暴露的内网穿透方案。  
+  @canmi21 · 2026-09-28
 - **[出海网络IP体检工具实测](https://x.com/fly3nn/status/2104147734408446188)** — 6款IP检测工具实测与理性选型。  
   @fly3nn · 2026-09-27
 - **[自建纯净IP防封号](https://x.com/zureA255062/status/2104017475226767708)** — 自建稳定纯净IP，用于Claude/GPT及社媒运营。  
@@ -296,7 +300,7 @@
 
 <a id="cat-2"></a>
 
-## 自媒体运营与赚钱（54）
+## 自媒体运营与赚钱（55）
 
 - **[X 上学到的赚钱项目合集](https://x.com/ganfanren_ai/status/2118482318184853664)** — 整理 X 上大神推荐的 67 个赚钱小项目，按平台分类汇总，方便以后翻找跟进。  
   @ganfanren_ai · 2026-11-06
@@ -310,6 +314,8 @@
   @leo_xiaolei · 2026-11-04
 - **[AI 博主闭门会 20 条变现实战经验](https://x.com/bggg_ai/status/2116901099554943409)** — 总结私域、高客单、公众号引流、付费社群运营等 20 条 AI 博主赚钱与避坑经验。  
   @bggg_ai · 2026-11-01
+- **[视频号单日带货变现 4000+ 实操指南](https://x.com/Tanghulu188/status/2116859493967393176)** — 面向历史人文赛道的视频号创作者，按准入开通、选品、策略、内容生产、挂车引导到结算风控，拆解一条 5 分钟故事视频如何持续带货变现。  
+  @Tanghulu188 · 2026-11-01
 - **[不露脸小红书数字产品副业](https://x.com/AIExplorerTim/status/2116799909798305921)** — 介绍开不露脸小红书账号、选细分领域、坚持日更并卖数字产品的副业思路。  
   @AIExplorerTim · 2026-11-01
 - **[公众号贴图：中老年饮食方向](https://x.com/Missle8z/status/2116789589410980333)** — 建议用AI辅助做中老年饮食养生类公众号贴图，选题贴近日常、图片简单易读。  
@@ -409,8 +415,10 @@
 
 <a id="cat-3"></a>
 
-## AI 编程与开发工具（44）
+## AI 编程与开发工具（45）
 
+- **[Google Colab 免费云端显卡的十种玩法](https://x.com/yyyole/status/2119096607752781869)** — 介绍免费版 Colab 就能用上 16G 显存的 NVIDIA T4，并列出部署开源大模型、生图、语音、视频、微调和数据分析等十种用法。  
+  @yyyole · 2026-11-07
 - **[Mac 终端 Ghostty 配置指南](https://x.com/suversal/status/2117876089334956384)** — 一步步把 Mac 终端换成 Ghostty，并搭配 zsh、eza、zoxide 等工具打造高颜值高效终端。  
   @suversal · 2026-11-04
 - **[Cloudflare从0到1全攻略](https://x.com/AdrianPunk115/status/2116848372854267963)** — 万字长文讲解Cloudflare的DNS、域名邮箱、Workers、存储、防护和AI等功能的使用方法。  
@@ -502,8 +510,10 @@
 
 <a id="cat-4"></a>
 
-## Grok Bot 玩法（37）
+## Grok Bot 玩法（38）
 
+- **[用 6 个 Grok Bot 系统化做 X 账号增长](https://x.com/SIAxiom/status/2118947536903999719)** — 对照只靠 AI 批量写推却涨粉停滞的做法，介绍趋势监测、内容复用、策略复盘、竞品研究、回复机会和增长任务这 6 个专用 Bot 如何组成运营闭环。  
+  @SIAxiom · 2026-11-07
 - **[SpaceXAI 放出 146 个免费 Grok Bot 模板](https://x.com/HeLi8866/status/2117986080452698298)** — 盘点官方免费放出的大批 Grok Bot 模板与社区仓库，覆盖搭团队骨架、写代码派活和具体场景用法。  
   @HeLi8866 · 2026-11-04
 - **[Grok Bot 自动运营小红书：5 个国内 MCP 和 Skill](https://x.com/xiaomovps/status/2117268289038770660)** — 整理小红书、抖音、B 站、飞猪、企业微信等可接入 Grok Bot 的 MCP、Skill 和 CLI。  
@@ -581,8 +591,10 @@
 
 <a id="cat-5"></a>
 
-## Claude·ChatGPT 账号与订阅（26）
+## Claude·ChatGPT 账号与订阅（27）
 
+- **[Claude 注册与使用完整教程](https://x.com/demonyins/status/2119046297823150322)** — 整理从邮箱、家宽 VPS、网络环境到 Claude 注册、订阅支付，再到通过 Magpie 使用的完整流程，并分享四家亲测未弹 KYC 的家宽商家。  
+  @demonyins · 2026-11-07
 - **[Claude 0→1 稳定使用教程与防封指南](https://x.com/yaohui12138/status/2117439563367149830)** — 从干净美国节点、美区 Apple ID、手机注册到礼品卡订阅，详解 Claude 稳定使用和避坑经验。  
   @yaohui12138 · 2026-11-03
 - **[Apple ID 订阅失败，礼品卡余额怎么用](https://x.com/bangbuilds/status/2117178580010676552)** — Apple ID 订阅一直提示购买未完成、无法订阅 Claude，求助礼品卡余额的使用或转移办法。  
@@ -667,8 +679,10 @@
 
 <a id="cat-7"></a>
 
-## 学习教育与思维（11）
+## 学习教育与思维（12）
 
+- **[Claude 每天在用的 10 条提示词](https://x.com/0xluffy_eth/status/2118859229218189483)** — 作者分享使用 Claude 三年沉淀下来、几乎每天都在用的 10 条提示词，用来提升日常效率。  
+  @0xluffy_eth · 2026-11-07
 - **[Karpathy 两小时 AI Agent 实战课](https://x.com/AndyL5cc/status/2116801447178482003)** — Karpathy 分享两小时课程，系统讲解 AI Agent、Harness、Loops、Graphs 等核心原理。  
   @AndyL5cc · 2026-11-01
 - **[开源 55 门高中理科 3D 互动实验课件](https://x.com/CopperForgeAI/status/2115311202876453351)** — 铜匠开源对齐人教版教材的物理化学生物地理 3D 课件，单文件 HTML 可离线使用，并分享 AI 制作流程。  
