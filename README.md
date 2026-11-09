@@ -2,26 +2,42 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **333** 条书签 · 最后更新：2026-11-08 09:24（北京时间）
+共 **350** 条书签 · 最后更新：2026-11-09 09:20（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 76 条
-- [翻墙 / VPS / 网络节点](#cat-1) — 60 条
-- [自媒体运营与赚钱](#cat-2) — 55 条
-- [AI 编程与开发工具](#cat-3) — 45 条
-- [Grok Bot 玩法](#cat-4) — 38 条
-- [Claude·ChatGPT 账号与订阅](#cat-5) — 27 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 84 条
+- [翻墙 / VPS / 网络节点](#cat-1) — 62 条
+- [自媒体运营与赚钱](#cat-2) — 58 条
+- [AI 编程与开发工具](#cat-3) — 46 条
+- [Grok Bot 玩法](#cat-4) — 39 条
+- [Claude·ChatGPT 账号与订阅](#cat-5) — 29 条
 - [娱乐与其他](#cat-6) — 12 条
 - [学习教育与思维](#cat-7) — 12 条
 - [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（76）
+## AI 创作（视频/游戏/3D）（84）
 
+- **[GPT 做剪纸风轻视频](https://x.com/Leviwoyun/status/2119434313934758388)** — 用 GPT 生图做出剪纸画风格动画，认为是低成本的轻视频赛道。  
+  @Leviwoyun · 2026-11-08
+- **[Images2.6 文具城市混合视觉](https://x.com/MrLarus/status/2119426684848107773)** — 用真实文具加手绘小人，把文具变成城市里的路、桥、隧道和车站。  
+  @MrLarus · 2026-11-08
+- **[Claude 写分镜 + Seedance 出画面的爆款视频](https://x.com/xueyu1125/status/2119374882710659295)** — 整理了 4 条用 Claude 当导演、Seedance 出画面的高曝光 AI 视频代表作。  
+  @xueyu1125 · 2026-11-08
+- **[GPT image 2.6 动态绘本 skill 更新](https://x.com/Leviwoyun/status/2119350685984825819)** — GIF 工厂的动态绘本 skill 更新，增加质感和书写音效，适合做治愈系、亲子短视频。  
+  @Leviwoyun · 2026-11-08
+- **[GPT 生图做剪纸动画](https://x.com/lemomo_ai/status/2119327014041842157)** — 重新利用 GPT 的生图能力完成剪纸动画，内容可控、成本很低。  
+  @lemomo_ai · 2026-11-08
+- **[Claude + H3 一个人拍 AI 短剧](https://x.com/TuyetloanP81840/status/2119326884505043274)** — 教程讲一人用 Claude 和 H3 做角色会说话的 AI 短剧，一集不到 30 元，附提示词和技能包。  
+  @TuyetloanP81840 · 2026-11-08
+- **[GPT image 2.6 动态绘本玩法](https://x.com/Leviwoyun/status/2119275395736584576)** — 用动态绘本风格做治愈系和儿童短视频，GIF 工厂已更新初版绘本 skill。  
+  @Leviwoyun · 2026-11-08
 - **[0.65 美元在 Colab 拍完一部 AI 短剧](https://x.com/yangleiocx3/status/2118950523445354988)** — 作者用 Colab 上的 96G 显卡，从分镜到成片约 40 分钟、花费不到 5 块钱，完整记录没开即梦、也没充 Seedance 的短剧制作流程。  
   @yangleiocx3 · 2026-11-07
+- **[Codex image2.6 零成本 AI 视频](https://x.com/gbroai/status/2118589683819262346)** — 用 Codex image2.6 直接生成 GIF，做出拼贴 B-roll，讲从隐喻到成片的流程。  
+  @gbroai · 2026-11-06
 - **[Claude code/Codex+Seedance：从想法到 AI 视频成片全流程](https://x.com/EianLu/status/2118317430665613741)** — 作者分享用 Claude 当总导演、Codex 画首尾帧、Seedance 出片的多模型工作流，以及低成本、低抽卡率做出满意 AI 短片的实操要点。  
   @EianLu · 2026-11-05
 - **[《Escape·逃离》黄金分割比例动画短片](https://x.com/EianLu/status/2117580488567406794)** — 把每一帧都按黄金分割比例构图、细抠人物眼神的温柔动画短片作品。  
@@ -175,8 +191,12 @@
 
 <a id="cat-1"></a>
 
-## 翻墙 / VPS / 网络节点（60）
+## 翻墙 / VPS / 网络节点（62）
 
+- **[新手自建节点建议](https://x.com/InfiCheesy/status/2119391434688356496)** — 建议平时用 vless+tcp+reality 或 vmess+ws+tls，机器很差时才考虑 UDP 节点。  
+  @InfiCheesy · 2026-11-08
+- **[低价 VPN 机场推荐](https://x.com/VAlexanderYang/status/2119307171318092135)** — 推荐一家 ¥2.8/月起、不限速不限设备的机场，主打 DMIT 三网优化和解锁 AI。  
+  @VAlexanderYang · 2026-11-08
 - **[几家常用 VPN 的真实缺点盘点](https://x.com/sosuke997/status/2118646076681138649)** — 抛开吹捧直说天机云、TAG、PP、Nvenix、TTCLOUD 等常见 VPN 在延迟、价格、客服和节点上的短板。  
   @sosuke997 · 2026-11-06
 - **[Tailscale + 美国 VPS 隔离 Claude 凭证](https://x.com/vincemask/status/2117597043128783178)** — 用 Tailscale 把本地电脑和美国 VPS 组成私网，Claude 凭证只放 VPS，本地用 Magpie 远程调用。  
@@ -300,8 +320,14 @@
 
 <a id="cat-2"></a>
 
-## 自媒体运营与赚钱（55）
+## 自媒体运营与赚钱（58）
 
+- **[小红书起号保姆级教程](https://x.com/bbkirstry/status/2119430655390122208)** — 小晚写给新手的国内社媒起号教程，讲从找对标、选题到出摊和商业化。  
+  @bbkirstry · 2026-11-08
+- **[多平台无水印视频素材下载站](https://x.com/0xCzyan/status/2119251056119210258)** — 整理了 X、抖音/TikTok、小红书/B站的视频下载网站，用来找素材。  
+  @0xCzyan · 2026-11-08
+- **[cinecode：免费开源的 YouTube 起号 skill](https://x.com/sarpstar/status/2119082994925211686)** — 只需 Claude 会员即可使用的免费开源 skill，帮助从零开始做 YouTube 频道（土耳其语）。  
+  @sarpstar · 2026-11-07
 - **[X 上学到的赚钱项目合集](https://x.com/ganfanren_ai/status/2118482318184853664)** — 整理 X 上大神推荐的 67 个赚钱小项目，按平台分类汇总，方便以后翻找跟进。  
   @ganfanren_ai · 2026-11-06
 - **[AI 表情包提交微信平台变现超千元](https://x.com/ama_huangama/status/2118154620744708599)** — 用 GPT Image 做好表情包后，提交到微信表情开放平台并勾选赞赏，把算力直接换成收入。  
@@ -415,8 +441,10 @@
 
 <a id="cat-3"></a>
 
-## AI 编程与开发工具（45）
+## AI 编程与开发工具（46）
 
+- **[CC Desk Tunnel：Claude 跑 VPS、文件留本地](https://x.com/JustLikeBit/status/2119350968743563340)** — 开源工具，让 VPS 上的 Claude Code 通过通道直接读写本地文件、跑命令，并提醒防封风险。  
+  @JustLikeBit · 2026-11-08
 - **[Google Colab 免费云端显卡的十种玩法](https://x.com/yyyole/status/2119096607752781869)** — 介绍免费版 Colab 就能用上 16G 显存的 NVIDIA T4，并列出部署开源大模型、生图、语音、视频、微调和数据分析等十种用法。  
   @yyyole · 2026-11-07
 - **[Mac 终端 Ghostty 配置指南](https://x.com/suversal/status/2117876089334956384)** — 一步步把 Mac 终端换成 Ghostty，并搭配 zsh、eza、zoxide 等工具打造高颜值高效终端。  
@@ -510,8 +538,10 @@
 
 <a id="cat-4"></a>
 
-## Grok Bot 玩法（38）
+## Grok Bot 玩法（39）
 
+- **[微信聊天记录直通 Grok Bot 开源](https://x.com/cgnot996/status/2119298485803794467)** — 开源工具，可把微信里的聊天记录和文件一键转发给 Grok Bot，省去手动复制搬运。  
+  @cgnot996 · 2026-11-08
 - **[用 6 个 Grok Bot 系统化做 X 账号增长](https://x.com/SIAxiom/status/2118947536903999719)** — 对照只靠 AI 批量写推却涨粉停滞的做法，介绍趋势监测、内容复用、策略复盘、竞品研究、回复机会和增长任务这 6 个专用 Bot 如何组成运营闭环。  
   @SIAxiom · 2026-11-07
 - **[SpaceXAI 放出 146 个免费 Grok Bot 模板](https://x.com/HeLi8866/status/2117986080452698298)** — 盘点官方免费放出的大批 Grok Bot 模板与社区仓库，覆盖搭团队骨架、写代码派活和具体场景用法。  
@@ -591,8 +621,12 @@
 
 <a id="cat-5"></a>
 
-## Claude·ChatGPT 账号与订阅（27）
+## Claude·ChatGPT 账号与订阅（29）
 
+- **[查询 Claude 账号是否通过 KYC](https://x.com/feishutoday/status/2119456566365835464)** — 教你用浏览器访问接口，根据 status 字段判断 Claude 账号升级是否需要或已通过 KYC。  
+  @feishutoday · 2026-11-08
+- **[外区苹果内购被风控的解决办法](https://x.com/Delroy715/status/2119397799330766979)** — 8 步找到苹果真人客服并用英文模板申诉，实测开通土区 Google AI Ultra。  
+  @Delroy715 · 2026-11-08
 - **[Claude 注册与使用完整教程](https://x.com/demonyins/status/2119046297823150322)** — 整理从邮箱、家宽 VPS、网络环境到 Claude 注册、订阅支付，再到通过 Magpie 使用的完整流程，并分享四家亲测未弹 KYC 的家宽商家。  
   @demonyins · 2026-11-07
 - **[Claude 0→1 稳定使用教程与防封指南](https://x.com/yaohui12138/status/2117439563367149830)** — 从干净美国节点、美区 Apple ID、手机注册到礼品卡订阅，详解 Claude 稳定使用和避坑经验。  
