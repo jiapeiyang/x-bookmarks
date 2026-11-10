@@ -2,24 +2,26 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **350** 条书签 · 最后更新：2026-11-09 09:20（北京时间）
+共 **350** 条书签 · 最后更新：2026-11-10 09:18（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 84 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 85 条
 - [翻墙 / VPS / 网络节点](#cat-1) — 62 条
 - [自媒体运营与赚钱](#cat-2) — 58 条
 - [AI 编程与开发工具](#cat-3) — 46 条
 - [Grok Bot 玩法](#cat-4) — 39 条
 - [Claude·ChatGPT 账号与订阅](#cat-5) — 29 条
 - [娱乐与其他](#cat-6) — 12 条
-- [学习教育与思维](#cat-7) — 12 条
+- [学习教育与思维](#cat-7) — 11 条
 - [银行卡与支付](#cat-8) — 8 条
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（84）
+## AI 创作（视频/游戏/3D）（85）
 
+- **[Antigravity + Colab 一键部署 MiniMax H3](https://x.com/shengtang135754/status/2119609385249067262)** — 用 Antigravity 加 Colab GPU 一键部署 MiniMax H3 的方案，作者已亲测成功，复制脚本即可。  
+  @shengtang135754 · 2026-11-09
 - **[GPT 做剪纸风轻视频](https://x.com/Leviwoyun/status/2119434313934758388)** — 用 GPT 生图做出剪纸画风格动画，认为是低成本的轻视频赛道。  
   @Leviwoyun · 2026-11-08
 - **[Images2.6 文具城市混合视觉](https://x.com/MrLarus/status/2119426684848107773)** — 用真实文具加手绘小人，把文具变成城市里的路、桥、隧道和车站。  
@@ -713,14 +715,12 @@
 
 <a id="cat-7"></a>
 
-## 学习教育与思维（12）
+## 学习教育与思维（11）
 
 - **[Claude 每天在用的 10 条提示词](https://x.com/0xluffy_eth/status/2118859229218189483)** — 作者分享使用 Claude 三年沉淀下来、几乎每天都在用的 10 条提示词，用来提升日常效率。  
   @0xluffy_eth · 2026-11-07
 - **[Karpathy 两小时 AI Agent 实战课](https://x.com/AndyL5cc/status/2116801447178482003)** — Karpathy 分享两小时课程，系统讲解 AI Agent、Harness、Loops、Graphs 等核心原理。  
   @AndyL5cc · 2026-11-01
-- **[开源 55 门高中理科 3D 互动实验课件](https://x.com/CopperForgeAI/status/2115311202876453351)** — 铜匠开源对齐人教版教材的物理化学生物地理 3D 课件，单文件 HTML 可离线使用，并分享 AI 制作流程。  
-  @CopperForgeAI · 2026-10-28
 - **[2小时建立AI认知体系](https://x.com/long_jingai/status/2111356255889723723)** — 一篇文章带零基础读者系统了解AI（企业内训同款）。  
   @long_jingai · 2026-10-17
 - **[每日必看的三个网站](https://x.com/WY_mask/status/2109685526567764019)** — 推荐中文聚合海外热点新闻等三个每日浏览网站。  

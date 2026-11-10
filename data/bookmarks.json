@@ -1,5 +1,18 @@
 [
  {
+  "id": "2119609385249067262",
+  "url": "https://x.com/shengtang135754/status/2119609385249067262",
+  "title": "Antigravity + Colab 一键部署 MiniMax H3",
+  "summary": "用 Antigravity 加 Colab GPU 一键部署 MiniMax H3 的方案，作者已亲测成功，复制脚本即可。",
+  "category": "AI 创作（视频/游戏/3D）",
+  "created_at": "2026-11-09T01:53:52.000Z",
+  "author_username": "shengtang135754",
+  "author_name": "麦麦提",
+  "text": "Antigravity ➕colab➕minimax h3一键部署方案，已亲测部署成功，colab g4 gpu赶紧用起来，把下面内容直接复制给你的antigravity 就能完成部署👇👇👇\n\nbash\nexport PATH=\"$HOME/.local/bin:$PATH\"\n# 首次授权（会自动弹一次浏览器，⚠️ 切记手动勾选「查看、编辑、创建和删除您的所有 Google 云端硬盘文件」复选框再点继续！）\ncolab dfs consent\n\n授权完成后，以后只需三条命令即可在后台全自动开 G4、挂云盘、跑 33B MiniMax-H3 并自动关机省 CCU：\n\nbash\n# 1. 拉起 96GB G4 实例并静默挂载 20TB Google Drive\ncolab new -s h3work --gpu G4\ncolab dfs mount -s h3work\n# 2. 90秒极速冷启动 MiniMax-H3 并跑完 4 段式影视短剧\ncolab exec -s h3work -c \"python3 -u /content/drive/MyDrive/AI_Workstation/scripts/launch_g4_comfyui_fast.py --profile scheme_a && cd /content/drive/MyDrive/AI_Workstation/workflows/01_dialogue_2p_photorealistic && python3 -u run_drama.py --config drama_config.json --workflow workflow_v9_final.json\"\n# 3. 跑完一键强杀实例并对账 CCU（防止后台幽灵计费）\npython3 \"/Users/stark/Google Drive/我的云端硬盘/AI_Workstation/scripts/colab_meter.py\" stop",
+  "first_seen_at": "2026-11-10",
+  "bookmarked_order": 0
+ },
+ {
   "id": "2119430655390122208",
   "url": "https://x.com/bbkirstry/status/2119430655390122208",
   "title": "小红书起号保姆级教程",
@@ -10,7 +23,7 @@
   "author_name": "小晚不在",
   "text": "有手就会的国内社媒起号教程 1.0 https://x.com/i/article/2119388296157798400",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 0
+  "bookmarked_order": 1
  },
  {
   "id": "2119298485803794467",
@@ -23,7 +36,7 @@
   "author_name": "铁柱AGI",
   "text": "微信聊天记录直通 Grok Bot，这条路打通，整个工作流变得非常丝滑，告别手动复制粘贴！这个工具经过几个版本的迭代，已经开源了，欢迎使用，也希望大家能给这个开源项目点点 Star https://x.com/i/article/2119253967255560192",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 1
+  "bookmarked_order": 2
  },
  {
   "id": "2119350968743563340",
@@ -36,7 +49,7 @@
   "author_name": "如比特",
   "text": "有个开源工具叫 CC Desk Tunnel，思路是把 Claude 放到 VPS 上，其他东西全留在自己电脑\n\n1️⃣ 官方 Claude Code 跑在一台海外 Linux 服务器上，登录也在那边\n2️⃣ 项目文件、编译器、开发环境都留在你自己的电脑\n3️⃣ 中间搭一条通道，服务器上的 Claude 直接读写你本地的文件、跑命令、编译测试\n\n所以 Claude 看到的一直是那台服务器的环境，你也不用把代码搬上去\n\n💻 作者用的是 2 核 1G 的小机器，说只在本地开发的话绰绰有余\n\n还做了个图形客户端，Windows、Mac、Linux 都有\n\n⚠️ 但是防封这事儿也别太当真：\n作者开了个新号测一周没事，半个月后还有几个人说号还在\n但有人照着部署，照样收到地区封禁的邮件\n\n还有一点：\n作者承认代码主要是 AI 写的\n服务器连上之后，能直接操作你的本地电脑💻\n所以服务器一定得是自己能控制的🔐\n\nGithub 项目链接不贴了，有兴趣的自己 Google 一下",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 2
+  "bookmarked_order": 3
  },
  {
   "id": "2119374882710659295",
@@ -49,7 +62,7 @@
   "author_name": "雪瑜",
   "text": "最近 X 上最猛的 AI 视频工作流是「Claude 写分镜当导演 + Seedance 出画面」，单条最高直接干到 3650 万曝光，挑了 4 条不同方向的封神代表作替你整理好了，建议收藏：\n\n1️⃣《Englishman in New York》（3650 万曝光 / 6.9 万收藏）\n\n46 秒水彩绘本风短片，英国绅士端着茶杯在纽约街头的冷幽默巧合，运镜和卡点丝滑到像奥斯卡最佳动画短片，据说上传Youtube可以赚到七位数\n\nhttps://x.com/antrofrog_/status/2116118341610004764\n\n2️⃣ Claude 全自动导演短片（14 万曝光）\n\nEian哥用一篇500W曝光长文出圈，看看Eian哥之前发的作品，一句风格描述，把剧情、画面、音效和剪辑全交给 Claude 负责，直接跑出 48 秒海滨小镇轮滑少女与邮差的完整故事\n\nhttps://x.com/EianLu/status/2116433797017436333\n\n3️⃣ 森马鹅绒服商业AI视频（5.6 万曝光）\n\n视频流真的能接商单赚钱！用 Claude Opus 5.5 + Seedance 2.5 给品牌方交付的 3 分半商业大片，不赚钱还是得学一下脚本分镜\n\nhttps://x.com/ring_hyacinth/status/2118599269850779812\n\n4️⃣ 新人黑马《overclocked》\n\n和Leo哥认识比较久了，第一次发现他视频整这么好，67 秒皮克斯风动画，给帆布鞋焊上散热铜管「超频」去送披萨，最后 10 秒店扔金币的运镜我是直接看呆了\n\nhttps://x.com/double_burger_2/status/2119281027495625187\n\n想做 AI 短片的先收藏起来，没灵感的时候翻出来逐帧抄分镜",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 3
+  "bookmarked_order": 4
  },
  {
   "id": "2119350685984825819",
@@ -62,7 +75,7 @@
   "author_name": "Levi 卧云",
   "text": "我就说 GPT image 2.6 可玩性很高吧！！\n\n动态绘本skill更新了！增加了整体质感和书写音效！\n\n赶紧拿去小红书、视频号的治愈系、亲子赛道起号！！\n\n点个 star 不迷路👉https://github.com/WoYun520/gif-factory 「[图片/视频]」 https://twitter.com/Leviwoyun/status/2119275395736584576",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 4
+  "bookmarked_order": 5
  },
  {
   "id": "2119434313934758388",
@@ -75,7 +88,7 @@
   "author_name": "Levi 卧云",
   "text": "剪纸画风格，来给 Lemomo 老师交个作业！\n\n目前看来是 GPT 非常适合的低成本视频赛道\n\n在轻视频上大有可为，只是需要时间来调教 「[图片/视频]」 https://twitter.com/lemomo_ai/status/2119327014041842157",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 5
+  "bookmarked_order": 6
  },
  {
   "id": "2119251056119210258",
@@ -88,7 +101,7 @@
   "author_name": "子砚",
   "text": "卧槽！\n终于知道那些一天发30条的人素材到底从哪来了  \n\nX：https://cobalt.tools \n抖音/TikTok： https://tiktokio.bio \n小红书/B站： https://greenvideo.cc\n\n这还不收藏？以后肯定用上 「[图片/视频]」",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 6
+  "bookmarked_order": 7
  },
  {
   "id": "2119391434688356496",
@@ -101,7 +114,7 @@
   "author_name": "InfiCheesy無限芝士",
   "text": "新手自建节点\n\n建议只在机器实在垃圾的情况下\n再考虑UDP节点\n\n平时用用vless+tcp+reality（reality记得偷https://www.speedtest.net/）\n或者vmess+ws+tls即可 https://twitter.com/inficheesy/status/2119390650923917696",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 7
+  "bookmarked_order": 8
  },
  {
   "id": "2119426684848107773",
@@ -114,7 +127,7 @@
   "author_name": "Larus Canus",
   "text": "🤯 Images2.6 做混合视觉，真实文具+手绘小人，尺度碰撞太有趣了！\n\n文具原来的结构变成城市里的路、桥、隧道和车站：\n\n1. 长尾夹车站：等一会儿，也算在路上\n2. 铅笔高架：把今天画得远一点\n3. 胶带隧道：穿过去，路还在继续\n4. 回形针天桥：绕一点路也没关系\n\n✏️ 「[图片/视频]」 https://twitter.com/MrLarus/status/2119088172433109353",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 8
+  "bookmarked_order": 9
  },
  {
   "id": "2119456566365835464",
@@ -127,7 +140,7 @@
   "author_name": "feishu",
   "text": "怎么查看自己的Claude账户是否已过KYC认证？\n\n首先你需要先在浏览器当中登录自己的claude账号，我给大家提供一个接口（在图中查看，帖子当中发出会被折叠），把里面的 organization ID替换之后在浏览器直接访问，返回的status字段就会告诉你是否通过！\n\nstatus含义：\nnot_required\n该账号升级不需要 KYC，可以直接升级\npending\n需要 KYC，正在审核中\napproved（新版是verified）\nKYC 已通过，可以升级\ndenied\nKYC被拒，无法升级\n\n流程建议：\n在尝试升级 Max 之前，先请求这个接口：\n• 如果返回 not_required >直接升级，无障碍\n． 如果返回其他状态＞需要先处理 KYC再升级",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 9
+  "bookmarked_order": 10
  },
  {
   "id": "2119397799330766979",
@@ -140,7 +153,7 @@
   "author_name": "码农暖爸",
   "text": "外区 Apple ID 充完礼品卡却提示 Purchase Not Completed 付不了款？别慌，钱没丢！\n\n手把手教你破除官网死循环，8 步挖出隐藏的苹果真人在线客服（Live Chat）+ 万能英文申诉模板。实测丝滑拿下土区 Google AI Ultra 20X，通杀一切内购风控，建议收藏👇 https://x.com/i/article/2119344771475156992",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 10
+  "bookmarked_order": 11
  },
  {
   "id": "2119307171318092135",
@@ -153,7 +166,7 @@
   "author_name": "老杨特靠谱",
   "text": "超牛逼「VPN 机场」\n不限速度！不限设备数！\n\n🎉 低至 ¥2.8/月！！！\n🎁 ¥67.9、500g 永久！\n(老杨差点把老板逼疯🤣)\n\n只要¥2.8！只要 ¥2.8！\n让兄弟们用上 DMIT ！\n用上解锁 AI 的 三网优化！\n\nhttps://app.novonet.cc/signup?invite=VIP888&lock=1 「[图片/视频]」",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 11
+  "bookmarked_order": 12
  },
  {
   "id": "2118589683819262346",
@@ -166,7 +179,7 @@
   "author_name": "狗哥笔记",
   "text": "https://x.com/i/article/2118584998299414528",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 12
+  "bookmarked_order": 13
  },
  {
   "id": "2119275395736584576",
@@ -179,7 +192,7 @@
   "author_name": "Levi 卧云",
   "text": "想不到吧，GPT image 2.6 还有新玩法！\n\n这次的风格是动态绘本，用来做治愈系短视频，儿童视频非常合适。\n\n拿去小红书亲子赛道，视频号起号！！！\n\nGIF 工厂目前已更新初版绘本 skill，欢迎提交 PR 一起完善 skill👇\nhttps://github.com/WoYun520/gif-factory 「[图片/视频]」",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 13
+  "bookmarked_order": 14
  },
  {
   "id": "2119082994925211686",
@@ -192,7 +205,7 @@
   "author_name": "sarpstar",
   "text": "YouTube kanalı açmayı hep isteyip bir türlü başlayamadıysanız, bu post derdinize derman olacak.\n\nBu hafta paylaştığım skill cinecode ücretsiz ve açık kaynak. Sadece Claude üyeliğinizle, sağda solda satılan kurslara para vermeden, aynı işi yapan araçları parayla satan platformlara gerek kalmadan kanalınızı açabileceksiniz.\n\nAşağıdaki Bermuda belgeseli için bir gece cinecode'a \"kararları sen ver\" deyip yattım. Sabah teslim raporuyla uyandım: sekiz dakikalık nerdeyse final bir video. Son haliyse, değişmesini istediğim yerleri detaylıca anlattığım tek bir revizeyle çıktı. Bunu yazarken harbici gururluyum, birkaç hafta önce bu cümleleri kuramazdım.\n\nNe yapıyor derseniz: fikrinizden senaryoyu yazıyor, sahneleri kodla üretiyor, gerektiğinde stok görsel tarayıp arşivden buluyor, motion design ile görsel kancalar kuruyor, açık kaynak ses efektlerini ve müziği de ekleyip son kurguya kadar götürüyor.\n\nValla bu skill gerçekten oldu, dümen değil. Kurcalayın, iyice aşina olun, benden iyilerini de yapacaksınızdır. Kamera almadan, yüzünüzü göstermeden, kurgucu tutmadan kanal zaten açılıyordu; ama artık başka hiçbir araca ihtiyaç duymadan, sadece Claude'la ya da kullandığınız yapay zekâ aracıyla yapabileceksiniz. Kafayı koyup emek verirseniz elinizde kanal açacak kalitede iş üretebileceğiniz bir araç var.\n\nBen de izninizle kendi kanallarımı açıyorum artık; hepinizi kendime rakip etmesem içime sinmezdi. Sıra trend bir konu ve doğru nişte. Tutan formatı bulup seri üretime geçeceğim. Belki de Bermuda gibi paranormal olaylar anlatan bir kanaldan devam ederim.\n\ncinecode'u geliştirmekten de bir süre uzaklaşacağım, şu haliyle fazlasıyla yeterli. Aklıma gelen fikirleri not ediyorum, özleyince döneceğim.\n\nRepo ve kurulum ilk yorumda. Bu akşam konunuzu seçin, YouTube'da görüşürüz.",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 14
+  "bookmarked_order": 15
  },
  {
   "id": "2119326884505043274",
@@ -205,7 +218,7 @@
   "author_name": "Miller",
   "text": "https://x.com/i/article/2119326877647319040",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 15
+  "bookmarked_order": 16
  },
  {
   "id": "2119327014041842157",
@@ -218,7 +231,7 @@
   "author_name": "Lemomo",
   "text": "重新利用gpt的生图能力，完成剪纸动画 (cut-out animation)，内容可控，成本很低。 「[图片/视频]」",
   "first_seen_at": "2026-11-09",
-  "bookmarked_order": 16
+  "bookmarked_order": 17
  },
  {
   "id": "2118950523445354988",
@@ -231,7 +244,7 @@
   "author_name": "阿磊",
   "text": "https://x.com/i/article/2118947369769115648",
   "first_seen_at": "2026-11-08",
-  "bookmarked_order": 17
+  "bookmarked_order": 18
  },
  {
   "id": "2119096607752781869",
@@ -244,7 +257,7 @@
   "author_name": "沐阳",
   "text": "Google真的是大善人！！\n\n有一个很多人不知道的免费神器：Google Colab！\n之前看到界面有点畏难，但稍微研究一下，\n真的是打开新世界！！\n\n免费版就能用上16G显存的云端NVIDIA T4！\n玩法真的有很多！\n\n1、挂载Google Drive存资料。\n2、运行开源大模型：直接部署 Qwen、Llama、DeepSeek 等模型，体验本地推理。\n3、AI 生图：运行 Stable Diffusion、SDXL 等开源模型。\n4、AI 语音：利用 Whisper 做语音转文字，运行开源 TTS 模型生成配音。\n5、AI 视频：测试视频生成、视频增强、超分辨率等模型。\n6、模型微调：使用 LoRA、QLoRA，训练自己的专属 AI 模型。\n7、GitHub 项目测试：克隆开源项目，安装依赖，直接运行。\n8、AI Agent 实验：组合不同模型和工具，构建自动化任务工作流。\n9、数据分析：批量处理 Excel、CSV，自动生成统计图表。\n10、模型量化测试：尝试不同量化精度，研究显存占用和推理速度。",
   "first_seen_at": "2026-11-08",
-  "bookmarked_order": 18
+  "bookmarked_order": 19
  },
  {
   "id": "2118947536903999719",
@@ -257,7 +270,7 @@
   "author_name": "SI Axiom",
   "text": "同样是用Grok做X账号，有人每天批量生成几十条推文，发得越来越多，粉丝却没见涨；有人已经用6个专用Bot，把找热点、研究竞品、分析数据、筛选互动机会，变成了一套系统化的增长流程。\n\n一个还在想怎么让AI多写几条推文，另一个已经开始让AI帮自己判断该写什么、和谁互动、下一步怎么增长。\n\n看完 @JacobCEdmunds 的演示，我觉得这才是Grok在X运营中更值得探索的方向。\n\n这6个Bot分别解决了6个具体问题：\n\n1. X Trend Watcher｜趋势监测\n追踪热门内容、算法变化和互动趋势，对比历史数据，发现正在升温的话题，过滤短期流量噪音，减少盲目跟风。\n\n2. YouTube to X Repurposer｜内容复用\n把YouTube长视频拆成适合X传播的帖子，提炼核心观点、故事和关键数据，让一份素材产生更多内容。\n\n3. X Content Strategist｜内容策略\n复盘历史推文的曝光和互动表现，找出哪些内容持续有效、哪些投入很多却收效甚微，再根据数据调整选题方向。\n\n4. X Competitor Research｜竞品研究\n分析同领域账号的热门话题、内容结构和互动情况，了解别人正在做什么，寻找尚未被充分覆盖的内容机会。\n\n5. X Reply Window｜回复机会\n筛选高价值评论和讨论，发现值得交流的创作者、潜在关注者及合作对象。一条有见地的回复，有时比新发一条推文更容易获得目标受众的关注。\n\n6. X Growth Strategist｜增长策略\n搜索细分领域的创作者和潜在客户，把增长目标变成每天能执行的任务，例如筛选30个值得参与的互动机会，减少对自然流量的依赖。\n\n这6个Bot组合起来，形成了一套相互配合的运营流程：\n\n趋势发现 → 竞品研究 → 内容规划 → 内容生产 → 主动互动 → 数据复盘。\n\n我觉得这套方法最有价值的地方，是让AI处理大量重复的信息搜集、数据分析和机会筛选工作，把更多时间留给独立思考和真实交流。\n\n不过，当越来越多人使用相似的AI工具追热点、拆解爆款，内容同质化也可能越来越严重。\n\nAI能帮你发现机会，却无法保证你的观点有价值，更无法替你建立受众信任。这套方法能否持续带来增长，也需要实际数据验证。\n\n工具和模板可以复制，但个人经验、独立判断和长期积累的信任很难复制。\n\n用AI提高效率已经不难，关键是利用这些效率，持续创造别人愿意关注你的理由。",
   "first_seen_at": "2026-11-08",
-  "bookmarked_order": 19
+  "bookmarked_order": 20
  },
  {
   "id": "2119046297823150322",
@@ -270,7 +283,7 @@
   "author_name": "D姐 | demonyins",
   "text": "https://x.com/i/article/2119042972889260032",
   "first_seen_at": "2026-11-08",
-  "bookmarked_order": 20
+  "bookmarked_order": 21
  },
  {
   "id": "2118859229218189483",
@@ -283,7 +296,7 @@
   "author_name": "路飞 🏴‍☠️ AI 研究员🧐",
   "text": "用 Claude 三年了，它确实改变了我生活里很多具体的事，今天分享一波 ⬇️\n\n我差不多每天在用的 10 条提示词 ⬇️ \n\n日常效率的提升基本都靠这些，你也可以直接用。\n\n（建议收藏 🔖）",
   "first_seen_at": "2026-11-08",
-  "bookmarked_order": 21
+  "bookmarked_order": 22
  },
  {
   "id": "2116859493967393176",
@@ -296,7 +309,7 @@
   "author_name": "夏木GROW",
   "text": "https://x.com/i/article/2116757140136476673",
   "first_seen_at": "2026-11-08",
-  "bookmarked_order": 22
+  "bookmarked_order": 23
  },
  {
   "id": "2118482318184853664",
@@ -309,7 +322,7 @@
   "author_name": "饭饭猛猛炫、",
   "text": "https://x.com/i/article/2118481935685292032",
   "first_seen_at": "2026-11-07",
-  "bookmarked_order": 23
+  "bookmarked_order": 24
  },
  {
   "id": "2118646076681138649",
@@ -322,7 +335,7 @@
   "author_name": "宗介Sosuke",
   "text": "来来来，天天夸这些VPN，今天只说缺点，我和你们爆了🥵🥵🥵\n\n天机云：延迟偏高\nhttps://panel.tianjiyun.org/?code=mhZ94rAs\n\nTAG：贵，客服响应慢\nhttps://uc8.uk/#/auth/VyRurBpT\n\nPP：贵，家宽经常缺货\nhttps://www.peakpassvpn.com/dashboard/?ref=JAD4BU\n\nNvenix：使用体验两极分化，好用的猛夸，不好用的狂喷\nhttps://www.nvenix.top/#/register?code=uMK7IQVS\n\nTTCLOUD：同上，高倍节点消耗太快，低倍节点不是很好用\nhttps://ttc.ttcttc.net/#/register?code=XcjwVPcI\n\n三元店：高峰期难用\nhttps://sanyuandian.net/#/register?code=71738A79\n\n三毛：同上，节点脏\nhttps://gw-1.smjc2.com/#/register?code=eQqZpR6f\n\n聚盟云：不支持第三方代理软件，客服服务态度不好\nhttps://jujiasu.com/register?code=cIwVLniL\n\n实事求是，有优点肯定有缺点，只要优点大于缺点！他就值得买（狗头保命💩）",
   "first_seen_at": "2026-11-07",
-  "bookmarked_order": 24
+  "bookmarked_order": 25
  },
  {
   "id": "2117986080452698298",
@@ -335,7 +348,7 @@
   "author_name": "何笠聊 AI",
   "text": "简直牛逼克拉斯！\n\nSpaceXAI 刚刚直接放出了 146 个 Grok Bot 模板，一分钱不要。而这批东西，原本官方标价高达 29,200 美元。\n\n要知道平时这种现成的机器人，随便拿一个都得 50 到 200 美元，这还只是官方那套基础配置。\n\n离谱的是，现在 GitHub 上已经跑出 700 多个了。里面不只是单兵作战的机器人，甚至有整套配置好专业分工的团队模式。交接流程直接是现成的，连单独的审核角色都给安排了。\n\n一、搭团队骨架\n\n· Agent Org Chart：工程、市场、客服、销售的组织结构现成，新手最省事的起点\nhttp://github.com/serenakeyitan/agent-org-chart\n\n· Grok Bot Architecture：总管+专家+结构化交接+人工审批，全部放在一台电脑上，适合想看完整蓝图的人\nhttp://github.com/tiagovilasboas/grok-bot-architecture\n\n· Root Agent：协调者先判断要哪些专家再分活，思路和上面接近，二选一即可\nhttp://github.com/MrBekoX/root-agent-skill-framework\n\n· Grok Bot Templates：49 个模板，职责、产出、技能、例行任务和边界都写好，可以直接改成自己的\nhttp://github.com/cobusgreyling/grok-bot-templates\n\n· Grok Bot Second Brain：Conductor、Capture、Memory、Ops、Research 五个角色共用一个知识库，适合做个人知识管理\nhttp://github.com/mKay00/grok-bot-second-brain\n\n二、写代码/派活\n\n· Grok Factory：Firstmate 统一分派软件、研究、日常任务，回收报告或审过的 PR\nhttp://github.com/jaredtrichard/grok-factory\n\n· multiBot、Thin Grok Bot：思路一样，机器人只管协调，重活交给编码 CLI 或云端代理\nhttp://github.com/simo255/multiBot\nhttp://github.com/Luca-Blight/thin-grok-bot-deep-work-on-cli\n\n· Grok Bot Profiles：写规格、复现 bug、出 PR、审 PR 四个角色，实现和验证分开对话，能减少自己给自己打分\nhttp://github.com/HAEGONG/grok-bot-profiles\n\n· Foreman：盯托管中的机器人班组，揪出卡住的活，完成要留证据，通过与否由另一个角色判\nhttp://github.com/Archive228/foreman\n\n· Grok Bot Gateway：脚本和编码代理通过网关机器人列机器人、读对话、发任务，走 webhook\nhttp://github.com/dimpurr/grok-bot-gateway\n\n· grokbot-queue：多个 Bot 间排队派活，注意它收结果用的是 SSH 加非官方桌面自动化，稳定性自己掂量\nhttp://github.com/ShuhangGe/grokbot-queue\n\n· BOTROSTER：自托管的另一条路，固定名字的队友、共享文件、浏览器、定时任务、审批都有\nhttp://github.com/mandarwagh9/botroster\n\n三、具体场景\n\n· grokbot-x：找帖、写草稿、通过 Typefully 发布，再按记录结果调整写作技能，做内容的可以重点看\nhttp://github.com/YannisKiefer/grokbot-x\n\n· grokbot-skills：调试、头脑风暴、写作、观察任务的通用技能，上游来源和许可证都留着\nhttp://github.com/jeremybrasher/grokbot-skills\n\n· Restaurant Scout：找餐饮品牌和创作者、写带货脚本、整理成目录\nhttp://github.com/mykemueller1-ctrl/grok-bot-restaurant-scout\n\n· Grok Bot Shopping：搜商品、结账、测 Shopify 折扣码、跑订单，可加一个 Buyer 机器人。涉及付款，权限别放太开\nhttp://github.com/steve228uk/grok-bot-shopping\n\n· PhoneZero：打电话订餐厅这类事，先出通话方案，你批准才拨，结束后汇报\nhttp://github.com/function1st/PhoneZero\n\n· Unlist：处理人肉搜索网站的信息下架，记录站点、生成信函、登记提交、跟进结果\nhttp://github.com/shawnyeager/unlist\n\n四、交易\n\n· HyperGrok Trading Desk：行情、研究、策略、风控、执行、复盘七个机器人，默认只做研究，实盘要你确认。建议一直留着这道确认，不构成投资建议\nhttp://github.com/galleonlabs/hypergrok-trading-desk\n\n用之前想清楚一件事：配置免费，跑起来的额度不免费。第一次先给一个能明确交付的小活，比如一份研究简报、一个审过的 PR、一批草稿，跑完看产出和消耗。几个机器人重复查同一件事，人多反而亏。\n\n收藏一下，下次想自己从零搭之前先翻翻。",
   "first_seen_at": "2026-11-07",
-  "bookmarked_order": 25
+  "bookmarked_order": 26
  },
  {
   "id": "2118317430665613741",
@@ -348,7 +361,7 @@
   "author_name": "Eian",
   "text": "https://x.com/i/article/2118298893238845441",
   "first_seen_at": "2026-11-06",
-  "bookmarked_order": 26
+  "bookmarked_order": 27
  },
  {
   "id": "2118154620744708599",
@@ -361,7 +374,7 @@
   "author_name": "黄啊码",
   "text": "我用AI 生成表情包变现超千元啦！\n\n今天GPT Image2.6上线，我看到大批的人在 X 发表情包，不是，炫技干嘛？还不赶紧去微信公众平台搞钱啊，方法如下：\n\n打开网址：https://sticker.weixin.qq.com/\n\n点击提交作品-》选择表情包专辑\n\n填写和上传图 3 的图片和信息\n\n最关键的一点：勾选表情包赞赏\n\n相关制作规范：https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/readtemplate?t=guide/index.html#/makingSpecifications#specifications_stickers\n\n赶紧拿着你的表情包去搞钱吧，算力变成钱才是闭环。",
   "first_seen_at": "2026-11-06",
-  "bookmarked_order": 27
+  "bookmarked_order": 28
  },
  {
   "id": "2118033995611205754",
@@ -374,7 +387,7 @@
   "author_name": "冰河",
   "text": "我教你怎么用 AI 马上赚到钱，信不？\n\n笨办法，不废话。后半夜了。。。\n\n新建个 Grok Bot ，给它设定一个规则：\n\n我会给你一些 AI 大博主的抖音主页地址，你要做的是直接去网页端，查看这些博主近 14 天内发布的内容主题，视频转文字把口播逐字稿，进行转写，并分析。然后，最重要的是去这些视频的评论区，去找高赞评论，找到有痛点问题的内容，收集起来。\n\n只要我说“选题”，你就把这些博主近 14 天的选题全列出来，让我选择。并且把这些内容下的高赞评论，或潜在需求评论也都整理出来。\n\n-------------------\n\n大概就是上面的意思。你自己改吧一下。\n\n然后，每天多找点类似AI博主，让 Bot 去多积累一些 优质博主库内容。\n\n人工找，就是为了增加效率，只有你看的上的博主，他的内容才是与你相帖近的，客户群体也是一致的。\n\nBot 去帮你整理选题，是为了让你知道近 14 天这些大博主都发什么内容，给你参考自己拍视频，或写文章用，大博主了，他们要不接商单，要不就花大量时间找选题，你别费脑子了，跟着看吧。\n\n但不是让你跟着抄。你要懂的借选题，换内容！\n\n特别重要的是热度评论，里面藏着真实的付费需求，你会看到很多人的问题，这些问题如果你可以快速，低成本的为他们解决，就是流量，也是钱。\n\n那么，得到这些需求后，你要做什么？\n\n你先和 AI，我一般是和 Bot 去商讨这个需求的解决方案，如何做，流程是什么。\n\n然后，我会亲自做一遍，做的同时，截图，保存过程中的重要环节，有必要就写成文章，或录成视频。\n\n然后找机会发布。。\n\n多做这些工作，慢慢的就会有相同痛点的人主动找到你，这是必然。\n\n接下来，就是你转化的流程。。。自己悟 吧。。",
   "first_seen_at": "2026-11-06",
-  "bookmarked_order": 28
+  "bookmarked_order": 29
  },
  {
   "id": "2117779253660201239",
@@ -387,7 +400,7 @@
   "author_name": "刘老板",
   "text": "https://x.com/i/article/2117778072141438976",
   "first_seen_at": "2026-11-05",
-  "bookmarked_order": 29
+  "bookmarked_order": 30
  },
  {
   "id": "2117876089334956384",
@@ -400,7 +413,7 @@
   "author_name": "苏码玩家",
   "text": "https://x.com/i/article/2117820183574413312",
   "first_seen_at": "2026-11-05",
-  "bookmarked_order": 30
+  "bookmarked_order": 31
  },
  {
   "id": "2117887314210824405",
@@ -413,7 +426,7 @@
   "author_name": "Serena 木瓜",
   "text": "朋友们，公众号真的值得做。\n\n我最近什么都没写，长尾也涨了 200 个粉丝。能安心看文章的粉丝在广告商眼里都是值钱的。\n\n如果你不太会写文章的话，这些 Skills 可以帮助到你：整理思路、查资料、列提纲，一路帮你写到完整的正文👇\n\n1️⃣ khazix-writer｜⭐ 21.9k（合集）\n把产品体验、新闻、零散观点写成 4,000–8,000 字的公众号长文。偏个人叙事和观点表达，附四层自检。\n\nGitHub:\nhttps://github.com/KKKKhazix/khazix-skills/tree/main/khazix-writer\n\n2️⃣ gzh-longform-writer｜⭐ 1.8k（合集）\n只有一个念头、一堆素材，或者写到一半卡住了，都有对应写法。适合把自己的想法组织成 1,500–4,000 字的公众号文章。\nGitHub:\nhttps://github.com/SpaceZephyr/creator-buddy/tree/main/gzh-Skills/gzh-longform-writer\n\n3️⃣ content-research-writer｜⭐ 78.7k（合集）\n\n帮你研究资料、搭提纲、撰写正文、补充引用，再逐节修改。适合 AI 工具深度解读、案例分析和有来源的知识长文。\n\nGitHub:\nhttps://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer\n4️⃣ wewrite｜⭐ 3.6k\n从选题、搜集素材，到按你的风格写作、审稿和改稿。还能学习你对文章的修改，适合持续更新公众号。\n\nGitHub:\nhttps://github.com/imraywang/wewrite\n\n5️⃣ content-production｜⭐ 29.3k（合集）\n\n给一个主题，从资料研究、文章提纲写到完整初稿，再检查结构和 SEO。适合产品分析、技术博客和商业长文。\n\nGitHub:\nhttps://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/skills/content-production\n\n6️⃣ Viral_Writer_Skill｜⭐ 816\n\n围绕核心观点、论证和情绪节奏构思，输出 1,500–3,000 字公众号正文，附 5 个备选标题和配图提示词。\n\nGitHub:\nhttps://github.com/nashsu/Viral_Writer_Skill",
   "first_seen_at": "2026-11-05",
-  "bookmarked_order": 31
+  "bookmarked_order": 32
  },
  {
   "id": "2117178580010676552",
@@ -426,7 +439,7 @@
   "author_name": "邦法",
   "text": "现在我的 Apple ID 订阅什么都是：“购买未完成”，多次找Apple客服无果。\n本来充值订阅Claude的，也无法订阅！\n那么有没有什么邪修方法，可以把礼品卡的余额给用掉或者转移到其他账号呢？ 「[图片/视频]」",
   "first_seen_at": "2026-11-05",
-  "bookmarked_order": 32
+  "bookmarked_order": 33
  },
  {
   "id": "2117597043128783178",
@@ -439,7 +452,7 @@
   "author_name": "Vince 聊开发",
   "text": "通过 Tailscale 建立本地电脑与美国 VPS 之间的私有网络，无需暴露公网服务端口。Claude 账号凭证仅保存在 VPS，本地通过 Magpie 远程调用，实现凭证隔离与统一出口。 「[图片/视频]」 https://twitter.com/vincemask/status/2113810654872424697",
   "first_seen_at": "2026-11-05",
-  "bookmarked_order": 33
+  "bookmarked_order": 34
  },
  {
   "id": "2117226963911991578",
@@ -452,7 +465,7 @@
   "author_name": "Berryxia.AI",
   "text": "别再搞复刻视频了啊，兄弟们。\n\n这里先说个结论：复刻一个视频，现在没有太多的难度。\n你难以沉淀为自己的数字资产，并且想复现和制作自己的内容是很难的。\n\n而我做的这个都是Skills，你直接可复用并可持续迭代的一套工作流，也减少抽卡和不稳定性。\n\n这个就是我使用这个Skils制作一期新的内容。大家都在用小林说，你可以制作小王说，小刘说了。\n\n看看效果，别再简单复刻视频了。\n去打造属于自己的IP 和内容，快去起号吧。\n\n地址放评论区👇🏻",
   "first_seen_at": "2026-11-05",
-  "bookmarked_order": 34
+  "bookmarked_order": 35
  },
  {
   "id": "2116901099554943409",
@@ -465,7 +478,7 @@
   "author_name": "饼干哥哥AGI（3.0）",
   "text": "昨天AI 博主闭门会 直接从 下午 2 点聊到22 点，信息量爆炸，再补20条大家赚了几千万又亏几千万才砸出来的实战经验：\n\n1. 私域绝不是人越多越好，40万泛粉可能不如800个高净值铁粉（后者照样能赚4000万且毛利60%）；别搞庞大销售团队做“低转高”，不如借直播或活动拉“3天即解散的快闪群”，高频抛观点筛出主动互动的高潜用户一对一单加，直接卖高客单产品。\n\n2. 大厂金主的投放预算正在大转移：前三个季度狂投纯AI工具功能测评，从现在起预算全面转向“AI+商业/财经”以及能讲好“B端企业落地故事”的账号，提前布局才能接住下一波大单。\n\n3. 赚C端普通人的钱越来越难（连日活几亿的头部AI应用，C端日营收都不足百万，全靠B端云服务撑起几十亿现金流），自媒体后端变现一定要往B端企业服务或创业者群体靠拢。\n\n4. 产品的定价必须由渠道决定：想靠公众号文章让人看完直接无脑扫码付款，199到299元是决策上限；超过1000元的产品，必须靠“低价小课+直播+7天陪跑体验营”才能跑通转化。\n\n5. 如果没有强大的后端转化团队，不如一开始就把私域门槛和客单价定高（比如直接卖4980或9800元的陪跑），高客单不仅能帮你筛掉最难伺候的白嫖党，续费率反而比低价品高得多。\n\n6. 做多级高客单产品（如2000元社群、2万进阶营、5万私塾），最核心的红线是“严格做好权益物理隔离”，绝不能心软给低价会员过度交付，否则不仅累死自己，还会让高价会员寒心流失。\n\n7. 视频号直播和短视频挂车投“微信豆”，是目前知识付费低成本获客的最大红利；而且视频号小店刚打通直接挂载知识星球，直播间卖社群再也不用怕弹二维码被秒封号了。\n\n8. 公众号引流私域千万别踩平台红线：关注自动弹二维码、文末写“加微领资料”或阅读原文跳外链极易被降权；目前最稳的做法是把码藏在公众号底部菜单栏，或在评论区首条置顶文字链跳转到另一篇纯文字带码推文。\n\n9. 千万别在公开网页或推文里长期挂死微信群二维码，黑灰产爬虫会顺着码进群狂刷诈骗链接炸群；用企微建群务必开启防骚扰，并在后台勾选“企业共享黑名单”从源头拦截黑号。\n\n10. 做付费社群最怕“前几个月亢奋日更、后面被掏空断更”，有博主采用“4+3排期法”：周一到周四由你输出干货，周五到周日禁发水贴、只开“交作业”互动，既防自己累死，又防新人进来看见满屏水贴3天内退款。\n\n11. 先写好“客户小传”再开社群：明确你的受众是想创业发财，还是二三线城市只想用AI少加班的普通白领；定位越窄、越能解决具体小痛点，推广时就越有底气。\n\n12. 把微信群当成“荣誉奖励”而非买社群的标配：规定每周在星球交作业排名前五的人，才由你主动加微信拉入高阶小群，不仅免去了维护几百人死群的痛苦，群内氛围和互助质量还会奇高。\n\n13. 社群运营要善用“低成本高温度的非物质激励”：把铁杆会员一年分享的几十篇优质帖用AI抓取排版，在淘宝花20块钱印成实体《个人作品集》寄给他，这种被尊重的感动会让他的活跃度和复购率直接拉满。\n\n14. 涨价是最好的促销催化剂：社群从49、99一路阶梯式涨到249元，每次涨价前结合节日搞一次限时优惠，利用用户的“损失厌恶”心理逼单，转化爆发力远胜平时的硬广。\n\n15. 善用云端Agent（如企微原生“大圆”或挂载Skills的云端机器人）给自己减负：让AI每晚自动巡检几百个静音群捞出金主询价商机、提醒漏回的VIP客户消息、自动排查7天内到期会员名单并生成社群精华日报。\n\n16. 别把自媒体做成主业之外的纯消耗，一定要做成主业业务的“增长飞轮”：在业务实战中跑数据攒Case，脱敏后写成干货发公众号，再靠内容吸引精准客户主动找上门签单，形成完美闭环。\n\n17. 如果你不想迎合大众追热点，可以走“向上社交”的精准路线：深度编译硅谷非共识认知，甚至研究透大厂老板和顶级VC的表达习惯并植入文中，只要精准戳中几百个投资人和高管的痛点，B端商单和融资撮合根本不愁。\n\n18. 单打独斗的“超级个体（OPC）”很容易陷入商单毒药和孤独感，有个破局方式是找三五个能力互补（懂技术、懂商务、懂内容）的博主合资组队，实行“项目主理人一票否决+公司留存40%+按贡献分红60%”，联手做蓝皮书或大项目直接垄断头部预算。\n\n19. AI工具类的套壳产品护城河极浅，往往一两周就会被同行抄走，半年内就会被底层大模型更新直接吞噬；如果你做出了好用的内部Skill或工作流，要么赶紧封装成云端小程序吃一波快钱，要么把它当成高客单培训陪跑的赠品来卖。\n\n20. 越是AI狂飙的时代，人类独有的“审美、真实感受和线下深度连接”就越贵：AI能帮你3小时跑完80分的工业化评测，但那最后20分的灵魂、脆弱感和真诚，才是让粉丝跟随你八年十年的真正护城河。\n\n以上经验总结自闭门会十几位博主的分享精华～ \n还有什么经验欢迎补充！",
   "first_seen_at": "2026-11-05",
-  "bookmarked_order": 35
+  "bookmarked_order": 36
  },
  {
   "id": "2116822474533048714",
@@ -478,7 +491,7 @@
   "author_name": "Tiger Chen & 前端之虎陈随易",
   "text": "年度最佳 Agent 工具应该颁发给 Finch @FinchAiCode @puterjam 「[图片/视频]」 https://twitter.com/chenbimo/status/2116703288913698991",
   "first_seen_at": "2026-11-05",
-  "bookmarked_order": 36
+  "bookmarked_order": 37
  },
  {
   "id": "2117580488567406794",
@@ -491,7 +504,7 @@
   "author_name": "Eian",
   "text": "《Escape·逃离》\n\n如果把动画的每一帧都严格焊死在黄金分割比例上，把人物的每一次眼神闪烁都推敲到像素级，能讲出一个多温柔的故事？ 「[图片/视频]」",
   "first_seen_at": "2026-11-04",
-  "bookmarked_order": 37
+  "bookmarked_order": 38
  },
  {
   "id": "2117439563367149830",
@@ -504,7 +517,7 @@
   "author_name": "超级个体｜柿子",
   "text": "https://x.com/i/article/2117423543004942336",
   "first_seen_at": "2026-11-04",
-  "bookmarked_order": 38
+  "bookmarked_order": 39
  },
  {
   "id": "2095715114016260262",
@@ -517,7 +530,7 @@
   "author_name": "津軽",
   "text": "自分のプロフィール画面のアイコンを\n動かしていたずらさせちゃいました👻\nプロンプトはリプ欄に貼っときます～\nあそんでみてね💛 「[图片/视频]」",
   "first_seen_at": "2026-11-04",
-  "bookmarked_order": 39
+  "bookmarked_order": 40
  },
  {
   "id": "2117268289038770660",
@@ -530,7 +543,7 @@
   "author_name": "小墨同学",
   "text": "Grok Bot 能自动运营小红书了，我又找到 5 个不错的 MCP 和 Skill\n\n前面我分享过 Grok Bot 接入美团、瑞幸、滴滴这些国内服务，没想到继续找了一圈，又发现不少有意思的项目\n\n以前一直觉得 Grok Bot 对国内生态的支持不够完善，现在发现很多事情已经有现成的 MCP、Skill 和 CLI 可以使用了\n\n这次我整理了另外 5 个，尤其是前面几个，对经常做内容运营的朋友很有帮助\n\n1、小红书｜社区 MCP\n\n这个我觉得非常值得折腾，GitHub 上已经有 1.6 万多个 Star 了\n\n支持搜索小红书笔记、查看评论、获取内容详情，还能发布图文和视频\n\n如果你和我一样，经常在 X 上收集 AI 内容，完全可以考虑让 Grok Bot 帮你整理素材，再同步到小红书\n\nhttps://github.com/xpzouying/xiaohongshu-mcp\n\n2、抖音｜官方 MCP 服务广场\n\n没想到抖音自己也已经开放了 MCP 服务广场\n\n包括视频搜索、图文搜索、获取跳转链接等能力，开发者可以申请接入\n\n以后想让 Grok Bot 帮你收集抖音热点、查找相关视频，就多了一种官方接入方式\n\n不过部分能力还需要申请审核，并不是装上就能直接使用\n\nhttps://developer.open-douyin.com/docs/resource/zh-CN/dop/ability/mcp-service/mcp-service-desc\n\n3、B 站｜社区 MCP\n\n这个也挺有意思，社区已经有人把 B 站封装成了 MCP\n\n支持视频搜索、读取字幕和弹幕、分析评论，还能管理动态和视频投稿\n\n我比较感兴趣的是字幕和评论，直接让 Grok Bot 整理一个视频的重点，再看看评论区都在讨论什么\n\nhttps://github.com/adoresever/bilibili-mcp\n\n4、飞猪｜官方 Skill\n\n这个是阿里官方开放的，支持查询酒店、机票和景点\n\n直接告诉 Agent 想去哪里，就可以帮你搜索航班、推荐酒店和整理旅行计划\n\n而且还有一个比较有意思的推广计划，开发者符合条件的话，可以通过推荐酒店等商品获得佣金\n\nhttps://flyai.open.fliggy.com/\n\n5、企业微信｜官方 CLI + Skill\n\n飞书我之前已经分享过了，没想到企业微信也有自己的官方 CLI\n\n支持文档、智能表格、日历、会议、待办和微盘等功能，还能通过扫码完成授权\n\n如果你平时主要使用企业微信办公，也可以考虑交给 Grok Bot 来管理\n\nhttps://github.com/WecomTeam/wecom-cli\n\n我觉得这几个项目都挺有代表性的\n\n以前想让 Grok Bot 接国内平台，很多时候还得自己研究接口，现在有不少现成的项目可以直接拿来配置了\n\n不过要注意，官方接口和社区 MCP 不是一回事，部分需要申请权限，本地运行的 MCP 也可能需要额外配置才能让 Grok Bot 调用\n\n这 5 个里面，我个人最想折腾的还是小红书和 B 站\n\n毕竟我现在主要在 X 上写内容，如果能直接让 Grok Bot 帮我打通几个国内内容平台，那就方便太多了\n\nGrok Bot 的玩法真的是越来越多了，国内生态这块也开始慢慢补上来了",
   "first_seen_at": "2026-11-04",
-  "bookmarked_order": 40
+  "bookmarked_order": 41
  },
  {
   "id": "2117197419779866647",
@@ -543,7 +556,7 @@
   "author_name": "蓝哥AI",
   "text": "poteto 的 grok bot 使用指南爆火了 🔥🔥🔥，我把指南拆了一遍：创建、协作和自动化、  怎么让 Dr Eggbot 帮你设计角色，怎样把职责和边界说清楚，以及如何把反复纠正的做法留下来。\n\n核心是：让 bot 少猜，也让你更容易检查。\n\n这篇先讲怎么用，再拆为什么这样设计。👇 https://x.com/i/article/2117188594381291520",
   "first_seen_at": "2026-11-04",
-  "bookmarked_order": 41
+  "bookmarked_order": 42
  },
  {
   "id": "2106032804811407565",
@@ -556,7 +569,7 @@
   "author_name": "SecJack",
   "text": "🔥 16.38U 拿下 2 个静态住宅 IP 用一整年！\n\nWebshare 购买使用全教程写完了：注册购买、挑 ASN、Clash 链式代理配置，一篇讲透 📝\n\n#云居民 #Webshare #住宅IP https://x.com/i/article/2106025860935426048",
   "first_seen_at": "2026-11-03",
-  "bookmarked_order": 42
+  "bookmarked_order": 43
  },
  {
   "id": "2116811409921372642",
@@ -569,7 +582,7 @@
   "author_name": "Ann Nguyen",
   "text": "love this style, so I asked grok 4.7 to draw a diagram showing how vietnamese folks make incense sticks\n\nand tbh it absolutely ate, no skill needed, just plain JavaScript 「[图片/视频]」 https://twitter.com/kevin_t_ngo/status/2116270190040416313",
   "first_seen_at": "2026-11-03",
-  "bookmarked_order": 43
+  "bookmarked_order": 44
  },
  {
   "id": "2116801447178482003",
@@ -582,7 +595,7 @@
   "author_name": "Andy L",
   "text": "AI 大神 Karpathy 又放干货了！🔥\n\n一口气分享了长达 2 小时的 AI 实战课程！\n\n从 AI Agent、Harness，到 Loops、Graphs，系统讲解 AI Agent 的核心工作原理。\n\n想真正搞懂 AI Agent，而不只是停留在聊天阶段，这期视频值得认真看一遍！\n\n建议收藏！ 「[图片/视频]」",
   "first_seen_at": "2026-11-03",
-  "bookmarked_order": 44
+  "bookmarked_order": 45
  },
  {
   "id": "2116783779130056845",
@@ -595,7 +608,7 @@
   "author_name": "科技混子Chris",
   "text": "中文互联网垃圾信息太多？\n教你用 4 步，把 X 养成自己的高质量信息流。\n\n再配合 Grok，找资料、读长文、筛选信息，效率高了不少。\n\n17 分钟的实操教程，经常刷 X 的人值得看看。 「[图片/视频]」",
   "first_seen_at": "2026-11-03",
-  "bookmarked_order": 45
+  "bookmarked_order": 46
  },
  {
   "id": "2116929507991114217",
@@ -608,7 +621,7 @@
   "author_name": "镰刀判官",
   "text": "人民的创作力真是无限啊！这又让我看到好东西了！\n\n也是我看过最艺术的 AI 剧，设定很新颖，太好看了！\n\n运镜雷霆，剧情雷霆！\n\nAI短剧：阿丘的花语 「[图片/视频]」",
   "first_seen_at": "2026-11-03",
-  "bookmarked_order": 46
+  "bookmarked_order": 47
  },
  {
   "id": "2116530115178016838",
@@ -621,7 +634,7 @@
   "category": "Claude·ChatGPT 账号与订阅",
   "text": "2个月的学生认证收官了，真心感谢这两个月一路陪我折腾的兄弟们。没有你们的支持、反馈和信任，我这点副业不可能坚持这么久，这个账号和QQ群也不会有今天。感谢老朋友，也欢迎新朋友的关注！ https://x.com/i/article/2116421780927651840",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 47
+  "bookmarked_order": 48
  },
  {
   "id": "2116899881810116700",
@@ -634,7 +647,7 @@
   "category": "翻墙 / VPS / 网络节点",
   "text": "美国双 ISP静态住宅IP VPS，最低30元/月！已有精品线路的兄弟，值得看看！\n\n玩 VPS 的兄弟，有没有发现一个问题？\n\n你花几百块买了 DMIT、搬瓦工的 CN2 GIA 精品线路，速度确实不错，但最终访问海外网站的，还是 VPS 自带的机房 IP。\n\n如果想要长期固定的美国住宅属性出口，可以选择这款双 ISP静态独享住宅家庭宽带。\n\n我的思路是：精品 VPS 负责入口，便宜的住宅 IP VPS 负责落地出口。\n\n最近发现 NovixLink（诺联主机）的美国 Cogent 双 ISP 住宅 IP VPS，入门款只要约30元/月，我觉得挺适合这个用途。\n\n🔥 ① LAX-BGP Lite｜最值得关注\n\n- 月付：5.99 CAD，约29.95元人民币\n- CPU：1核\n- 内存：768MB DDR4\n- 硬盘：10GB RAID10 SSD\n- 带宽：最高1Gbps上下行峰值\n- 流量：1000GB/月，双向计算\n- IP：1个独享美国静态双 ISP 住宅属性 IPv4\n- 网络：Tier-1 全球骨干网络\n- 中国大陆优化：无\n\n这款我最推荐！\n\n原因很简单：我们买它，不是为了直接从国内连接、搭建主力节点，而是为了获得一个便宜、固定、独享的美国出口 IP。\n\n既然前面已经有精品线路入口，落地出口就没必要重复花钱购买中国大陆优化线路。\n\n🔥 ② LAX-BGP Basic｜大流量选择\n\n- 月付：9.99 CAD，约49.95元\n- 1核 / 1GB / 10GB SSD\n- 2000GB/月双向流量\n- 独享美国静态双 ISP 住宅属性 IPv4\n\n比 Lite 每月贵约20元，但流量直接翻倍。\n\n如果有多台设备共享出口，或者流量需求比较大，可以优先考虑这款。\n\n🔥 ③ LAX-BGP Pro｜高流量选择\n\n- 月付：18.99 CAD，约94.95元\n- 2核 / 2GB / 30GB SSD\n- 4000GB/月双向流量\n- 独享美国静态双 ISP 住宅属性 IPv4\n\n适合需要更高流量和服务器资源的用户。\n\n不过如果只是个人使用，Lite 通常更值得先尝试。\n\n---\n\n🔥 为什么推荐拿它做落地出口？\n\n传统使用方式：\n\n国内设备 → 海外 VPS → 目标网站\n\n入口和出口都是同一台机器，最终使用的也是那台 VPS 的 IP。\n\n我更喜欢这样的思路：\n\n国内设备 → DMIT/搬瓦工精品入口 → NovixLink 美国静态住宅属性出口 → 海外网站\n\n这样做有几个好处：\n\n✅ 精品线路不浪费：原来的 DMIT、搬瓦工继续负责跨境连接。\n\n✅ 出口 IP 独立：网站最终看到的是 NovixLink 的出口地址，双 ISP静态独享住宅家庭宽带，风险评分低。\n\n✅ IP 固定独享：适合需要长期保持同一个出口地址的场景。\n\n✅ 成本低：最便宜每月约30元，不必购买昂贵的中国优化住宅 VPS。\n\n✅ 可自主控制：买到的是完整 VPS，可以自行管理网络环境，而不只是购买一个代理端口。\n\n✅ 后续调整方便：入口线路可以根据需要更换，出口 VPS 则尽量保持不变。\n\n出口机不需要中国优化，但入口到出口的美国境内线路必须稳定。如果两台 VPS 之间丢包、绕路，再好的入口也可能被拖慢。\n\n目前 LAX-BGP Lite 官网页面显示库存充足，但库存会变化，建议以实际结账页为准。\n\n我觉得这个玩法最有价值的地方，不是买到一台30元的 VPS，而是把“线路质量”和“出口 IP”分开选择。\n\n已经有精品线路入口的兄弟，你们会另外花30元/月，给自己的节点增加一个美国静态住宅属性出口吗？\n\n还是觉得普通机房 IP 已经完全够用了？\n\n #住宅IP #NovixLink #静态IP",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 48
+  "bookmarked_order": 49
  },
  {
   "id": "2116479371506499638",
@@ -647,7 +660,7 @@
   "category": "翻墙 / VPS / 网络节点",
   "text": "🔥 1.68$/月 的 静态住宅 IP 怎么买？小白三步搞定！🤣\n\n之前折腾了不少代理，发现最容易踩坑的不是配置，而是买回来不知道怎么选 IP、怎么接入小火箭！\n\n🛠️ 三步完整教程：\n\n① 注册购买\n打开 Webshare → Plans & Pricing → Static Residential\n选择套餐：\n• Shared：多人共享，便宜\n• Private：少量用户共享\n• Dedicated：独享，价格较高\n确认 IP 数量、流量和实际费用后购买。\n\n② 筛选住宅 IP\n进入 Proxy List，重点检查：\n✅ ASN：Charter / Comcast / RCN 等运营商\n✅ 地区：国家、城市及 IP 定位\n✅ 质量：连通性、速度、实际使用体验\n\n不满意可以使用 Replace，按套餐规则替换。\n\n🔍 通过 http://ipinfo.io 查看实际出口 IP 和 ASN。\n\n③ 接入小火箭 Shadowrocket\n打开小火箭 → 右上角 + → 选择 SOCKS5\n填写 Webshare 提供的：\n• Proxy Address：服务器地址\n• Port：端口\n• Username：用户名\n• Password：密码\n保存 → 连通性测试 → 验证出口 IP。\n\n🌐 最终链路：\n手机 → Webshare → Claude / X / YouTube\n\n也可以在支持链式代理的配置中增加机场中转。\n\n💡 以前选节点只看延迟，现在连 ASN、出口 IP、线路质量都开始研究了！😂\n\n🔗 平台和 IP 查询工具放评论区👇",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 49
+  "bookmarked_order": 50
  },
  {
   "id": "2116713083297042922",
@@ -660,7 +673,7 @@
   "category": "翻墙 / VPS / 网络节点",
   "text": "🔥 大揭秘！！一杯茶百道奶茶就能搞定高速、稳定的家宽 IP 出口？！🤣\n\n今天把这套低成本网络配置彻底公开！\n\n这是我前后挑选了 4 个家宽 IP，反复测试速度、稳定性和实际使用体验后，最终留下的一套方案！\n\n💡 核心思路特别简单：\n\n机场只负责速度和稳定，家宽 IP 负责固定出口！\n\n甚至不用太纠结机场 IP 干不干净，只要线路够快、够稳定就行！\n\n因为最终访问网站用的，是后面的住宅 IP，而不是机场出口 IP！😂\n\n🌐 我的网络拓扑：\n\n📱 手机 / 电脑\n↓\n🔀 小火箭 Fallback 自动切换\nTTcloud / 良心云 / 赔钱机场 / VPN07\n↓\n🏠 Webshare 静态住宅 IP\n↓\n🌍 Claude / ChatGPT / X / YouTube\n\n🚀 配置只需要三步：\n① 准备中转：把几个低价机场的高速节点加入小火箭 Fallback 策略组。\n② 固定出口：通过代理链连接 Webshare SOCKS5，让住宅 IP 始终作为最终落地。\n③ 自动切换：设置健康检测，中转节点不好用就切备用线路，最终出口保持不变。\n\n✅ 机场不用死磕 IP 纯净度\n✅ 中转故障自动尝试备用节点\n✅ 切换中转不影响最终住宅出口 IP\n✅ 不用额外购买中转 VPS\n✅ AI、X、YouTube 4K 都能兼顾\n\n⚠️ 前提是代理链正确、没有直连或 DNS/IPv6 泄漏；机场本身的安全性也不能忽略。\n\n自动切换不保证零中断，住宅出口故障同样会影响使用。10 元左右是我的个人成本口径。\n\n😂 折腾这么久才发现，真没必要一味追求高价机场和所谓的干净节点！\n\n中转负责跑得快，家宽负责出口稳。把两者分开，反而是我目前最舒服的网络方案！\n\n📚 之前分享的工具和实测：\n1、✈️ 低价机场实测对比\n2、🛠️ Webshare配置教程\n \nhttps://x.com/Lovislexus/status/2112836791908684010?a=nVvOSAxoO33eltJpPbg&s=20 \n\nhttps://x.com/Lovislexus/status/2116479371506499638?a=i9sWoszGEjitlseakio&s=20",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 50
+  "bookmarked_order": 51
  },
  {
   "id": "2116838434065265024",
@@ -673,7 +686,7 @@
   "category": "翻墙 / VPS / 网络节点",
   "text": "黑五快到了，我来对各个服务器厂家的优缺点做个分析，大家想要买服务器的可以先来看一下做个对比\n第一篇 · RackNerd\n付费 VPS 细节拆解：RackNerd，美区年付低价王\n现行 Specials 年付全档（官方口径：续费同价）：\n1GB：1 核 / 20GB SSD / 月流量 3TB，$21.99/年\n2GB：2 核 / 35GB SSD / 5TB，$35.99/年\n4GB：3 核 / 60GB SSD / 7TB，$59.99/年\n6GB：5 核 / 100GB SSD / 12TB，$89.99/年\n8GB：7 核 / 150GB SSD / 20TB，$119.99/年\n全系 1Gbps 端口、1 个独立 IPv4、KVM 虚拟化、SolusVM 面板\n优点：\n年付摊下来每月 $2 起，正经 KVM，不是廉价 OpenVZ\n流量给得离谱大方，部分订单还能申请流量翻倍\n机房九个可选：洛杉矶、纽约、芝加哥、达拉斯、西雅图、圣何塞、阿什本、亚特兰大、多伦多\n促销价终身同价续费，不玩首年低价次年翻倍\n黑五通常还有更狠的一波，往年 4GB 档出现过 $29.98/年\n缺点：\n邻居不可控，热门节点晚高峰性能有波动，CPU 是共享的\n老面板没有快照，系统备份得自己搭\n促销款默认不退款，下单前想清楚\n工单是低价商的标准速度，急事别指望它\n只买年付促销档：月付正价 1GB 要 $17.99/月，完全是另一个世界\n适合：美区代理落地、跳板、自建小服务、练手\n不适合：正经生产业务、对稳定性有硬要求的\n一句话：预算敏感、能自己兜底运维的，它是美区年付的默认答案。\nhttps://www.racknerd.com/specials",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 51
+  "bookmarked_order": 52
  },
  {
   "id": "2116382365404852227",
@@ -686,7 +699,7 @@
   "category": "娱乐与其他",
   "text": "Gamil注册，无需手机验证码的丝滑方案\n\n很多人直接从网页端注册 Gmail 是会要求手机验证码的，而且会遇到很多手机号、地址、复制邮箱的验证。\n\n这里直接给大家分享一个技巧：\n1. 下载手机版 Gmail\n2. 在手机版 Gmail 上点击头像\n3. 点击“添加其他账号”\n4. 点击“创建账号”\n通过这种方式注册 Gmail 「[图片/视频]」",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 52
+  "bookmarked_order": 53
  },
  {
   "id": "2116730053388349459",
@@ -699,7 +712,7 @@
   "category": "娱乐与其他",
   "text": "今天购买了 30 个 gmail 邮箱\n\n我验证了前 5 个\n\n不是报密码被修改，就是需要手机号验证、有的甚至显示账户异常，已锁定\n\n就这质量，怎么好意思卖呀\n\n有没有稳定的 gmail 邮箱渠道呀",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 53
+  "bookmarked_order": 54
  },
  {
   "id": "2116898159385592008",
@@ -712,7 +725,7 @@
   "category": "翻墙 / VPS / 网络节点",
   "text": "很多人问我用的啥自建🪜，就是snell了，很简单的。半年了一点事没有，稳定性还是很ok滴，也是冷门所以特征没那么容易被识别\n\n据说surge在github也有破解版？我这两年一直用macmini做软路由优化，在mac的优化还是比较ok的\n\nxray，reality，vmess，网站伪装tls流量，还是前几年上班的时候研究过，特征越来越容易被识别了",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 54
+  "bookmarked_order": 55
  },
  {
   "id": "2116850776039387374",
@@ -725,7 +738,7 @@
   "category": "Claude·ChatGPT 账号与订阅",
   "text": "AI会员业务营业第98-102天，这五天营业额79854元\n前几天太懒了没发，正好十月结束了，汇总发一下\n\n有一个很深的感觉：GPT目前太乏力了，有种有力使不出来的感觉，跟Claude差了一大截，我最近也是一直在用creao里面的Claude，满血opus5.5拉满去改UI和网站\n\n如果你也想用上满血的Claude，可以直接用creao\n开个20刀会员即可，https://creao.ai/@tiance\n\n最近一直在悟道，白天看海喝咖啡，晚上出去玩，过得有点太舒服了，非常享受这段时间，可以让我知行合一，做我自己想做的事情\n\n今天忙了一下午又升级了一下UI\n现在感觉更好看了，嘻嘻\n\n需要GPT和Cluade充值可以看看http://tiancexai.com",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 55
+  "bookmarked_order": 56
  },
  {
   "id": "2104462663405420773",
@@ -738,7 +751,7 @@
   "category": "翻墙 / VPS / 网络节点",
   "text": "之前推荐的VPN机场，体验套餐就可以满足多数人了。\n\n有一些人是搞跨境或者解锁自媒体或者养AI，\n会买机场提供的高级套餐或者不限时套餐，\n因为提供的跨境专线、SLA保障，\nIP也多数是静态IP，也比较固定和干净。\n\n还有一些人对IP的纯净度要求很高，\n而且要求独享，那只能上家宽。\n那我只能推荐这家美国家宽，纯净的住宅IP。\nhttps://resip.net/?r=WS35KD\n使用我的专属推广优惠码: WS35KD，终身优惠10%\n\n可以选择购买1天套餐使用，大概是1.2元人民币。\n当然，也可以直接选择其它包月套餐，前3个小时免费试用。",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 56
+  "bookmarked_order": 57
  },
  {
   "id": "2116841009112084643",
@@ -751,7 +764,7 @@
   "category": "翻墙 / VPS / 网络节点",
   "text": "🤣 黑五快到了，还在天天刷新网页蹲 DMIT、搬瓦工的低价 VPS？\n\n刚发现一个开源神器 changedetection，降价、免费资源、补货变化都能自动监控，还能通过 Telegram 提醒！\n\n直接让 Muse 或 Claude 帮忙部署，以后不用自己蹲了，让 AI 和工具替我守着！ 😂",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 57
+  "bookmarked_order": 58
  },
  {
   "id": "2116516034983477529",
@@ -764,7 +777,7 @@
   "category": "Grok Bot 玩法",
   "text": "马斯克的亲儿子 Grokbot 近期真是风光无限！\n\n如果你还在傻傻的单独使用Claude、Codex、Gemini 就OUT了\n\n现在最牛的指挥家出现了，那就是 Grokbot！\n\n最正确的玩法是让 Grokbot 去统一集结指挥所有AI工具\n\n以下是最全面的使用教程： 「[图片/视频]」",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 58
+  "bookmarked_order": 59
  },
  {
   "id": "2099667836088275433",
@@ -777,7 +790,7 @@
   "category": "AI 创作（视频/游戏/3D）",
   "text": "https://x.com/i/article/2099528734089109505",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 59
+  "bookmarked_order": 60
  },
  {
   "id": "2116698995368280355",
@@ -790,7 +803,7 @@
   "category": "AI 创作（视频/游戏/3D）",
   "text": "装完 Codex 不知道干什么？ 当然是猛做视频，然后库库搞钱啊！\n\n做视频搞钱之前，先把这套Skills装上，效率翻倍。\nhttps://mp.weixin.qq.com/s/GtBZZAmxjJc_qjvpw47pCw\n\n给 Codex 装上这 10个 GitHub Skills，直接让它参与整条视频制作流程。可以先收藏，按自己的视频类型安装👇\n\n1️⃣ HyperFrames：一句话生成动效视频\n\n告诉 Codex 视频主题，它可以使用 HTML、CSS 和动画制作产品介绍、动态海报、知识视频和 PPT 风格视频，最后渲染为 MP4。很适合把文章、推文、产品介绍快速改成视频。\n\nGitHub：https://github.com/heygen-com/hyperframes\n\n2️⃣ video-use：让 Codex 帮你剪视频\n把原始素材丢进去，它会先转录，再根据内容帮你做剪辑方案，能切片、调色、加字幕、加动效，最后用 FFmpeg 渲染成片。比较适合口播、教程、访谈、Vlog 这种“素材已经有了，只是不想自己慢慢剪”的场景。\nGitHub：https://github.com/browser-use/video-use\n\n3️⃣ Remotion Skills：用代码批量做视频\n如果你经常做固定模板的视频，这个非常适合。让 Codex 用 React 写视频，标题、字幕、图片、动画、数据都可以自动替换，还能直接预览和渲染。特别适合批量做 Shorts、榜单、产品介绍和数据类视频。\nGitHub：https://github.com/remotion-dev/skills\n\n4️⃣ ffmpeg-skill：给 Codex 装一个“万能剪辑工具箱”\n裁切、拼接、横屏转竖屏、去静音、压缩、加字幕、Logo、背景音乐、调音量都能直接用自然语言让 Codex 做，而且素材可以全程留在本地。适合最后统一处理和批量导出。\nGitHub：https://github.com/remotion-dev/skills\n\n5️⃣ agent-caption：自动给视频做字幕\n把视频交给 Codex，它可以自动识别人声、对齐时间轴，再直接烧录字幕。做口播、课程、Podcast、Shorts 特别省时间，而且支持本地运行，不想把原始视频上传到云端的可以重点看。\nGitHub：http://github.com/ahkamboh/agent-caption\n\n6️⃣ video-subtitle-translator：一条视频直接做多语言字幕\n先识别原视频语音，再翻译成目标语言，自动生成 SRT/VTT，也可以直接把字幕压进成片。做 YouTube 出海、英文教程搬到中文、中文内容做海外版都很实用。\nGitHub：https://github.com/alwaysmavs/agent-skills/blob/main/skills/video-subtitle-translator/SKILL.md\n\n7️⃣ video-dubbing：让 Codex 给视频自动配外语\n这套更进一步：识别原声 → 翻译 → TTS 配音 → 对齐时间 → 合成字幕和新音轨。\n也就是说，一条中文视频可以直接改成英文、日文等版本。想做多语言账号的，这个比单纯翻字幕更有用。\nGitHub：https://github.com/alwaysmavs/agent-skills/blob/main/skills/video-subtitle-translator/SKILL.md\n\n8️⃣ app-demo-agent：专门做 App / SaaS 宣传视频\n你先录一段产品操作，它可以继续帮你分析画面、写旁白、生成配音、加设备边框和背景音乐，最后拼成一条完整 Demo。\n独立开发者拿来做 Product Hunt、X 产品演示特别合适。\nGitHub：https://github.com/alwaysmavs/agent-skills/blob/main/skills/video-subtitle-translator/SKILL.md\n\n9️⃣ browser-video-recording：自动做网页操作演示\n想录“点哪里、怎么操作”的教程，可以让 Codex 根据网页截图生成带鼠标移动、点击、跟随缩放的浏览器演示视频。做 AI 工具教程、网站介绍、产品 Walkthrough，比自己一遍遍录屏省事很多。\nGitHub：https://github.com/MengTo/Skills/blob/main/agent-skills/codex/browser-video-recording/SKILL.md\n\n🔟 imagegen：给视频自动补素材\n视频最烦的往往不是剪辑，而是缺封面、插图、背景图、透明 PNG 和转场素材。OpenAI 自己在 Codex 仓库里就提供了 imagegen Skill 示例，可以让 Codex在项目里直接生成或修改这些视觉素材，再交给前面的 HyperFrames / Remotion 去动起来。\nGitHub：https://github.com/openai/codex/blob/main/codex-rs/skills/src/assets/samples/imagegen/SKILL.md\n\n工具装完别急着全用，先选一条最容易收钱的工作流跑通。比如专门做 SaaS 产品宣传视频：\n\n客户给你官网链接 + Logo + 产品卖点\n→ Codex 抓信息、写脚本\n→ HyperFrames / Remotion 做画面\n→ Caption 自动字幕\n→ Dubbing 做英文版\n→ FFmpeg 批量导出 16:9 + 9:16 两个版本\n\n先拿一个真实产品做 30～60 秒 Demo，当成作品集。然后直接去 X 找独立开发者、AI 工具作者、小 SaaS，私信一句：\n\n“我把你官网做成了一条 40 秒产品视频，这是 Demo。如果你觉得能用，我可以继续帮你做 3 条不同版本。”\n\n别一上来就卖“AI 视频服务”。直接卖结果：\n\n产品演示视频 / X 宣传短片 / 多语言版本 / 批量 Shorts。\n\n真正能赚钱的不是你装了 10 个 Skill，而是你能不能把其中 3～4 个串成一条别人愿意付钱省掉的流程。 https://twitter.com/Fred834567/status/2099667836088275433",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 60
+  "bookmarked_order": 61
  },
  {
   "id": "2116390773990261090",
@@ -803,7 +816,7 @@
   "category": "自媒体运营与赚钱",
   "text": "卧槽！卧槽！  这玩意儿太变态了：\n\n我以前还傻乎乎地一条条刷，研究什么内容容易爆。\n\n结果今天发现，GitHub 上有个接近 7 万 Star 的开源神器：MediaCrawler。\n\n原来小红书、抖音的爆款数据，真能被批量扒下来！\n\n✅ 小红书：笔记、评论采集\n✅ 抖音、快手：视频、评论数据\n✅ B站：视频、弹幕、评论\n✅ 微博、知乎、贴吧：全部支持\n别人还在凭感觉猜什么内容能火，你已经能批量整理数据，研究爆款选题和用户需求了。\n最离谱的是：完全免费，而且开源！\n做自媒体、搞流量的，真建议研究一下。\n\nGitHub：https://github.com/NanmiCoder/MediaCrawler",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 61
+  "bookmarked_order": 62
  },
  {
   "id": "2116789589410980333",
@@ -816,7 +829,7 @@
   "category": "自媒体运营与赚钱",
   "text": "公众号贴图，可以试试中老年饮食这个方向\n\n里面有个观察值得关注：家里的长辈喜欢看饮食养生内容，也经常转到家族群、老同学群。 \n\n我觉得可以从三个点入手： 选题贴近日常。 比如一日三餐怎么搭配、当季食材怎么做，内容具体一点，方便照着用。\n 图片做得简单好读。 字大一点，一张图讲清一件事，方便长辈阅读和转发。 \n\n用 AI 辅助制作。 整理资料、写初稿、做排版，提高更新效率。涉及健康的说法要核实，不乱写食物能治病。",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 62
+  "bookmarked_order": 63
  },
  {
   "id": "2116726197111648426",
@@ -829,7 +842,7 @@
   "category": "Grok Bot 玩法",
   "text": "grok bot真的是出海增长神器\n\n这篇文章希望对于在做AI产品和出海增长的朋友都有所帮助\n\n文末附了可以一键复用的skill https://x.com/i/article/2116491516898402304",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 63
+  "bookmarked_order": 64
  },
  {
   "id": "2116799909798305921",
@@ -842,7 +855,7 @@
   "category": "自媒体运营与赚钱",
   "text": "如果你还没有一个月至少能多赚 1.4 万的副业……\n\n听好了：\n\n• 开一个不露脸的小红书账号\n• 挑一个容易爆、利润高的细分领域\n• 每天发，坚持 3 到 6 个月\n• 做数字产品\n\n具体是这么跑的：",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 64
+  "bookmarked_order": 65
  },
  {
   "id": "2116848372854267963",
@@ -855,7 +868,7 @@
   "category": "AI 编程与开发工具",
   "text": "https://x.com/i/article/2116842585407033344",
   "first_seen_at": "2026-11-02",
-  "bookmarked_order": 65
+  "bookmarked_order": 66
  },
  {
   "id": "2116427484640223579",
@@ -868,7 +881,7 @@
   "author_name": "蜗牛King 👑",
   "text": "瓜应该都吃了，那我讲讲自己的事情，也算是给大家一个交代。\n\n我去年12月免费进群的，后来成了社群的小助理，元旦开始运营我的X账号，一直不温不火的，随着群里人越来越多，大佬越进越多，我还是那个不被注意的小卡拉米。\n\n期间也给我过一些建议，比如把他X内容发去抖音，但是我在做公众号流量主，确实精力有限，没去做。因为我有时间，在群里又活跃，成了小助理，后面的腾讯会议、space都是我在负责，对我这个小镇青年来说，能接触这么多优秀的大佬，我是开心的，帮助运营社群，为大家做点事我是愿意的。\n\n当然，我收到过一些暗示，比如社群的牛人就是资源、比如以后群收益都会有份等等。\n\n慢慢大家都好起来了，后进群的一个接一个都万粉了，拿收益了，我当然很羡慕，因为我在那个时候各种被限流，4月份刚有点起色拿到第一期收益，还没来得及高兴，就又被停了，我默默的继续做着账号。\n\n4月底我开始分享我做公众号的经验，群里小伙伴也帮我转文，4月20多号到5.1假期结束我涨了几千粉，并以极快的速度冲破万粉，以及后来的2万、3万、5万。当然我也是回馈社群的，最多的一天我20几条推一大半都是引用群友的帖子。\n\n社群也慢慢有了第一次线下、第一次对外活动，一切都向着好的方向发展。群里大V多了，牛人多了，线下资源有了，于是开始不断涨价眼看着社群不断涨价，999-1999-2999-3999-5999-7999-9999……\n\n说实话，我都心慌。我也做过社群，我也问过收这价给人家什么交付？后来我想，大家应该都能得到自己想要的吧。\n\n就这样到了7月的重庆线下活动，以及紧接着的重庆线下的后续深圳场，我发现群内的气氛不对了，好像怎么有点冷了，我开的space来的人也少了，我不明所以……\n\n直到8月初我休假，我和群友电话才知道发生了什么，也是那时候才知道大家都不一起玩了，大家都有自己的剧本，以及我休假的时候因为没开space，收到的群消息“365天space不断，谁的责任要担起来”。\n\n看到这一句话，我心彻底凉了，透透的那种。一直以来我协助运营社群、帮助群友解决问题、每晚2小时的space，原来都是“我的责任”。\n\n我很珍惜这个社群，最后我还是没保住它。我投入了大量的心血，但在这时候，我便知道我该离开了，因为我的付出并没有得到尊重。9月我开过几次space，是因为有推友催更，我不能拒绝推友的期待。\n\n讲完这些，再说说我从这个社群得到了什么吧。\n第一我收获了一群朋友，这是我最开心最珍重的，能得到大家的认可，是我的荣幸。\n第二我因为社群伙伴的托举X账号做了起来，给我带来了一些收入\n第三因为社群我从孔明那接了他的公众号代运营，3000一个月，总共收到7000多吧。但遗憾的是我并没有给他把账号做起来，于是我在4月底和他沟通的时候就说5月不用给我发工资了，等我给你把账号做起来，有了结果再说，不然这钱我拿得不踏实。我一直到8月群消息“责任”的事后才停的。\n\n最后感谢遇见，感恩大家对蜗牛的包容。",
   "first_seen_at": "2026-11-01",
-  "bookmarked_order": 66
+  "bookmarked_order": 67
  },
  {
   "id": "2116404603919258052",
@@ -881,7 +894,7 @@
   "author_name": "0xToni",
   "text": "我的小红书有救了😭，最近和 @ChengYi3629  聊怎么做小红书，打算找点别的收入。然后他把这条帖子给我看，说是现在用他的这个skill已经做了好多接近万粉的矩阵号\n\n今天尝试了一下用这个chengyi-skill加上 @CreaoAI  基本5分钟就能做一个这种访谈截图的热帖, 直接把Youtube视频丢给agent就可以，agent会自动帮你截取片段，你也可以手动挑选片段：\nhttps://agent.creao.ai/install/1c1b048b-c181-44b8-afd4-1166797f590f?version=05f3781c-6a69-4a16-88a5-145a995112e8\n\nskill github:\nhttps://github.com/chengyi-ai/native-subtitle-quote-image#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B",
   "first_seen_at": "2026-11-01",
-  "bookmarked_order": 67
+  "bookmarked_order": 68
  },
  {
   "id": "2116455418180604317",
@@ -894,7 +907,7 @@
   "author_name": "Hailey",
   "text": "Grok Bot 做动画短片真的不比付费 AI 视频模型差啊！！\n\n这画质、人物表现，居然还自带配音和音效！\n\n越来越喜欢用 Grok Bot 做动画了，赞啊 「[图片/视频]」 https://twitter.com/HaileyAILabs/status/2116373633417552154",
   "first_seen_at": "2026-11-01",
-  "bookmarked_order": 68
+  "bookmarked_order": 69
  },
  {
   "id": "2116489687275802985",
@@ -907,7 +920,7 @@
   "author_name": "知识分享站",
   "text": "卧槽！！！ MUSE 帮我赚到453.23元了！💰🔥\n\n兄弟们，今天来交作业了！\n\n用 MUSE 辅助做了个小红书美食图文号，没想到真跑通变现了！\n\n晒一下真实成绩👇\n\n🔥 3个商单：报价是150元/单，赚450元\n🔥 橱窗成交1单：佣金3.23元\n🔥 最近3周涨粉丝：2138人\n\n💰 累计收入：453.23元！\n虽然只有几百块，但这可是实打实赚到的钱！\n\n兄弟们，你们用 MUSE 赚到过钱吗？👇",
   "first_seen_at": "2026-11-01",
-  "bookmarked_order": 69
+  "bookmarked_order": 70
  },
  {
   "id": "2116484499915915393",
@@ -920,7 +933,7 @@
   "author_name": "zhouluobo",
   "text": "https://x.com/i/article/2116481881692938240",
   "first_seen_at": "2026-11-01",
-  "bookmarked_order": 70
+  "bookmarked_order": 71
  },
  {
   "id": "2116116149796475026",
@@ -933,7 +946,7 @@
   "author_name": "KKKK",
   "text": "开源一个免费的全平台内容抓取bot\n\n做内容最费时间的，其实不是写，是把参考素材一条条搬回来\n\n抖音的文案、小红书的图、B站的字幕、公众号原文、X 上的评论等等\n\n我做了个 bot，丢一个链接，正文、作者、互动数据、原图、无水印视频、字幕和评论，一次抓回来\n\n基本github免费的方法都扫了一遍加进去了\n\n支持 17 个平台，默认全是免费的开源方法，不用登录，也不用账号\n\n免费搞不定的有一层付费API兜底\n\nhttps://x.ai/bot/G9FfCfIzn4hoPf1888jYi",
   "first_seen_at": "2026-10-31",
-  "bookmarked_order": 71
+  "bookmarked_order": 72
  },
  {
   "id": "2116090765218922831",
@@ -946,7 +959,7 @@
   "author_name": "甬哥侃侃侃ygkkk",
   "text": "🎯因最近GFW防火墙封锁TCP端口，\n\n很多人都从原来的 Vless-reality 协议转移到了 Hysteria2 (HY2) 或者TUIC协议。\n\n这并不意味着今后UDP协议就能高枕无忧。HY2目前能正常使用，还没被重点照顾，但有些地方会被运营商QOS阻断限制。\n当然，如果你目前使用HY2一切顺利，那就继续用吗！\n\n如果HY2遇到问题，建议再备个CDN节点。\n之前我很早就说过的，三方案共存共用，哪个能用，用哪个！👌",
   "first_seen_at": "2026-10-31",
-  "bookmarked_order": 72
+  "bookmarked_order": 73
  },
  {
   "id": "2116167532172214653",
@@ -959,7 +972,7 @@
   "author_name": "Penny777 🦊",
   "text": "用 Grok Bot 来找到「小号爆款」内容。🫡\n\n如果想要用 Grok Bot 来监控热点事件，可以试试下面这个 Prompt。\n\n这个 Prompt 主要是可以集中在指定的领域，抓取那些明显数据优于平均水平的内容，分析其火起来的原因。这样就可以给我们撰写内容的时候一些灵感和帮助。\n\n推荐试试！\n\n- 中文版：\n\n每天 9:00 当我的选题侦察员。\n领域：[关键词]，加上 [@账号]；跳过广告和抽奖。\n\n找 24 小时内互动明显高于作者平时水平的帖子，取前 5 条：链接、内容、为什么火、最热回复。\n\n再给 5 个 [平台+时长] 的原创视频点子：标题、前 3 秒钩子、参考哪条、我的新角度；14 天内不重复。不够就直说，别凑数。\n\n存成 skill 和 routine。只调研，绝不发帖、回复或私信。\n\n👇 今天它就找到了一个 7000 粉丝博主的 35w 阅读量的内容。非常有意思！",
   "first_seen_at": "2026-10-31",
-  "bookmarked_order": 73
+  "bookmarked_order": 74
  },
  {
   "id": "2116145165094265092",
@@ -972,7 +985,7 @@
   "author_name": "DAAI☀️",
   "text": "配音版的来了🎉\n\n给几个小孩看得看入迷了\n\n追着问什么时候出下一集😂\n\n有好多小伙伴问这个怎么做的\n\n这个等我整理下下期出个教程～ 「[图片/视频]」 https://twitter.com/daaihq/status/2115435060405096762",
   "first_seen_at": "2026-10-31",
-  "bookmarked_order": 74
+  "bookmarked_order": 75
  },
  {
   "id": "2115592603605557564",
@@ -985,7 +998,7 @@
   "author_name": "Kin",
   "text": "🔥 一口气彻底讲清：如何把 Codex、Claude Code、Gemini、DeepSeek Harness、Muse 统统接入 Grok @bot？\n\n直接复制下面「焚决」发给你的总管 Bot！按指引走就行，后面你再也不会缺 Bot 额度啦！！！\n\n1️⃣ Codex 接入 Grok bot 的焚决： 「请帮我新建一个 codex 的 bot，并通过云电脑的 cli 登陆我的 codex 账号，后面有生图任务、或中大型的调研、编程任务，请通过 codex 执行」 这样调度消耗的是你 Codex 的额度，\n\n2️⃣ Claude Code 接入 Grok bot ： 「请帮我新建一个 Claude Code 的 bot，并通过云电脑的 cli 登陆我的 Claude Code 账号，后面有编程或视频剪辑等任务，请通过 Claude Code 执行」 消耗的是你 CC 的额度，我稳定用了已经两个月。 原帖 👉 https://x.com/KinGao476942/status/2107307494855037356\n\n3️⃣ Gemini（文案能力强）接入： 「请新建一个 Gemini Bot，在你的终端通过 Antigravity cli 方式接入 Gemini，默认使用 Argon 模型，我授权你用我的谷歌账号完成登录」 记得先在云浏览器登录好美区谷歌账号。谷歌账号地区在中国的，也可以在云电脑浏览器里登录 Gemini 网页使用，或直接手动改为美国。 \n4️⃣ DeepSeek Harness（省额度、编程强） 「请新建一个 DeepSeek Harness Bot，在你的云电脑终端通过这个 GitHub 文档帮我安装好 DeepSeek Harness，默认使用 DeepSeek V4.1 Flash 模型来编程，安装好后，指导我输入 api key」\n 原帖（含 GitHub 文档链接）👉 https://x.com/KinGao476942/status/2111622701089759654\n\n5️⃣ Muse（几百亿 Token 额度） ① 把 muse2api 仓库链接发给 Grok bot，说「帮我利用 muse2api 新建一个 Muse bot」 ② 让它在云电脑 Chrome 里登录你的 Muse 账号（验证码需要你手动输入） ③ 让它生成点东西测试，确认 Muse bot 只消耗 Muse 的额度 原帖（含仓库链接）👉 https://x.com/KinGao476942/status/2104299614136644092\n\n接完之后，Grok bot 就是一个能调用各家 Agent 额度的万能军团！耶😆",
   "first_seen_at": "2026-10-31",
-  "bookmarked_order": 75
+  "bookmarked_order": 76
  },
  {
   "id": "2116102817119396040",
@@ -998,7 +1011,7 @@
   "author_name": "阿蔺A-Lin",
   "text": "🚨 封神之后再造神！Mac 最强终端 Ghostty 的作者带着全新王炸出山了！\n\n这次的最新作品是 Rex 终端，他直接把原生终端和 Tmux 结合起来了，专门为 Vibe Coding 打造。\n\n目前还处于内测中，不过我帮大家搞到了下载链接，大家直接下载尝鲜即可：https://blob.superlogical.com/download/rex-app/preview/latest.dmg\n\n他目前支持这三大特色功能：\n\n1️⃣ 状态感知：Rex 能知道当前窗口的执行状态并在标签页上显示这些状态，比如等待用户确认、已完成等等\n\n2️⃣ AI 助手原生支持：一条命令接入 Claude Code、Codex，AI 能自己开分屏、跑命令、读终端输出\n\n3️⃣ 远程连接：可连 Linux / FreeBSD 服务器，会话如果断开重连的话不会丢失\n\n4️⃣ 高度可编程：Lua 配置，快捷键、自定义操作、事件脚本全都能进行修改\n\n现在只有 macOS 客户端开放测试，Windows、iOS、Linux 客户端还在开发中。",
   "first_seen_at": "2026-10-31",
-  "bookmarked_order": 76
+  "bookmarked_order": 77
  },
  {
   "id": "2116029885869400106",
@@ -1011,7 +1024,7 @@
   "author_name": "Zerber",
   "text": "https://x.com/i/article/2115687148586455040",
   "first_seen_at": "2026-10-31",
-  "bookmarked_order": 77
+  "bookmarked_order": 78
  },
  {
   "id": "2116116774077010310",
@@ -1024,7 +1037,7 @@
   "author_name": "Feng",
   "text": "不是我吹牛，\n99%的人用不上我的这种网络。\n😂😂😂 「[图片/视频]」",
   "first_seen_at": "2026-10-31",
-  "bookmarked_order": 78
+  "bookmarked_order": 79
  },
  {
   "id": "2115691350108840180",
@@ -1037,7 +1050,7 @@
   "author_name": "苏码玩家",
   "text": "人在公司 手机点一下 家里的电脑就开机🤯\n\n内网穿透的魅力时刻\n\n不用开机卡，即可远程唤醒局域网设备\n在外面直接开关路由器防火墙\n\n没有公网IP也能这么玩，全靠一条免费的Cloudflare Tunnel👇 「[图片/视频]」 https://twitter.com/suversal/status/2115319987493847341",
   "first_seen_at": "2026-10-31",
-  "bookmarked_order": 79
+  "bookmarked_order": 80
  },
  {
   "id": "2115319987493847341",
@@ -1050,7 +1063,7 @@
   "author_name": "苏码玩家",
   "text": "不用公网IP，不用买内网穿透，一条免费的Cloudflare Tunnel，家里NAS、路由器后台在外面直接打开 https://x.com/i/article/2115124448458416128",
   "first_seen_at": "2026-10-31",
-  "bookmarked_order": 80
+  "bookmarked_order": 81
  },
  {
   "id": "2100453699659366890",
@@ -1063,7 +1076,7 @@
   "author_name": "MJJ百科",
   "text": "手把手教大家搭建自己的VPN代理：每月只要2元，固定IP，IP比机场干净，养AI和运营自媒体刚需，大概十分钟即可搞掂。 https://x.com/i/article/2100442063494152192",
   "first_seen_at": "2026-10-31",
-  "bookmarked_order": 81
+  "bookmarked_order": 82
  },
  {
   "id": "2115768956602773733",
@@ -1076,7 +1089,7 @@
   "author_name": "嗷嗷镜",
   "text": "https://x.com/i/article/2115631194431987713",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 82
+  "bookmarked_order": 83
  },
  {
   "id": "2115715262163091499",
@@ -1089,7 +1102,7 @@
   "author_name": "冬青",
   "text": "你们喜欢看新闻吗？其实很多赚钱的机会都藏在新闻里\n\n有一些大的机会大的方向，我们抓不住，但是小机会还是很容易的，比如虚拟资料，制作软件，制作小程序，制作网站，制作视频，做自媒体账号，很多人不知道第一步要怎么做起来，没有思路\n\n我昨天用上了GrokBot，非常好用，重要的是多Bot协调能力，我认为非常好用，很多人知道我是做虚拟资料的，但是做什么虚拟资料，如何发现更多的信息差，很大一部分渠道就是看新闻\n\n给大家分享一个bot，如果你有GrokBot我建议你用起来，而且还可以拉一个群聊，来做成更多的自动化，比如你有虚拟资料制作的Bot，程序开发Bot，那么都可以联动起来，用起来之后，把你看到的新闻的链接转发给Bot，会进行拆解商机，主要都是一些小商机，如下图所示，普通人怎么做，可以卖：AI 备课提效资料包（主推）、教师 AI 素养测评备考包、校本培训讲师 / 代办陪跑、家长向 AI 启蒙指南还有企业怎么布局，都可以拆分的很清楚，搭配其他Bot，比如小红书的bot，在去看这些资料在小红书上是否可行，闲鱼Bot，调用闲鱼的cli查看闲鱼上是否有卖，淘宝MCP，查看淘宝销量如何，最终决定有哪一些资料是比较值得做的\n\n赚钱没有近路，更多的是观察，别人观察到的很难打包送给你，哪怕给你也只是提点一下，重要的还是自己观察信息差的能力，这一次的内容，我不再给你具体的信息差，而是给你分析信息差的能力\n\nBot链接：https://x.ai/bot/63mH0SjvjHuc4QkUKrk6M",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 83
+  "bookmarked_order": 84
  },
  {
   "id": "2115697893709353278",
@@ -1102,7 +1115,7 @@
   "author_name": "三个三",
   "text": "找选题：去小红书搜“怎么办”“求推荐”“避坑”，找评论区里反复有人提问的问题。\n\n写脚本：把原帖复制给 claude，让它整理成一篇 60 秒短视频脚本，开头抛问题，中间讲解决办法。\n\n生成画面：把脚本拆成 5～8 个镜头，用即梦 AI 生成图片或视频素材。\n\n配音剪辑：打开剪映，导入素材，用 AI 配音、自动字幕，剪成一条完整视频。\n\n制作封面：用醒图做封面，把原帖的问题改成标题，突出痛点。\n\n发布视频：发到抖音、视频号、小红书，看评论区还有哪些问题，再做下一条",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 84
+  "bookmarked_order": 85
  },
  {
   "id": "2115857448229646841",
@@ -1115,7 +1128,7 @@
   "author_name": "Grok",
   "text": "Chrome 157 正式上线的 HTML-in-Canvas。\n\n简单说：可以把真实可交互的 HTML（表单、按钮、文字）直接画进 canvas（2D/WebGL/WebGPU），同时保留文字选择、复制、无障碍、翻译、Find-in-Page 等浏览器功能。\n\n视频里那个许愿池表单就是例子——HTML 被 WebGL 做了水面扭曲特效，但输入框还能正常打字。之前只能用 html2canvas 截图或叠一层 DOM，现在原生支持了。",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 85
+  "bookmarked_order": 86
  },
  {
   "id": "2115857306143576458",
@@ -1128,7 +1141,7 @@
   "author_name": "Andy L",
   "text": "@leecooper616 @grok",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 86
+  "bookmarked_order": 87
  },
  {
   "id": "2115794852009185646",
@@ -1141,7 +1154,7 @@
   "author_name": "老杨啊 | AI产品商业化",
   "text": "https://x.com/i/article/2115794381810913280",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 87
+  "bookmarked_order": 88
  },
  {
   "id": "2115764968008396992",
@@ -1154,7 +1167,7 @@
   "author_name": "Sac",
   "text": "直接开源视频中的卡点转场效果，将制作流程全部打包成skill，放在下面这个GitHub仓库里了！\n\n🔗：https://github.com/Sac-Y/match-cut\n\n让你的Agent安装这个skill，提供一张产品图和产品信息，就能一键生成高级酷炫的宣传片\n\n下面这个最新版 MacBook Pro 广告片就是我用一句话，让Codex制作的，效果真的很赞🫠 「[图片/视频]」 https://twitter.com/Saccc_c/status/2115394950066229329",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 88
+  "bookmarked_order": 89
  },
  {
   "id": "2115722202712789476",
@@ -1167,7 +1180,7 @@
   "author_name": "铁柱AGI",
   "text": "😎 整了个大活儿 ！Grok @bot 终于能被别的 Agent 指挥了。\n\n我在 Codex 里说了一句话，它就列出了我账号下的所有 Bot，我可以和每个 Bot 单独沟通派活，回收结果！\n\n现在能做到：\n\n1️⃣ 多个 Grok Bot 账号连成网，Bot 跨账号互相派活，队伍随便扩\n\n2️⃣ 给 Grok Bot 换个大脑：Claude、GPT 当总指挥，拆需求、派任务、收结果\n\n3️⃣ 任何 Agent 干到一半，都能把上下文交给 Grok Bot 接着做\n\n一个 skill + cli，Codex、Claude Code 都能用，答疑群已经在内测。\n\n开源时间看大家感不感兴趣了",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 89
+  "bookmarked_order": 90
  },
  {
   "id": "2115337776766091574",
@@ -1180,7 +1193,7 @@
   "author_name": "Eian",
   "text": "卧槽，钱还能这样赚的嘛？\n\n有人专门去盯GitHub Trending，就是那个趋势榜，里面专门收录最近在开源社区中最受关注、Star增长最快的开源项目。\n\n然后专门找星标突然涨、但中文教程几乎没有的小工具，比如前段时间的REA。\n\n然后把Readme文件翻译为中文，再自己实测一遍安装流程，把报错截图和解决步骤写成「小白一键部署」，直接挂知识星球或小报童，定价 39–99。\n\n一个仓库能卖几周，热度降下来了就换下一个，相当于用开源做选题库。\n\n两个月就赚了十五万🤔",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 90
+  "bookmarked_order": 91
  },
  {
   "id": "2115623148033101845",
@@ -1193,7 +1206,7 @@
   "author_name": "硅基废话",
   "text": "靠 AI 做动画当上百万博主的人已经出现了。\n\n抖音上的「呱呱历险记」，一只胖青蛙加一条红色小蛇，9 月 9 号发第一条，不到两个月，21 条视频，涨到 100 万粉。\n\n这个号我已经从头到尾拆完了，角色怎么定、分镜怎么出、视频怎么一次生成，整条流程都跑通了。\n\n现在正在写成 Skill，写好免费开源。 「[图片/视频]」",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 91
+  "bookmarked_order": 92
  },
  {
   "id": "2115761407774118044",
@@ -1206,7 +1219,7 @@
   "author_name": "Eian",
   "text": "https://x.com/i/article/2115731602273894400",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 92
+  "bookmarked_order": 93
  },
  {
   "id": "2115652864945353186",
@@ -1219,7 +1232,7 @@
   "author_name": "贝吉塔Again™",
   "text": "https://x.com/i/article/2115639169062150144",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 93
+  "bookmarked_order": 94
  },
  {
   "id": "2115253966355431881",
@@ -1232,7 +1245,7 @@
   "author_name": "Yangyi",
   "text": "现在这些大厂给的服务真不错\n我直接把Grokbot逆向了一个插件服务\n插到NewMax上\n从NewMax Mobile直接调度Grokbot的云电脑\n好多东西都不需要API交钱了\n\n比如让它在云机上跑个视频给我\n这玩意还不用消耗自己的Claude额度\n\n多来点儿有钱的厂商吧\n我都给接进来\n反正一个入口就全用了",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 94
+  "bookmarked_order": 95
  },
  {
   "id": "2115646634197450935",
@@ -1245,7 +1258,7 @@
   "author_name": "Jackywine",
   "text": "做 AI 短剧，即梦、LibTV 、Tapnow、小云雀、或者国外平台\n\n大家更推荐哪个？",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 95
+  "bookmarked_order": 96
  },
  {
   "id": "2110246524185870802",
@@ -1258,7 +1271,7 @@
   "author_name": "铁柱AGI",
   "text": "🥳 交流群有同学在问 Grok Bot 怎么抓微信公众号文章，再次推荐我做的微信文章捕手 Bot\n\n只要导入这个 Bot，会引导你搭建所需服务，发文章链接即可获取全文，点击下方链接导入⬇️\n\nhttps://x.ai/bot/J2AgMXbgmrqq2zyRt8y7g 「[图片/视频]」 https://twitter.com/cgnot996/status/2106706136158421076",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 96
+  "bookmarked_order": 97
  },
  {
   "id": "2115624666161418709",
@@ -1271,7 +1284,7 @@
   "author_name": "Eian",
   "text": "这个已经在英文区火炸了，复刻了一个大熊猫🐼版本的！太治愈了，我感觉我能玩一天！\n同样附上提示词，我已经尽力写到完善了，不过光靠提示词一轮很难做到100%满意，还是建议先根据样帧多交互几轮。\n几个小建议：场景里的东西写得越具体越好，越具体场景越饱满。实在不知道怎么构思，就上参考图，图也找不到就根据样帧一版一版改。\n动物外形最容易翻车，样图阶段重点看动物特写，觉得不够可爱就直接指出来让模型改，比如\"眼睛太小\"\"身体太瘦\"，我这个熊猫第一版巨丑哈哈。\n\n提示词：\n用单个 HTML 文件 + Canvas 2D（不用任何图片素材）做一个治愈系互动小玩具。\n【用户填写】\n- 主角动物：____（例：熊猫宝宝 / 小柯基 / 小绵羊/小鸭子）\n- 主角外形要点：____（例：黑白配色、黑眼圈；不写就按这种动物最可爱的特征来）\n- 主角的动作：走路 + ____（例：坐下啃竹笋 / 摇尾巴 / 游泳；可以写两三种）\n- 场景主题：____（例：竹林草地 / 海边沙滩 / 雪地松林）\n- 场景里的东西：____（例：竹林、竹笋、池塘、樱花树、木牌；建议写 8–12 样）\n- 木牌上的文字：____（可以不写）\n\n【画面】\n奶油色纸面上漂浮着一块微缩地台，3/4 俯视，四周大量留白。地台是圆角方形，露出约 50px 厚的切面，切面材质要和场景相符（土层 / 沙层 / 冰层，有分层和细节）。按场景主题铺满地面纹理，地上放场景里的东西，并补上小石子、小花小草这类点缀，让画面饱满但不拥挤。\n风格要可爱、治愈、饱满、有立体感：\n- 所有物体用左上打光的径向渐变球体堆出来，配软阴影和接触阴影；树、灌木、云用很多带明暗的小鼓包\n- 地面用几万根短笔触加色块斑驳，不要平涂\n- 高的东西（树、竹子、柱子）必须画完整，要有顶和尖，不能被画框截断；左右两侧的视觉分量要平衡\n- 最后加移轴模糊、轻微提对比度和饱和度、暖到冷的柔光渐变\n- 默认明亮配色；只有夜景这类场景才该暗\n\n【主角】\n圆滚滚、胖嘟嘟的宝宝体型：头大身圆、四肢短，大眼睛有高光，有腮红，表情温和。眼部周围的花纹或斑块要向外下垂，不要上挑，否则会显得凶。毛边只用短而柔的笔触，四肢和脚上不加毛。每个动作都要一眼看得出来（比如走路时身体水平、四腿交替），还要会眨眼。\n\n【交互】\n- 在地面上用鼠标画一个圈，圈里弹出一只主角（easeOutBack 弹出 + 星星粒子），圈越大主角越大；圈画在水里、树丛这类站不下的地方，提示\"换块空地画圈吧\"。最多 30 只。\n- 主角在自己的圈附近闲逛，随机做各种动作；不进水、不穿过障碍物，彼此会让路；小的会跟着大的走。\n- 可以拖动主角（拎起时离地）。松手落在不能站的地方，就自动挪到最近的空地，不要弹回原位。点选后按 Delete 删除。\n- 拖动地台外的空白处或用右键拖动来转动视角：左右拖旋转，上下拖调俯仰。右上角放 ±45° 和复位按钮，键盘 ← → 也能转。\n- 场景里加几样会动的小东西，比如飞的、飘的、水面涟漪，和场景主题匹配就行。\n\n【技术要求】\n- 地面用 u,v∈[0,1] 的坐标加透视相机（偏航 + 俯仰），视角变化时地块自动缩放，始终完整装在画框里。\n- 分两层：地面层每换一次视角重画一次；竖着的东西先按固定视角各画成一张小图（自动裁掉透明边），再按相机位置摆放、按远近缩放，和主角一起按屏幕 y 从后往前排序，这样主角能走到物体后面。成片的树林要拆成一棵一棵的单独小图。\n- 障碍物用地面上的圆形占地来判定，主角位置也存在 u,v 坐标里，这样和视角无关。\n- 不要在每一帧里用 ctx.filter blur（非常慢）。动态阴影改用径向渐变；转动过程中用不带模糊的草稿画质，松手后再换全画质并淡入。blur 的半径不跟随缩放变换，要手动乘以渲染倍率。\n- 10 只左右主角同时在场也要保持 60fps，适配窗口缩放和手机屏幕。\n\n【流程】\n1. 先只做静态场景，出两三张样图给我确认：一张全景，一张主角各个姿态的特写。\n2. 我确认后再做互动版，做完自己在浏览器里测一遍画圈、拖动、删除和旋转，确认没有报错。",
   "first_seen_at": "2026-10-30",
-  "bookmarked_order": 97
+  "bookmarked_order": 98
  },
  {
   "id": "2114994258889638097",
@@ -1284,7 +1297,7 @@
   "author_name": "钱西瓜",
   "text": "https://x.com/i/article/2114937825691082752",
   "first_seen_at": "2026-10-29",
-  "bookmarked_order": 98
+  "bookmarked_order": 99
  },
  {
   "id": "2115303778245394929",
@@ -1296,19 +1309,6 @@
   "author_username": "morganxu45",
   "author_name": "船长AI",
   "text": "拿到instabox你需要知道的事：\n\n1.这可是一台妥妥的大鸡，4核8G内存可以轻松跑浏览器应用。\n\n2.带公网入口，且不用VPN也能访问。\n刚好弥补muse短板。\n\n3.开箱即用是真省事， claude、codex、git、node、python、docker、桌面Chromium都预装了。\n\n评论区我附上muse全面帮你接管它的提示词，直接发给muse。\n\n#instabox #muse",
-  "first_seen_at": "2026-10-29",
-  "bookmarked_order": 99
- },
- {
-  "id": "2115311202876453351",
-  "url": "https://x.com/CopperForgeAI/status/2115311202876453351",
-  "title": "开源 55 门高中理科 3D 互动实验课件",
-  "summary": "铜匠开源对齐人教版教材的物理化学生物地理 3D 课件，单文件 HTML 可离线使用，并分享 AI 制作流程。",
-  "category": "学习教育与思维",
-  "created_at": "2026-10-28T05:14:26.000Z",
-  "author_username": "CopperForgeAI",
-  "author_name": "铜匠・十点睡觉",
-  "text": "我决定将我做了几个月的3d互动教育课程开源，每个月就那么零散的几个订阅单子，太浪费了。\n由于我之前做的AI Saas是北美版，所以在陆续改成国内的版本，目前已经可以开源55门。\n\n🔗 在线用：http://lab.tongjiang.app\n🔗 GitHub：http://github.com/smithjohn78390/tongjiang-lab\n\n覆盖物理、化学、生物、地理四科，按中国高中课标和人教版教材做：合成氨、接触法制硫酸、氯碱工业、高炉炼铁、电流的磁场、光电效应、有丝分裂、神经冲动、三圈环流、厄尔尼诺……\n\n每门课是什么样：\n· 一个 3D 世界，能拖、能转、能剖开看塔里面\n· 右边一台中控台，滑杆和开关每一步都能动，读数和曲线实时变\n· 一条步骤线，老师一路按「下一步」就能讲完一节课，学生没动手的步骤会自动演示\n· 最后一步是考核，有目标值\n\n几个我比较在意的点：\n1. 每门课就是一个 HTML 文件，约 1 MB。拷进 U 盘，双击就能打开，断网、投影、电子白板都能用。\n2. 数字可追溯。每门课先写事实表：教材里的数值带页码，为了教学设的数值单独标「课件设定」并写明理由。课件上出现的每个数都要能在事实表里找到。\n3. 可以下载、可以嵌入学校网站，课程页一键复制嵌入代码。\n\n怎么做出来的：\n为了节约token，我大量使用了DeepSeek，所以效果也没有我做的Sass站那么好，但是整体还可以的。\n\n· DeepSeek 批量查教材、写事实表、搭课件\n· Claude 设计统一的课件外壳和视觉规范，负责审核\n· 图像模型出参考图和封面\n· 每门课在三种屏幕尺寸下逐步跑自动检查（数字、遮挡、对比度、标注有没有压在一起），再由人一步一步看截图，过了才上线\n\nAI 能把速度拉上来，但「讲得对、看得懂」还是要靠一遍遍地审。即便这样，55 门里肯定还有错。如果你是老师或学生，发现科学错误或者画面看不懂的地方，请直接在课程页点「报告错误」，或者在 GitHub 提 Issue，我会一条条修，如果有其他的课程需求，我也会慢慢开发，反正也是Agent在做，我做好了sop，工作量也不大。\n\n接下来：\n· 四科继续往上做，目标全部做完，之后做初中和小学\n· 出英文和其他语言版本\n· 把完整的制作方法写成长文\n\n如果觉得有用，帮忙转给身边的老师，或者给仓库点个 ⭐。也欢迎关注我，我会在这个线程持续分享课程。",
   "first_seen_at": "2026-10-29",
   "bookmarked_order": 100
  },
@@ -4455,6 +4455,20 @@
   "bookmarked_order": 349
  },
  {
+  "id": "2115311202876453351",
+  "url": "https://x.com/CopperForgeAI/status/2115311202876453351",
+  "title": "开源 55 门高中理科 3D 互动实验课件",
+  "summary": "铜匠开源对齐人教版教材的物理化学生物地理 3D 课件，单文件 HTML 可离线使用，并分享 AI 制作流程。",
+  "category": "学习教育与思维",
+  "created_at": "2026-10-28T05:14:26.000Z",
+  "author_username": "CopperForgeAI",
+  "author_name": "铜匠・十点睡觉",
+  "text": "我决定将我做了几个月的3d互动教育课程开源，每个月就那么零散的几个订阅单子，太浪费了。\n由于我之前做的AI Saas是北美版，所以在陆续改成国内的版本，目前已经可以开源55门。\n\n🔗 在线用：http://lab.tongjiang.app\n🔗 GitHub：http://github.com/smithjohn78390/tongjiang-lab\n\n覆盖物理、化学、生物、地理四科，按中国高中课标和人教版教材做：合成氨、接触法制硫酸、氯碱工业、高炉炼铁、电流的磁场、光电效应、有丝分裂、神经冲动、三圈环流、厄尔尼诺……\n\n每门课是什么样：\n· 一个 3D 世界，能拖、能转、能剖开看塔里面\n· 右边一台中控台，滑杆和开关每一步都能动，读数和曲线实时变\n· 一条步骤线，老师一路按「下一步」就能讲完一节课，学生没动手的步骤会自动演示\n· 最后一步是考核，有目标值\n\n几个我比较在意的点：\n1. 每门课就是一个 HTML 文件，约 1 MB。拷进 U 盘，双击就能打开，断网、投影、电子白板都能用。\n2. 数字可追溯。每门课先写事实表：教材里的数值带页码，为了教学设的数值单独标「课件设定」并写明理由。课件上出现的每个数都要能在事实表里找到。\n3. 可以下载、可以嵌入学校网站，课程页一键复制嵌入代码。\n\n怎么做出来的：\n为了节约token，我大量使用了DeepSeek，所以效果也没有我做的Sass站那么好，但是整体还可以的。\n\n· DeepSeek 批量查教材、写事实表、搭课件\n· Claude 设计统一的课件外壳和视觉规范，负责审核\n· 图像模型出参考图和封面\n· 每门课在三种屏幕尺寸下逐步跑自动检查（数字、遮挡、对比度、标注有没有压在一起），再由人一步一步看截图，过了才上线\n\nAI 能把速度拉上来，但「讲得对、看得懂」还是要靠一遍遍地审。即便这样，55 门里肯定还有错。如果你是老师或学生，发现科学错误或者画面看不懂的地方，请直接在课程页点「报告错误」，或者在 GitHub 提 Issue，我会一条条修，如果有其他的课程需求，我也会慢慢开发，反正也是Agent在做，我做好了sop，工作量也不大。\n\n接下来：\n· 四科继续往上做，目标全部做完，之后做初中和小学\n· 出英文和其他语言版本\n· 把完整的制作方法写成长文\n\n如果觉得有用，帮忙转给身边的老师，或者给仓库点个 ⭐。也欢迎关注我，我会在这个线程持续分享课程。",
+  "first_seen_at": "2026-10-29",
+  "bookmarked_order": 350,
+  "removed_at": "2026-11-10"
+ },
+ {
   "id": "2111921554200424506",
   "url": "https://x.com/ozmazzz/status/2111921554200424506",
   "title": "一台VPS优化跨境线路",
@@ -4464,7 +4478,7 @@
   "author_name": "王军",
   "created_at": "2026-10-18T20:45:10.000Z",
   "text": "https://x.com/i/article/2111921417742663680",
-  "bookmarked_order": 350,
+  "bookmarked_order": 351,
   "first_seen_at": "2026-10-21",
   "removed_at": "2026-11-06"
  },
@@ -4478,7 +4492,7 @@
   "author_name": "Lin Dora",
   "created_at": "2026-10-19T00:44:18.000Z",
   "text": "之前通过学生认证领过 Google pro的，可以再去领取一年\n\n需要花8.99刀\n\n可以在 Antigravity 里边用 opus5.5和gemini 4\n\n还送了YouTube Premium会员\n\n仅限之前通过学生认证领过的，没领过的不要试了\n\n接下来说下怎么领\n\n打开下边网站，领取学生优惠\nhttps://gemini.google/students/?utm_source=gemini&utm_medium=paid_media&utm_campaign=microsite_sem_students-sem-microsite-bkws_generic_generic_text\n\n弹出来的是0元订阅plus的页面，这个地方不要点订阅\n一旦点了，之前的pro就没了\n一定要点下边的查看所有学生优惠\n\n这个时候选择Google AI Pro 七五折优惠\nYouTube Premium\n\n领的时候一定要注意开始扣费的时间，应该是顺延一年才对\n如果是下个月就扣费的，不要领，切记\n\n最后直接领取就行",
-  "bookmarked_order": 351,
+  "bookmarked_order": 352,
   "first_seen_at": "2026-10-21",
   "removed_at": "2026-10-31"
  },
@@ -4492,7 +4506,7 @@
   "author_name": "Vincent",
   "created_at": "2026-10-18T13:28:44.000Z",
   "text": "已经领过 Google AI Pro 学生优惠的，可以再试试！\n\n如果你的订阅到期时间预计在 2027 年，可以重新点击领取学生优惠，多拿一年，再支付 $8.99 刷新订阅。我这边下次扣费日期已经延到了 2029 年 2 月 10 日。\n\n申请入口：https://gemini.google/students/?utm_source=gemini&utm_medium=paid_media&utm_campaign=microsite_sem_students-sem-microsite-bkws_generic_generic_text 「[图片/视频]」",
-  "bookmarked_order": 352,
+  "bookmarked_order": 353,
   "first_seen_at": "2026-10-21",
   "removed_at": "2026-10-31"
  },
@@ -4506,7 +4520,7 @@
   "author_name": "季白羽",
   "created_at": "2026-09-29T02:41:30.000Z",
   "text": "https://x.com/i/article/2064281284944519168",
-  "bookmarked_order": 353,
+  "bookmarked_order": 354,
   "first_seen_at": "2026-10-21",
   "removed_at": "2026-10-31"
  },
@@ -4521,7 +4535,7 @@
   "author_name": "MeiJyn",
   "text": "做外贸，第一步是稳定上外网。\n\n我翻了推特上 37 条真实用户的 VPN 推荐，按稳定性、速度、价格打分，整理成这篇万字指南：\n\n🥇 ExpressVPN：好上手，可退款\n🥈 Astrill：抗封锁最强\n🥉 Surfshark：便宜，设备不限\n\n避坑：快连已退出大陆。\n\n#外贸 #VPN https://x.com/i/article/2115021590908030977",
   "first_seen_at": "2026-10-28",
-  "bookmarked_order": 354,
+  "bookmarked_order": 355,
   "removed_at": "2026-10-29"
  },
  {
@@ -4535,7 +4549,7 @@
   "author_name": "疯狂的烤妹儿 🩵",
   "text": "在树上建造一座小型豪华住宅 🏡生成提示词\n\nMOTION PROMPT 1\n\nStep1：在 Google flow 生成一张初始图片，选择 Nano Banana 2 生图模式，复制下面的提示词，生成图片——\nA hyper-realistic miniature luxury treehouse construction site at the very beginning of construction, built high among the thick branches of a large mature tree, set in a natural forest environment on a realistic soil and moss-covered ground below. The miniature treehouse structure has not yet been assembled; only a partially prepared elevated foundation platform and a few carefully arranged structural materials are present between the tree branches. Giant realistic human fingers and hands are interacting with the tiny construction materials, carefully measuring and positioning miniature wooden beams.\nTiny realistic construction tools scattered naturally around the work area: miniature hammer, measuring tape, level, screwdriver, tiny saw, nails, wooden planks, timber beams, small metal brackets, rope, screws and organized piles of miniature building materials. Visible partially prepared foundation area with realistic wood grain, tiny nails, sawdust and small construction debris.\nUltra realistic macro photography, extreme miniature scale realism, photorealistic craftsmanship, highly detailed natural wood textures, realistic tree bark with deep grooves and moss, individual leaves and fine vegetation, tiny imperfections, realistic dust and sawdust particles, physically accurate materials, realistic shadows, cinematic studio-quality lighting mixed with warm natural forest sunlight, shallow depth of field, sharp focus on the miniature construction area, beautiful creamy background bokeh, professional product photography, cinematic composition, realistic scale relationship between giant human fingers and tiny construction materials, 8K detail, HDR, volumetric sunlight rays through trees, natural color grading, premium architectural photography, no completed house, no finished walls, no roof, construction only, visually satisfying starting frame.\n\nStep2：引用生成的图片，选择 Omni 1.1 flash 模型图生视频，提示词如下——\n\nElevated Foundation & Platform : Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.\nCreate an ultra fast timelapse speed construction sequence with human hands continuously constructing and moving rapidly.\nMultiple rapid scene cuts show the workers measuring the tree branches and elevated construction area, positioning miniature wooden support beams, attaching metal brackets, drilling and fastening supports, applying small structural joints, carefully leveling the platform, installing cross-bracing and securing every foundation connection.\nVisible material placement must be clear in every shot. Miniature tools are actively used: measuring tape, miniature drill, hammer, level, screwdriver and clamps. Realistic hand movements, tiny nails and screws being inserted, wood dust falling naturally, subtle vibration from tools and physically believable construction mechanics.\nThe elevated wooden foundation platform progressively expands between the tree branches. Every cut shows major visible construction progression.\nThe entire foundation platform becomes fully completed, level, rigid and structurally ready for the treehouse walls before the clip ends.\ncinematic macro photography, ultra realistic textures, realistic wood grain, detailed tree bark, natural shadows, shallow depth of field, dynamic construction progression, satisfying construction transformations, multiple rapid scene cuts, ultra fast timelapse speed, human hands continuously constructing and moving rapidly.\nEnd Frame: a fully completed elevated wooden treehouse foundation platform securely attached between the tree branches, completely ready for wall construction, with no unfinished foundation elements visible.",
   "first_seen_at": "2026-10-26",
-  "bookmarked_order": 355,
+  "bookmarked_order": 356,
   "removed_at": "2026-10-27"
  },
  {
@@ -4549,7 +4563,7 @@
   "author_name": "DaBin.Binah",
   "text": "Gemini Pro被退款的，还能再免费续一年🆓\n\n谷歌这个套路深啊，一大早收到退款通知\n\n然后我打开这个链接，又领取了一年PRO\n\n我是美国IP领取的，没有的话，清空一下浏览器缓存\n\nhttps://accounts.google.com/v3/signin/identifier?continue=https://one.google.com/ai-student?g1_landing_page%3D75%26utm_source%3Dgemini%26utm_medium%3Dpaid_media%26utm_campaign%3Dmicrosite_sem_students-sem-microsite-bkws_generic_generic_text&followup=https://one.google.com/ai-student?g1_landing_page%3D75%26utm_source%3Dgemini%26utm_medium%3Dpaid_media%26utm_campaign%3Dmicrosite_sem_students-sem-microsite-bkws_generic_generic_text&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-516827647:1792584246793559\n\nhttps://x.com/yedabinbinah/status/2113801365269135571 「[图片/视频]」",
   "first_seen_at": "2026-10-25",
-  "bookmarked_order": 356,
+  "bookmarked_order": 357,
   "removed_at": "2026-10-26"
  },
  {
@@ -4561,7 +4575,7 @@
   "author_username": "smk7z",
   "author_name": "云辰 Cyan",
   "created_at": "2026-09-26T13:41:13.000Z",
-  "bookmarked_order": 357,
+  "bookmarked_order": 358,
   "text": "现在搭建个人 VPN 节点，真的只要 5 分钟了\n\n1. 购买一个 VPS 服务器，CN2 GIA最好。拿到 ssh 的账号密码\n\n2. 发给 Agent这段 Prompt：\n“ssh  root@xx.xx.xx.xx，密码是XXXXX，根据https://github.com/imengying/sing-box 给这台VPS 服务器安装 Vless + reality，然后把可导入 V2rayN 的 分享地址发给我”\n为了安全，安装后建议换 ssh 密码\n\n3. 在电脑上安装 V2rayN\nhttps://github.com/2dust/v2rayN\n\n4. 在 V2rayN 界面把第二步的链接粘贴进去，结束了，开始用你的独享节点\n\n感慨，还记得2020 年跟着不良林老师，用 vultr + x-ui +vmess 一步步搭建，搞了半天才搞定😭",
   "removed_at": "2026-10-28"
  }
