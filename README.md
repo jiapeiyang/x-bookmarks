@@ -2,13 +2,13 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **350** 条书签 · 最后更新：2026-11-10 09:18（北京时间）
+共 **354** 条书签 · 最后更新：2026-11-11 09:25（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 85 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 88 条
 - [翻墙 / VPS / 网络节点](#cat-1) — 62 条
-- [自媒体运营与赚钱](#cat-2) — 58 条
+- [自媒体运营与赚钱](#cat-2) — 59 条
 - [AI 编程与开发工具](#cat-3) — 46 条
 - [Grok Bot 玩法](#cat-4) — 39 条
 - [Claude·ChatGPT 账号与订阅](#cat-5) — 29 条
@@ -18,8 +18,14 @@
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（85）
+## AI 创作（视频/游戏/3D）（88）
 
+- **[Fable 5.2 寓言乘风视频](https://x.com/lemomo_ai/status/2120118194409193682)** — 作者用 Fable 5.2 做的一支图书馆里万页寓言乘风飞舞的短片，致敬 Claude。  
+  @lemomo_ai · 2026-11-10
+- **[Claude Code + Higgsfield 批量做 AI 动画](https://x.com/BeyondTheBoxCN/status/2119800359367401734)** — 拆解一条 15 秒爆款 AI 动画的方案：用 Claude Code 连接 Higgsfield，保持角色一致并批量出片。  
+  @BeyondTheBoxCN · 2026-11-09
+- **[AI 视频全流程实战长文](https://x.com/yanchuanlab/status/2119785596273168892)** — 一篇文章讲五种风格 AI 视频从想法到成片的完整流程，并附提示词。  
+  @yanchuanlab · 2026-11-09
 - **[Antigravity + Colab 一键部署 MiniMax H3](https://x.com/shengtang135754/status/2119609385249067262)** — 用 Antigravity 加 Colab GPU 一键部署 MiniMax H3 的方案，作者已亲测成功，复制脚本即可。  
   @shengtang135754 · 2026-11-09
 - **[GPT 做剪纸风轻视频](https://x.com/Leviwoyun/status/2119434313934758388)** — 用 GPT 生图做出剪纸画风格动画，认为是低成本的轻视频赛道。  
@@ -322,8 +328,10 @@
 
 <a id="cat-2"></a>
 
-## 自媒体运营与赚钱（58）
+## 自媒体运营与赚钱（59）
 
+- **[蹭热点公众号写作赚流量主收益](https://x.com/liyue_ai/status/2119986844486267061)** — 作者靠同步热点话题的公众号文章，一天就拿到 32 元流量主收益，认为内容说清热点即可。  
+  @liyue_ai · 2026-11-10
 - **[小红书起号保姆级教程](https://x.com/bbkirstry/status/2119430655390122208)** — 小晚写给新手的国内社媒起号教程，讲从找对标、选题到出摊和商业化。  
   @bbkirstry · 2026-11-08
 - **[多平台无水印视频素材下载站](https://x.com/0xCzyan/status/2119251056119210258)** — 整理了 X、抖音/TikTok、小红书/B站的视频下载网站，用来找素材。  
