@@ -2,15 +2,15 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **354** 条书签 · 最后更新：2026-11-11 09:25（北京时间）
+共 **351** 条书签 · 最后更新：2026-11-13 09:22（北京时间）
 
 ## 目录
 
 - [AI 创作（视频/游戏/3D）](#cat-0) — 88 条
-- [翻墙 / VPS / 网络节点](#cat-1) — 62 条
+- [翻墙 / VPS / 网络节点](#cat-1) — 60 条
 - [自媒体运营与赚钱](#cat-2) — 59 条
 - [AI 编程与开发工具](#cat-3) — 46 条
-- [Grok Bot 玩法](#cat-4) — 39 条
+- [Grok Bot 玩法](#cat-4) — 38 条
 - [Claude·ChatGPT 账号与订阅](#cat-5) — 29 条
 - [娱乐与其他](#cat-6) — 12 条
 - [学习教育与思维](#cat-7) — 11 条
@@ -199,7 +199,7 @@
 
 <a id="cat-1"></a>
 
-## 翻墙 / VPS / 网络节点（62）
+## 翻墙 / VPS / 网络节点（60）
 
 - **[新手自建节点建议](https://x.com/InfiCheesy/status/2119391434688356496)** — 建议平时用 vless+tcp+reality 或 vmess+ws+tls，机器很差时才考虑 UDP 节点。  
   @InfiCheesy · 2026-11-08
@@ -217,10 +217,6 @@
   @Lovislexus · 2026-11-01
 - **[黑五VPS厂商对比：RackNerd](https://x.com/jojeangsaing/status/2116838434065265024)** — 拆解RackNerd年付促销各档配置与优缺点，适合预算敏感的美区落地和自建小服务。  
   @jojeangsaing · 2026-11-01
-- **[低价机场+家宽IP出口方案](https://x.com/Lovislexus/status/2116713083297042922)** — 用小火箭Fallback串联多个机场中转，再以Webshare住宅IP作为固定出口的低成本网络配置。  
-  @Lovislexus · 2026-11-01
-- **[1.68美元/月静态住宅IP购买教程](https://x.com/Lovislexus/status/2116479371506499638)** — 三步教你在Webshare购买静态住宅IP、筛选ASN并接入小火箭。  
-  @Lovislexus · 2026-10-31
 - **[99% 的人用不上的网络](https://x.com/Feng6v/status/2116116774077010310)** — 作者晒出自己的网络配置截图，调侃大多数人用不上这种网络。  
   @Feng6v · 2026-10-30
 - **[GFW 封 TCP 后 HY2/TUIC 也要备 CDN 节点](https://x.com/ygkkkg/status/2116090765218922831)** — 最近 GFW 封锁 TCP 端口，很多人从 Vless-reality 转到 HY2 或 TUIC，作者建议再备一个 CDN 节点，三方案共存。  
@@ -548,7 +544,7 @@
 
 <a id="cat-4"></a>
 
-## Grok Bot 玩法（39）
+## Grok Bot 玩法（38）
 
 - **[微信聊天记录直通 Grok Bot 开源](https://x.com/cgnot996/status/2119298485803794467)** — 开源工具，可把微信里的聊天记录和文件一键转发给 Grok Bot，省去手动复制搬运。  
   @cgnot996 · 2026-11-08
@@ -562,8 +558,6 @@
   @0xlangeai · 2026-11-02
 - **[Grok Bot出海增长实战](https://x.com/kkkeric_ai/status/2116726197111648426)** — 作者分享一个人加22个Grok Bot运营20多个社媒渠道及SEO、外链、视频和竞品监控的经验。  
   @kkkeric_ai · 2026-11-01
-- **[用Grok Bot统一指挥各类AI工具](https://x.com/LuBtc888/status/2116516034983477529)** — 介绍让Grok Bot统一调度Claude、Codex、Gemini等AI工具的玩法教程。  
-  @LuBtc888 · 2026-10-31
 - **[用Grok Bot做动画短片](https://x.com/HaileyAILabs/status/2116455418180604317)** — 作者称赞Grok Bot做的动画短片画质和人物表现不输付费AI视频模型，还自带配音和音效。  
   @HaileyAILabs · 2026-10-31
 - **[用 Grok Bot 找「小号爆款」选题](https://x.com/penny777/status/2116167532172214653)** — 分享一个每天定时让 Grok Bot 抓取指定领域互动异常高的帖子并给出原创视频点子的 Prompt。  
