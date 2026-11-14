@@ -2,14 +2,14 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **351** 条书签 · 最后更新：2026-11-13 09:22（北京时间）
+共 **352** 条书签 · 最后更新：2026-11-14 09:25（北京时间）
 
 ## 目录
 
 - [AI 创作（视频/游戏/3D）](#cat-0) — 88 条
 - [翻墙 / VPS / 网络节点](#cat-1) — 60 条
 - [自媒体运营与赚钱](#cat-2) — 59 条
-- [AI 编程与开发工具](#cat-3) — 46 条
+- [AI 编程与开发工具](#cat-3) — 47 条
 - [Grok Bot 玩法](#cat-4) — 38 条
 - [Claude·ChatGPT 账号与订阅](#cat-5) — 29 条
 - [娱乐与其他](#cat-6) — 12 条
@@ -447,8 +447,10 @@
 
 <a id="cat-3"></a>
 
-## AI 编程与开发工具（46）
+## AI 编程与开发工具（47）
 
+- **[Herdr：统管多个 AI Agent 的工作台](https://x.com/suversal/status/2120057757487489424)** — 介绍 Herdr，一款把多个项目里的 Claude Code、Codex 等 AI Agent 收进同一工作台，可查看状态并一键跳转的管理工具。  
+  @suversal · 2026-11-10
 - **[CC Desk Tunnel：Claude 跑 VPS、文件留本地](https://x.com/JustLikeBit/status/2119350968743563340)** — 开源工具，让 VPS 上的 Claude Code 通过通道直接读写本地文件、跑命令，并提醒防封风险。  
   @JustLikeBit · 2026-11-08
 - **[Google Colab 免费云端显卡的十种玩法](https://x.com/yyyole/status/2119096607752781869)** — 介绍免费版 Colab 就能用上 16G 显存的 NVIDIA T4，并列出部署开源大模型、生图、语音、视频、微调和数据分析等十种用法。  
