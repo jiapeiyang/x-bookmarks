@@ -2,7 +2,7 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **352** 条书签 · 最后更新：2026-11-14 09:25（北京时间）
+共 **353** 条书签 · 最后更新：2026-11-16 23:11（北京时间）
 
 ## 目录
 
@@ -11,7 +11,7 @@
 - [自媒体运营与赚钱](#cat-2) — 59 条
 - [AI 编程与开发工具](#cat-3) — 47 条
 - [Grok Bot 玩法](#cat-4) — 38 条
-- [Claude·ChatGPT 账号与订阅](#cat-5) — 29 条
+- [Claude·ChatGPT 账号与订阅](#cat-5) — 30 条
 - [娱乐与其他](#cat-6) — 12 条
 - [学习教育与思维](#cat-7) — 11 条
 - [银行卡与支付](#cat-8) — 8 条
@@ -627,8 +627,10 @@
 
 <a id="cat-5"></a>
 
-## Claude·ChatGPT 账号与订阅（29）
+## Claude·ChatGPT 账号与订阅（30）
 
+- **[Claude KYC 与门户验证代办](https://x.com/sankenainai/status/2121840599418683751)** — 作者新上架 Claude KYC 验证和门户验证代办，标价 KYC 100、门户验证 240，称不通过或封号可退款，并说接单两天全部通过、大约 30 分钟出结果。  
+  @sankenainai · 2026-11-15
 - **[查询 Claude 账号是否通过 KYC](https://x.com/feishutoday/status/2119456566365835464)** — 教你用浏览器访问接口，根据 status 字段判断 Claude 账号升级是否需要或已通过 KYC。  
   @feishutoday · 2026-11-08
 - **[外区苹果内购被风控的解决办法](https://x.com/Delroy715/status/2119397799330766979)** — 8 步找到苹果真人客服并用英文模板申诉，实测开通土区 Google AI Ultra。  
