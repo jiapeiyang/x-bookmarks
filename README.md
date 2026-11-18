@@ -2,24 +2,30 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **353** 条书签 · 最后更新：2026-11-16 23:11（北京时间）
+共 **362** 条书签 · 最后更新：2026-11-19 02:13（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 88 条
-- [翻墙 / VPS / 网络节点](#cat-1) — 60 条
-- [自媒体运营与赚钱](#cat-2) — 59 条
-- [AI 编程与开发工具](#cat-3) — 47 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 91 条
+- [自媒体运营与赚钱](#cat-1) — 61 条
+- [翻墙 / VPS / 网络节点](#cat-2) — 59 条
+- [AI 编程与开发工具](#cat-3) — 49 条
 - [Grok Bot 玩法](#cat-4) — 38 条
-- [Claude·ChatGPT 账号与订阅](#cat-5) — 30 条
+- [Claude·ChatGPT 账号与订阅](#cat-5) — 32 条
 - [娱乐与其他](#cat-6) — 12 条
 - [学习教育与思维](#cat-7) — 11 条
-- [银行卡与支付](#cat-8) — 8 条
+- [银行卡与支付](#cat-8) — 9 条
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（88）
+## AI 创作（视频/游戏/3D）（91）
 
+- **[开源 lemo-animi 定格动画 Skill](https://x.com/lemomo_ai/status/2123038832815907084)** — 作者发布开源 skill lemo-animi，用一句话让 Codex 或 Claude Code 从故事、角色、分镜做到配乐，生成定格动画短片。  
+  @lemomo_ai · 2026-11-18
+- **[用 ChatGPT 6.2 重做《小红帽》绘本动画](https://x.com/nima2qisi2/status/2123015867730420005)** — 作者用 ChatGPT 6.2 重做一部《小红帽》童话绘本动画，称为此用掉两张重置卡，并说也可以按同样方式做自己的童话动画。  
+  @nima2qisi2 · 2026-11-18
+- **[Gemini 4 + Antigravity 全自动出片](https://x.com/leaf_sanren/status/2122673250778194327)** — 长文讲如何用 Gemini 4 和 Antigravity 跑通自动出片：看参考视频、反推提示词并生成成片，并附上可复制的 Agent 指令。作者称 Google AI 会员自带额度也能用。  
+  @leaf_sanren · 2026-11-17
 - **[Fable 5.2 寓言乘风视频](https://x.com/lemomo_ai/status/2120118194409193682)** — 作者用 Fable 5.2 做的一支图书馆里万页寓言乘风飞舞的短片，致敬 Claude。  
   @lemomo_ai · 2026-11-10
 - **[Claude Code + Higgsfield 批量做 AI 动画](https://x.com/BeyondTheBoxCN/status/2119800359367401734)** — 拆解一条 15 秒爆款 AI 动画的方案：用 Claude Code 连接 Higgsfield，保持角色一致并批量出片。  
@@ -199,133 +205,12 @@
 
 <a id="cat-1"></a>
 
-## 翻墙 / VPS / 网络节点（60）
+## 自媒体运营与赚钱（61）
 
-- **[新手自建节点建议](https://x.com/InfiCheesy/status/2119391434688356496)** — 建议平时用 vless+tcp+reality 或 vmess+ws+tls，机器很差时才考虑 UDP 节点。  
-  @InfiCheesy · 2026-11-08
-- **[低价 VPN 机场推荐](https://x.com/VAlexanderYang/status/2119307171318092135)** — 推荐一家 ¥2.8/月起、不限速不限设备的机场，主打 DMIT 三网优化和解锁 AI。  
-  @VAlexanderYang · 2026-11-08
-- **[几家常用 VPN 的真实缺点盘点](https://x.com/sosuke997/status/2118646076681138649)** — 抛开吹捧直说天机云、TAG、PP、Nvenix、TTCLOUD 等常见 VPN 在延迟、价格、客服和节点上的短板。  
-  @sosuke997 · 2026-11-06
-- **[Tailscale + 美国 VPS 隔离 Claude 凭证](https://x.com/vincemask/status/2117597043128783178)** — 用 Tailscale 把本地电脑和美国 VPS 组成私网，Claude 凭证只放 VPS，本地用 Magpie 远程调用。  
-  @vincemask · 2026-11-03
-- **[30元/月美国双ISP住宅IP VPS](https://x.com/Leo_zhang2018/status/2116899881810116700)** — 推荐NovixLink洛杉矶双ISP静态住宅IP VPS，作为精品线路后的便宜落地出口。  
-  @Leo_zhang2018 · 2026-11-01
-- **[自建梯子推荐Snell协议](https://x.com/CMhOeNnExY/status/2116898159385592008)** — 作者分享自建代理用Snell半年稳定，特征冷门不易识别，并谈Mac mini软路由。  
-  @CMhOeNnExY · 2026-11-01
-- **[用changedetection监控VPS降价](https://x.com/Lovislexus/status/2116841009112084643)** — 推荐开源工具changedetection自动监控VPS降价、补货并通过Telegram提醒。  
-  @Lovislexus · 2026-11-01
-- **[黑五VPS厂商对比：RackNerd](https://x.com/jojeangsaing/status/2116838434065265024)** — 拆解RackNerd年付促销各档配置与优缺点，适合预算敏感的美区落地和自建小服务。  
-  @jojeangsaing · 2026-11-01
-- **[99% 的人用不上的网络](https://x.com/Feng6v/status/2116116774077010310)** — 作者晒出自己的网络配置截图，调侃大多数人用不上这种网络。  
-  @Feng6v · 2026-10-30
-- **[GFW 封 TCP 后 HY2/TUIC 也要备 CDN 节点](https://x.com/ygkkkg/status/2116090765218922831)** — 最近 GFW 封锁 TCP 端口，很多人从 Vless-reality 转到 HY2 或 TUIC，作者建议再备一个 CDN 节点，三方案共存。  
-  @ygkkkg · 2026-10-30
-- **[手机远程开机：Cloudflare Tunnel 内网穿透](https://x.com/suversal/status/2115691350108840180)** — 没有公网 IP 也能靠免费的 Cloudflare Tunnel 远程唤醒家里电脑、管理路由器。  
-  @suversal · 2026-10-29
-- **[甲骨文免费 ARM 服务器申请经验](https://x.com/0xjackkk/status/2115652864945353186)** — 作者公开申请甲骨文龟壳的经验，核心是设备纯净、IP 纯净和本人银行卡三者串联。  
-  @0xjackkk · 2026-10-29
-- **[Cloudflare Tunnel 内网穿透保姆级教程](https://x.com/suversal/status/2115319987493847341)** — 不要公网 IP、不开端口，用免费的 Cloudflare Tunnel 在外面直接访问家里 NAS 和路由器后台的详细教程。  
-  @suversal · 2026-10-28
-- **[VPS 被墙的三种应对方法](https://x.com/InfiCheesy/status/2115135555579326602)** — 针对 GFW 封锁海外服务器 TCP 连接，推荐改用 UDP 节点（Hy2/TUIC）、IPv6 节点或 Cloudflare CDN 应急。  
-  @InfiCheesy · 2026-10-28
-- **[Claude Code 专用 VPS 选购网站](https://x.com/app_sail/status/2115126953825185925)** — 作者做了一个为 Claude Code 精选 VPS 的网站，可按运营商和线路筛选，提供测试 IP、延迟和优惠码自动更新。  
-  @app_sail · 2026-10-28
-- **[InstaBox 4 核 8G 免费云主机保姆级教程](https://x.com/Ylj158852/status/2114980778899845132)** — 零元领取 InstaBox 4 核 8G 云主机的步骤，附保活防暂停方法。  
-  @Ylj158852 · 2026-10-27
-- **[免费领 Google GCP VPS，配合 Muse 一键开通](https://x.com/morganxu45/status/2114974286649929852)** — 推荐 InstaBox 之外再领 GCP 免费服务器 24 小时在线，Pro 会员每月 10 美元额度，附 Muse skill。  
-  @morganxu45 · 2026-10-27
-- **[DediRock 美国 VPS 年付 9.88 美元特价](https://x.com/gwvpsceping/status/2114295918342156443)** — 纽约、洛杉矶双节点，1 核 2G、30G SSD、2TB 月流量，适合建站和测试。  
-  @gwvpsceping · 2026-10-25
-- **[免费 VPS 推荐安装的 10 个开源项目](https://x.com/0xjackkk/status/2114043891716612409)** — 甲骨文免费 ARM 开出来后可部署 Uptime Kuma、New API、Vaultwarden 等实用开源项目。  
-  @0xjackkk · 2026-10-25
-- **[白嫖的 GCP VPS 能干什么](https://x.com/NkaNkOMG/status/2113976760786387147)** — 小内存云服务器的九种玩法：建站、监控、RSS、推送、Git 仓库、API、定时任务、Tailscale 组网和学 Linux。  
-  @NkaNkOMG · 2026-10-24
-- **[DediRock 美国 VPS 年付 9.88 美元起](https://x.com/gwvpsceping/status/2113606354053235051)** — DediRock 纽约/洛杉矶 VPS 年付特价，1核2G，下单后可发工单申请流量翻倍和 IPv6。  
-  @gwvpsceping · 2026-10-23
-- **[开源 VPS 探针 Komari 部署教程](https://x.com/0xjackkk/status/2113596424248336670)** — 多台 VPS 集中监控的开源面板 Komari 介绍，附面板与 Agent 的 AI 部署提示词。  
-  @0xjackkk · 2026-10-23
-- **[3 个 GitHub VPS 测评神器](https://x.com/0xjackkk/status/2113422170957459661)** — 推荐融合怪 ECS、NodeQuality、YABS 三个 VPS 测评脚本，买完小鸡先测 IP 质量、回程和速度。  
-  @0xjackkk · 2026-10-23
-- **[VMISS洛杉矶三网TRI放货预告](https://x.com/vpsing_de/status/2112584484277375231)** — VMISS将放出洛杉矶最便宜的三网优化TRI机器。  
-  @vpsing_de · 2026-10-21
-- **[黑五VPS重点商家清单](https://x.com/0xjackkk/status/2112459283740926175)** — 整理VMISS、绿云、RackNerd等5家黑五重点蹲守的VPS商家。  
-  @0xjackkk · 2026-10-20
-- **[VMISS美西TRI放货](https://x.com/vpsing_de/status/2112423366267396146)** — VMISS放货美西最便宜三网优化TRI，官网被挤崩。  
-  @vpsing_de · 2026-10-20
-- **[免费备用VPN](https://x.com/yedabinbinah/status/2112177453187948877)** — 推荐一款有美国/日本/台湾节点的免费备用VPN。  
-  @yedabinbinah · 2026-10-19
-- **[2026免费VPN/机场合集](https://x.com/hodu382759/status/2111845679496942039)** — 6款免费工具加5款付费备选的翻墙工具合集。  
-  @hodu382759 · 2026-10-18
-- **[白嫖甲骨文云搭节点](https://x.com/nirox0216/status/2111339035629363273)** — 注册甲骨文免费VPS自建翻墙节点的完整步骤。  
-  @nirox0216 · 2026-10-17
-- **[GCP小鸡入门全攻略](https://x.com/404jsh/status/2110760221111173524)** — 普通人白嫖谷歌云 VPS 的入门教程，建议先用 300 美元额度把节点玩明白。  
-  @404jsh · 2026-10-15
-- **[RakSmart双11/黑五秒杀](https://x.com/gwvpsceping/status/2110695214524600367)** — RakSmart 2026 双11与黑五促销，VPS 低至 $1.99/月、独立服务器 $29.9 起。  
-  @gwvpsceping · 2026-10-15
-- **[蚂蚁漫画网络技术系列](https://x.com/antsBTW/status/2110161589546664185)** — 用漫画讲解VPS、节点、VLESS+REALITY、HY2及GFW原理的系列合集。  
-  @antsBTW · 2026-10-14
-- **[1分钟解决DNS泄露](https://x.com/PanXing0827/status/2109909072606876003)** — 小火箭Shadowrocket导入防DNS泄露配置的方法。  
-  @PanXing0827 · 2026-10-13
-- **[翻墙泄漏检测](https://x.com/Jamesmv49/status/2109849146849206352)** — DNS、WebRTC等泄漏检测网站，防止暴露真实IP被封号。  
-  @Jamesmv49 · 2026-10-13
-- **[Clash Verge换v2rayN](https://x.com/baofuzailushang/status/2109494164539011394)** — 电脑代理掉线后改用v2rayN，网络更稳定。  
-  @baofuzailushang · 2026-10-12
-- **[2026最强翻墙工具清单](https://x.com/404jsh/status/2109321637539746006)** — 整理2026年主流翻墙工具清单。  
-  @404jsh · 2026-10-12
-- **[手把手白嫖 Google Cloud 永久免费 VPS（2026 版）](https://x.com/de_badcat/status/2108835879519506458)** — GCP e2-micro 永久免费实例的申请与配置避坑教程，包括绑卡预授权、区域、磁盘、网络层级等。  
-  @de_badcat · 2026-10-10
-- **[2026年VPS选购指南](https://x.com/suversal/status/2108829483100954990)** — 从线路、机房、套餐全面讲解VPS选购。  
-  @suversal · 2026-10-10
-- **[两个常用科学上网脚本](https://x.com/PanXing0827/status/2108810788945498434)** — 科技lion VPS优化脚本与甬哥一键多协议节点脚本。  
-  @PanXing0827 · 2026-10-10
-- **[VPS一键体检脚本](https://x.com/wlzh/status/2108440359319609432)** — 一行命令测试VPS硬件、IP质量和网络。  
-  @wlzh · 2026-10-09
-- **[科学上网工具资料站](https://x.com/shenxiankk/status/2107990608241480080)** — 收录Clash、sing-box等149款客户端的分类资料站。  
-  @shenxiankk · 2026-10-08
-- **[学翻墙的8个YouTube频道](https://x.com/wangchangfu88/status/2107455840991027412)** — 推荐不良林、零度解说等翻墙技术频道。  
-  @wangchangfu88 · 2026-10-06
-- **[Mac做全家翻墙网关](https://x.com/mason0x_/status/2106227929139036601)** — 不买软路由，用Mac让全家Wi-Fi翻墙，iPhone回家自动关梯子。  
-  @mason0x_ · 2026-10-03
-- **[Webshare 静态住宅 IP 购买与链式代理教程](https://x.com/SecJack96/status/2106032804811407565)** — 约 16 美元买两个静态住宅 IP 用一年，详解注册购买、挑选 ASN 和 Clash 链式代理配置。  
-  @SecJack96 · 2026-10-02
-- **[VMISS美西三网VPS](https://x.com/leeking420/status/2105869992139071963)** — 比DMIT便宜的美西三网VPS，年付约144元。  
-  @leeking420 · 2026-10-02
-- **[自购VPS搭出海节点实战](https://x.com/fly3nn/status/2105308049183305843)** — VPS选购、配置、优化与避坑全流程。  
-  @fly3nn · 2026-09-30
-- **[美国家宽住宅IP推荐](https://x.com/mjjwiki/status/2104462663405420773)** — 推荐resip.net美国家宽纯净住宅IP，适合跨境、自媒体和养AI账号，1天套餐约1.2元。  
-  @mjjwiki · 2026-09-28
-- **[Tailscale+Cloudflare Tunnel](https://x.com/canmi21/status/2104352456213746142)** — 家庭与VPS服务零公网暴露的内网穿透方案。  
-  @canmi21 · 2026-09-28
-- **[出海网络IP体检工具实测](https://x.com/fly3nn/status/2104147734408446188)** — 6款IP检测工具实测与理性选型。  
-  @fly3nn · 2026-09-27
-- **[自建纯净IP防封号](https://x.com/zureA255062/status/2104017475226767708)** — 自建稳定纯净IP，用于Claude/GPT及社媒运营。  
-  @zureA255062 · 2026-09-27
-- **[自建VPN搭建Skill](https://x.com/tcoin_b/status/2103823409193124272)** — 开源一个让Agent自动搭建VPN的Skill及VPS推荐。  
-  @tcoin_b · 2026-09-26
-- **[家宽IP保姆级教程](https://x.com/xmglab/status/2100905170771349729)** — 高性价比家庭宽带IP的配置教程。  
-  @xmglab · 2026-09-18
-- **[VPS换家庭宽带IP](https://x.com/xmglab/status/2100872966217371735)** — 几十元一年把VPS机房IP换成家宽IP。  
-  @xmglab · 2026-09-18
-- **[每月 2 元自建 VPN 教程](https://x.com/mjjwiki/status/2100453699659366890)** — 用每月约 2 元的新加坡 NAT 小鸡搭 3x-ui，十分钟搭出固定 IP、比机场干净的自用 VPN。  
-  @mjjwiki · 2026-09-17
-- **[口碑机场推荐](https://x.com/vpsing_de/status/2100168034422063425)** — 回复中推荐的一家口碑机场。  
-  @vpsing_de · 2026-09-16
-- **[高质量美国住宅IP](https://x.com/jaylenngx/status/2100018648597635194)** — 干净易用的美国住宅IP方案。  
-  @jaylenngx · 2026-09-16
-- **[25个机场实测](https://x.com/bballer_530/status/2098792662551998673)** — X友推荐的25个机场持续实测。  
-  @bballer_530 · 2026-09-12
-- **[老牌机场推荐](https://x.com/mjjwiki/status/2098603711362937262)** — 10年+机场，9.9元/月体验套餐及优惠码。  
-  @mjjwiki · 2026-09-12
-- **[配好代理分流规则](https://x.com/gkxspace/status/2094386340645216468)** — 分流规则不当导致IP乱跳、流量耗尽的踩坑经验。  
-  @gkxspace · 2026-08-31
-- **[60元搭建VLESS+Reality](https://x.com/xaiwind/status/2067050155015340111)** — 双ISP服务器+Sing-box搭建VPN的小白指引。  
-  @xaiwind · 2026-06-17
-
-<a id="cat-2"></a>
-
-## 自媒体运营与赚钱（59）
-
+- **[GPT Image 定制微信红包封面教程](https://x.com/Leviwoyun/status/2122997952658727372)** — 作者分享用 GPT Image 做定制微信红包封面的全流程，称学会后可到小红书或闲鱼接单，并说大约 5 分钟出图、转手可卖 10 块。  
+  @Leviwoyun · 2026-11-18
+- **[小红书邪修起号教程](https://x.com/Yooeec3/status/2122271597851791640)** — 一篇小红书起号教程，作者称这套方法自己用过两次，最新一个号四天起号，内容从确定方向、拆对标、冷启动做到涨粉和承接。  
+  @Yooeec3 · 2026-11-16
 - **[蹭热点公众号写作赚流量主收益](https://x.com/liyue_ai/status/2119986844486267061)** — 作者靠同步热点话题的公众号文章，一天就拿到 32 元流量主收益，认为内容说清热点即可。  
   @liyue_ai · 2026-11-10
 - **[小红书起号保姆级教程](https://x.com/bbkirstry/status/2119430655390122208)** — 小晚写给新手的国内社媒起号教程，讲从找对标、选题到出摊和商业化。  
@@ -445,10 +330,137 @@
 - **[公众号日更 60 天变现 1 万+复盘](https://x.com/wangzan101/status/2009124320157593617)** — 研究生泛类公众号日更两个月涨粉九千、6 篇 10w+，复盘选题、算法与流量主/广告变现。  
   @wangzan101 · 2026-01-08
 
+<a id="cat-2"></a>
+
+## 翻墙 / VPS / 网络节点（59）
+
+- **[新手自建节点建议](https://x.com/InfiCheesy/status/2119391434688356496)** — 建议平时用 vless+tcp+reality 或 vmess+ws+tls，机器很差时才考虑 UDP 节点。  
+  @InfiCheesy · 2026-11-08
+- **[低价 VPN 机场推荐](https://x.com/VAlexanderYang/status/2119307171318092135)** — 推荐一家 ¥2.8/月起、不限速不限设备的机场，主打 DMIT 三网优化和解锁 AI。  
+  @VAlexanderYang · 2026-11-08
+- **[几家常用 VPN 的真实缺点盘点](https://x.com/sosuke997/status/2118646076681138649)** — 抛开吹捧直说天机云、TAG、PP、Nvenix、TTCLOUD 等常见 VPN 在延迟、价格、客服和节点上的短板。  
+  @sosuke997 · 2026-11-06
+- **[Tailscale + 美国 VPS 隔离 Claude 凭证](https://x.com/vincemask/status/2117597043128783178)** — 用 Tailscale 把本地电脑和美国 VPS 组成私网，Claude 凭证只放 VPS，本地用 Magpie 远程调用。  
+  @vincemask · 2026-11-03
+- **[30元/月美国双ISP住宅IP VPS](https://x.com/Leo_zhang2018/status/2116899881810116700)** — 推荐NovixLink洛杉矶双ISP静态住宅IP VPS，作为精品线路后的便宜落地出口。  
+  @Leo_zhang2018 · 2026-11-01
+- **[自建梯子推荐Snell协议](https://x.com/CMhOeNnExY/status/2116898159385592008)** — 作者分享自建代理用Snell半年稳定，特征冷门不易识别，并谈Mac mini软路由。  
+  @CMhOeNnExY · 2026-11-01
+- **[用changedetection监控VPS降价](https://x.com/Lovislexus/status/2116841009112084643)** — 推荐开源工具changedetection自动监控VPS降价、补货并通过Telegram提醒。  
+  @Lovislexus · 2026-11-01
+- **[黑五VPS厂商对比：RackNerd](https://x.com/jojeangsaing/status/2116838434065265024)** — 拆解RackNerd年付促销各档配置与优缺点，适合预算敏感的美区落地和自建小服务。  
+  @jojeangsaing · 2026-11-01
+- **[99% 的人用不上的网络](https://x.com/Feng6v/status/2116116774077010310)** — 作者晒出自己的网络配置截图，调侃大多数人用不上这种网络。  
+  @Feng6v · 2026-10-30
+- **[GFW 封 TCP 后 HY2/TUIC 也要备 CDN 节点](https://x.com/ygkkkg/status/2116090765218922831)** — 最近 GFW 封锁 TCP 端口，很多人从 Vless-reality 转到 HY2 或 TUIC，作者建议再备一个 CDN 节点，三方案共存。  
+  @ygkkkg · 2026-10-30
+- **[手机远程开机：Cloudflare Tunnel 内网穿透](https://x.com/suversal/status/2115691350108840180)** — 没有公网 IP 也能靠免费的 Cloudflare Tunnel 远程唤醒家里电脑、管理路由器。  
+  @suversal · 2026-10-29
+- **[甲骨文免费 ARM 服务器申请经验](https://x.com/0xjackkk/status/2115652864945353186)** — 作者公开申请甲骨文龟壳的经验，核心是设备纯净、IP 纯净和本人银行卡三者串联。  
+  @0xjackkk · 2026-10-29
+- **[Cloudflare Tunnel 内网穿透保姆级教程](https://x.com/suversal/status/2115319987493847341)** — 不要公网 IP、不开端口，用免费的 Cloudflare Tunnel 在外面直接访问家里 NAS 和路由器后台的详细教程。  
+  @suversal · 2026-10-28
+- **[VPS 被墙的三种应对方法](https://x.com/InfiCheesy/status/2115135555579326602)** — 针对 GFW 封锁海外服务器 TCP 连接，推荐改用 UDP 节点（Hy2/TUIC）、IPv6 节点或 Cloudflare CDN 应急。  
+  @InfiCheesy · 2026-10-28
+- **[Claude Code 专用 VPS 选购网站](https://x.com/app_sail/status/2115126953825185925)** — 作者做了一个为 Claude Code 精选 VPS 的网站，可按运营商和线路筛选，提供测试 IP、延迟和优惠码自动更新。  
+  @app_sail · 2026-10-28
+- **[InstaBox 4 核 8G 免费云主机保姆级教程](https://x.com/Ylj158852/status/2114980778899845132)** — 零元领取 InstaBox 4 核 8G 云主机的步骤，附保活防暂停方法。  
+  @Ylj158852 · 2026-10-27
+- **[免费领 Google GCP VPS，配合 Muse 一键开通](https://x.com/morganxu45/status/2114974286649929852)** — 推荐 InstaBox 之外再领 GCP 免费服务器 24 小时在线，Pro 会员每月 10 美元额度，附 Muse skill。  
+  @morganxu45 · 2026-10-27
+- **[DediRock 美国 VPS 年付 9.88 美元特价](https://x.com/gwvpsceping/status/2114295918342156443)** — 纽约、洛杉矶双节点，1 核 2G、30G SSD、2TB 月流量，适合建站和测试。  
+  @gwvpsceping · 2026-10-25
+- **[免费 VPS 推荐安装的 10 个开源项目](https://x.com/0xjackkk/status/2114043891716612409)** — 甲骨文免费 ARM 开出来后可部署 Uptime Kuma、New API、Vaultwarden 等实用开源项目。  
+  @0xjackkk · 2026-10-25
+- **[白嫖的 GCP VPS 能干什么](https://x.com/NkaNkOMG/status/2113976760786387147)** — 小内存云服务器的九种玩法：建站、监控、RSS、推送、Git 仓库、API、定时任务、Tailscale 组网和学 Linux。  
+  @NkaNkOMG · 2026-10-24
+- **[DediRock 美国 VPS 年付 9.88 美元起](https://x.com/gwvpsceping/status/2113606354053235051)** — DediRock 纽约/洛杉矶 VPS 年付特价，1核2G，下单后可发工单申请流量翻倍和 IPv6。  
+  @gwvpsceping · 2026-10-23
+- **[开源 VPS 探针 Komari 部署教程](https://x.com/0xjackkk/status/2113596424248336670)** — 多台 VPS 集中监控的开源面板 Komari 介绍，附面板与 Agent 的 AI 部署提示词。  
+  @0xjackkk · 2026-10-23
+- **[3 个 GitHub VPS 测评神器](https://x.com/0xjackkk/status/2113422170957459661)** — 推荐融合怪 ECS、NodeQuality、YABS 三个 VPS 测评脚本，买完小鸡先测 IP 质量、回程和速度。  
+  @0xjackkk · 2026-10-23
+- **[VMISS洛杉矶三网TRI放货预告](https://x.com/vpsing_de/status/2112584484277375231)** — VMISS将放出洛杉矶最便宜的三网优化TRI机器。  
+  @vpsing_de · 2026-10-21
+- **[黑五VPS重点商家清单](https://x.com/0xjackkk/status/2112459283740926175)** — 整理VMISS、绿云、RackNerd等5家黑五重点蹲守的VPS商家。  
+  @0xjackkk · 2026-10-20
+- **[VMISS美西TRI放货](https://x.com/vpsing_de/status/2112423366267396146)** — VMISS放货美西最便宜三网优化TRI，官网被挤崩。  
+  @vpsing_de · 2026-10-20
+- **[免费备用VPN](https://x.com/yedabinbinah/status/2112177453187948877)** — 推荐一款有美国/日本/台湾节点的免费备用VPN。  
+  @yedabinbinah · 2026-10-19
+- **[2026免费VPN/机场合集](https://x.com/hodu382759/status/2111845679496942039)** — 6款免费工具加5款付费备选的翻墙工具合集。  
+  @hodu382759 · 2026-10-18
+- **[白嫖甲骨文云搭节点](https://x.com/nirox0216/status/2111339035629363273)** — 注册甲骨文免费VPS自建翻墙节点的完整步骤。  
+  @nirox0216 · 2026-10-17
+- **[GCP小鸡入门全攻略](https://x.com/404jsh/status/2110760221111173524)** — 普通人白嫖谷歌云 VPS 的入门教程，建议先用 300 美元额度把节点玩明白。  
+  @404jsh · 2026-10-15
+- **[RakSmart双11/黑五秒杀](https://x.com/gwvpsceping/status/2110695214524600367)** — RakSmart 2026 双11与黑五促销，VPS 低至 $1.99/月、独立服务器 $29.9 起。  
+  @gwvpsceping · 2026-10-15
+- **[蚂蚁漫画网络技术系列](https://x.com/antsBTW/status/2110161589546664185)** — 用漫画讲解VPS、节点、VLESS+REALITY、HY2及GFW原理的系列合集。  
+  @antsBTW · 2026-10-14
+- **[1分钟解决DNS泄露](https://x.com/PanXing0827/status/2109909072606876003)** — 小火箭Shadowrocket导入防DNS泄露配置的方法。  
+  @PanXing0827 · 2026-10-13
+- **[翻墙泄漏检测](https://x.com/Jamesmv49/status/2109849146849206352)** — DNS、WebRTC等泄漏检测网站，防止暴露真实IP被封号。  
+  @Jamesmv49 · 2026-10-13
+- **[Clash Verge换v2rayN](https://x.com/baofuzailushang/status/2109494164539011394)** — 电脑代理掉线后改用v2rayN，网络更稳定。  
+  @baofuzailushang · 2026-10-12
+- **[2026最强翻墙工具清单](https://x.com/404jsh/status/2109321637539746006)** — 整理2026年主流翻墙工具清单。  
+  @404jsh · 2026-10-12
+- **[手把手白嫖 Google Cloud 永久免费 VPS（2026 版）](https://x.com/de_badcat/status/2108835879519506458)** — GCP e2-micro 永久免费实例的申请与配置避坑教程，包括绑卡预授权、区域、磁盘、网络层级等。  
+  @de_badcat · 2026-10-10
+- **[2026年VPS选购指南](https://x.com/suversal/status/2108829483100954990)** — 从线路、机房、套餐全面讲解VPS选购。  
+  @suversal · 2026-10-10
+- **[两个常用科学上网脚本](https://x.com/PanXing0827/status/2108810788945498434)** — 科技lion VPS优化脚本与甬哥一键多协议节点脚本。  
+  @PanXing0827 · 2026-10-10
+- **[VPS一键体检脚本](https://x.com/wlzh/status/2108440359319609432)** — 一行命令测试VPS硬件、IP质量和网络。  
+  @wlzh · 2026-10-09
+- **[科学上网工具资料站](https://x.com/shenxiankk/status/2107990608241480080)** — 收录Clash、sing-box等149款客户端的分类资料站。  
+  @shenxiankk · 2026-10-08
+- **[学翻墙的8个YouTube频道](https://x.com/wangchangfu88/status/2107455840991027412)** — 推荐不良林、零度解说等翻墙技术频道。  
+  @wangchangfu88 · 2026-10-06
+- **[Mac做全家翻墙网关](https://x.com/mason0x_/status/2106227929139036601)** — 不买软路由，用Mac让全家Wi-Fi翻墙，iPhone回家自动关梯子。  
+  @mason0x_ · 2026-10-03
+- **[Webshare 静态住宅 IP 购买与链式代理教程](https://x.com/SecJack96/status/2106032804811407565)** — 约 16 美元买两个静态住宅 IP 用一年，详解注册购买、挑选 ASN 和 Clash 链式代理配置。  
+  @SecJack96 · 2026-10-02
+- **[VMISS美西三网VPS](https://x.com/leeking420/status/2105869992139071963)** — 比DMIT便宜的美西三网VPS，年付约144元。  
+  @leeking420 · 2026-10-02
+- **[自购VPS搭出海节点实战](https://x.com/fly3nn/status/2105308049183305843)** — VPS选购、配置、优化与避坑全流程。  
+  @fly3nn · 2026-09-30
+- **[美国家宽住宅IP推荐](https://x.com/mjjwiki/status/2104462663405420773)** — 推荐resip.net美国家宽纯净住宅IP，适合跨境、自媒体和养AI账号，1天套餐约1.2元。  
+  @mjjwiki · 2026-09-28
+- **[出海网络IP体检工具实测](https://x.com/fly3nn/status/2104147734408446188)** — 6款IP检测工具实测与理性选型。  
+  @fly3nn · 2026-09-27
+- **[自建纯净IP防封号](https://x.com/zureA255062/status/2104017475226767708)** — 自建稳定纯净IP，用于Claude/GPT及社媒运营。  
+  @zureA255062 · 2026-09-27
+- **[自建VPN搭建Skill](https://x.com/tcoin_b/status/2103823409193124272)** — 开源一个让Agent自动搭建VPN的Skill及VPS推荐。  
+  @tcoin_b · 2026-09-26
+- **[家宽IP保姆级教程](https://x.com/xmglab/status/2100905170771349729)** — 高性价比家庭宽带IP的配置教程。  
+  @xmglab · 2026-09-18
+- **[VPS换家庭宽带IP](https://x.com/xmglab/status/2100872966217371735)** — 几十元一年把VPS机房IP换成家宽IP。  
+  @xmglab · 2026-09-18
+- **[每月 2 元自建 VPN 教程](https://x.com/mjjwiki/status/2100453699659366890)** — 用每月约 2 元的新加坡 NAT 小鸡搭 3x-ui，十分钟搭出固定 IP、比机场干净的自用 VPN。  
+  @mjjwiki · 2026-09-17
+- **[口碑机场推荐](https://x.com/vpsing_de/status/2100168034422063425)** — 回复中推荐的一家口碑机场。  
+  @vpsing_de · 2026-09-16
+- **[高质量美国住宅IP](https://x.com/jaylenngx/status/2100018648597635194)** — 干净易用的美国住宅IP方案。  
+  @jaylenngx · 2026-09-16
+- **[25个机场实测](https://x.com/bballer_530/status/2098792662551998673)** — X友推荐的25个机场持续实测。  
+  @bballer_530 · 2026-09-12
+- **[老牌机场推荐](https://x.com/mjjwiki/status/2098603711362937262)** — 10年+机场，9.9元/月体验套餐及优惠码。  
+  @mjjwiki · 2026-09-12
+- **[配好代理分流规则](https://x.com/gkxspace/status/2094386340645216468)** — 分流规则不当导致IP乱跳、流量耗尽的踩坑经验。  
+  @gkxspace · 2026-08-31
+- **[60元搭建VLESS+Reality](https://x.com/xaiwind/status/2067050155015340111)** — 双ISP服务器+Sing-box搭建VPN的小白指引。  
+  @xaiwind · 2026-06-17
+
 <a id="cat-3"></a>
 
-## AI 编程与开发工具（47）
+## AI 编程与开发工具（49）
 
+- **[Pake 支持桌面端打包网页应用](https://x.com/HiTw93/status/2122960402665668728)** — Pake 新增桌面端，可以把网页一键打包成 Mac、Windows、Linux 应用，并内置约 500 个网站配置和去广告插件；命令行版仍免费开源。  
+  @HiTw93 · 2026-11-18
+- **[用 Agent 干活常用的两句 Prompt](https://x.com/Khazix0918/status/2122268349707219333)** — 作者分享最近两个月用 Agent 干活最常用的两句提示词：从第一性原理找原因再修复，以及先提问对齐喜好再出三版方案。  
+  @Khazix0918 · 2026-11-16
 - **[Herdr：统管多个 AI Agent 的工作台](https://x.com/suversal/status/2120057757487489424)** — 介绍 Herdr，一款把多个项目里的 Claude Code、Codex 等 AI Agent 收进同一工作台，可查看状态并一键跳转的管理工具。  
   @suversal · 2026-11-10
 - **[CC Desk Tunnel：Claude 跑 VPS、文件留本地](https://x.com/JustLikeBit/status/2119350968743563340)** — 开源工具，让 VPS 上的 Claude Code 通过通道直接读写本地文件、跑命令，并提醒防封风险。  
@@ -627,8 +639,12 @@
 
 <a id="cat-5"></a>
 
-## Claude·ChatGPT 账号与订阅（30）
+## Claude·ChatGPT 账号与订阅（32）
 
+- **[Claude 订阅保姆级教程](https://x.com/yaohui12138/status/2123039274002153770)** — 作者称在多次封号和试错后，整理出一套相对稳健的 Claude 订阅教程，并配了视频。  
+  @yaohui12138 · 2026-11-18
+- **[Claude KYC 操作演示](https://x.com/soyes689/status/2122690965236588897)** — 作者发视频展示 Claude KYC 的操作，并感叹原来是这样做的。  
+  @soyes689 · 2026-11-17
 - **[Claude KYC 与门户验证代办](https://x.com/sankenainai/status/2121840599418683751)** — 作者新上架 Claude KYC 验证和门户验证代办，标价 KYC 100、门户验证 240，称不通过或封号可退款，并说接单两天全部通过、大约 30 分钟出结果。  
   @sankenainai · 2026-11-15
 - **[查询 Claude 账号是否通过 KYC](https://x.com/feishutoday/status/2119456566365835464)** — 教你用浏览器访问接口，根据 status 字段判断 Claude 账号升级是否需要或已通过 KYC。  
@@ -748,8 +764,10 @@
 
 <a id="cat-8"></a>
 
-## 银行卡与支付（8）
+## 银行卡与支付（9）
 
+- **[Infini Lite 虚拟卡申请与 Claude 付款](https://x.com/Pluvio9yte/status/2123030650559299611)** — 作者分享 Infini Lite 虚拟卡申请步骤，并称自己用护照完成 KYC 后，用这张卡订阅 Claude Max 时秒过且未封号。  
+  @Pluvio9yte · 2026-11-18
 - **[从买Claude到云居民](https://x.com/qwerty__cs/status/2111704218608472143)** — 作者回顾为订阅AI学会U卡、港卡、美卡、PayPal等海外金融工具的历程。  
   @qwerty__cs · 2026-10-18
 - **[Starryblu六边形战士卡](https://x.com/mjjwiki/status/2110377155716849846)** — 介绍兼具 Wise、港卡、U 卡优点的 Starryblu，可免费换汇、资金回国和订阅海外 AI。  
