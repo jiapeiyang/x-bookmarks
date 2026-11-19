@@ -2,12 +2,12 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **362** 条书签 · 最后更新：2026-11-19 02:13（北京时间）
+共 **365** 条书签 · 最后更新：2026-11-19 09:17（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 91 条
-- [自媒体运营与赚钱](#cat-1) — 61 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 92 条
+- [自媒体运营与赚钱](#cat-1) — 63 条
 - [翻墙 / VPS / 网络节点](#cat-2) — 59 条
 - [AI 编程与开发工具](#cat-3) — 49 条
 - [Grok Bot 玩法](#cat-4) — 38 条
@@ -18,7 +18,7 @@
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（91）
+## AI 创作（视频/游戏/3D）（92）
 
 - **[开源 lemo-animi 定格动画 Skill](https://x.com/lemomo_ai/status/2123038832815907084)** — 作者发布开源 skill lemo-animi，用一句话让 Codex 或 Claude Code 从故事、角色、分镜做到配乐，生成定格动画短片。  
   @lemomo_ai · 2026-11-18
@@ -26,6 +26,8 @@
   @nima2qisi2 · 2026-11-18
 - **[Gemini 4 + Antigravity 全自动出片](https://x.com/leaf_sanren/status/2122673250778194327)** — 长文讲如何用 Gemini 4 和 Antigravity 跑通自动出片：看参考视频、反推提示词并生成成片，并附上可复制的 Agent 指令。作者称 Google AI 会员自带额度也能用。  
   @leaf_sanren · 2026-11-17
+- **[Seedance + Claude/Codex 保姆级出片教程](https://x.com/goan999999/status/2122559931341832593)** — 一篇从分镜到成片的 AI 动画教程，讲解如何用 Seedance 搭配 Claude 或 Codex 出片，并附上完整提示词。  
+  @goan999999 · 2026-11-17
 - **[Fable 5.2 寓言乘风视频](https://x.com/lemomo_ai/status/2120118194409193682)** — 作者用 Fable 5.2 做的一支图书馆里万页寓言乘风飞舞的短片，致敬 Claude。  
   @lemomo_ai · 2026-11-10
 - **[Claude Code + Higgsfield 批量做 AI 动画](https://x.com/BeyondTheBoxCN/status/2119800359367401734)** — 拆解一条 15 秒爆款 AI 动画的方案：用 Claude Code 连接 Higgsfield，保持角色一致并批量出片。  
@@ -205,10 +207,14 @@
 
 <a id="cat-1"></a>
 
-## 自媒体运营与赚钱（61）
+## 自媒体运营与赚钱（63）
 
 - **[GPT Image 定制微信红包封面教程](https://x.com/Leviwoyun/status/2122997952658727372)** — 作者分享用 GPT Image 做定制微信红包封面的全流程，称学会后可到小红书或闲鱼接单，并说大约 5 分钟出图、转手可卖 10 块。  
   @Leviwoyun · 2026-11-18
+- **[Skill 全自动出片起号](https://x.com/GrayNoteLab/status/2122974136263999591)** — 作者用 skill 工具自动生成并剪辑 2 分钟视频，全程约 7 分半，称一天发两条到视频号，半个月涨了一批中老年粉丝。  
+  @GrayNoteLab · 2026-11-18
+- **[用 skill 复刻爆款视频起号变现](https://x.com/GrayNoteLab/status/2122963734536589800)** — 长文讲用 Renoise 的 skill 复刻对标账号的中老年故事向 AI 视频，全自动生成并剪辑后放到视频号橱窗带货。  
+  @GrayNoteLab · 2026-11-18
 - **[小红书邪修起号教程](https://x.com/Yooeec3/status/2122271597851791640)** — 一篇小红书起号教程，作者称这套方法自己用过两次，最新一个号四天起号，内容从确定方向、拆对标、冷启动做到涨粉和承接。  
   @Yooeec3 · 2026-11-16
 - **[蹭热点公众号写作赚流量主收益](https://x.com/liyue_ai/status/2119986844486267061)** — 作者靠同步热点话题的公众号文章，一天就拿到 32 元流量主收益，认为内容说清热点即可。  
