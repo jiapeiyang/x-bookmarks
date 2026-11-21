@@ -2,13 +2,13 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **365** 条书签 · 最后更新：2026-11-19 09:17（北京时间）
+共 **367** 条书签 · 最后更新：2026-11-21 09:27（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 92 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 93 条
 - [自媒体运营与赚钱](#cat-1) — 63 条
-- [翻墙 / VPS / 网络节点](#cat-2) — 59 条
+- [翻墙 / VPS / 网络节点](#cat-2) — 60 条
 - [AI 编程与开发工具](#cat-3) — 49 条
 - [Grok Bot 玩法](#cat-4) — 38 条
 - [Claude·ChatGPT 账号与订阅](#cat-5) — 32 条
@@ -18,8 +18,10 @@
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（92）
+## AI 创作（视频/游戏/3D）（93）
 
+- **[AI 短片：偷光的小刺猬](https://x.com/HaileyAILabs/status/2123586876003303540)** — 作者做了一支 AI 短片：小刺猬偷光被抓包后拔腿就跑，一路漏掉的星光点亮花朵，最后唤醒了枯死的神树和沉睡的精灵。  
+  @HaileyAILabs · 2026-11-20
 - **[开源 lemo-animi 定格动画 Skill](https://x.com/lemomo_ai/status/2123038832815907084)** — 作者发布开源 skill lemo-animi，用一句话让 Codex 或 Claude Code 从故事、角色、分镜做到配乐，生成定格动画短片。  
   @lemomo_ai · 2026-11-18
 - **[用 ChatGPT 6.2 重做《小红帽》绘本动画](https://x.com/nima2qisi2/status/2123015867730420005)** — 作者用 ChatGPT 6.2 重做一部《小红帽》童话绘本动画，称为此用掉两张重置卡，并说也可以按同样方式做自己的童话动画。  
@@ -338,7 +340,7 @@
 
 <a id="cat-2"></a>
 
-## 翻墙 / VPS / 网络节点（59）
+## 翻墙 / VPS / 网络节点（60）
 
 - **[新手自建节点建议](https://x.com/InfiCheesy/status/2119391434688356496)** — 建议平时用 vless+tcp+reality 或 vmess+ws+tls，机器很差时才考虑 UDP 节点。  
   @InfiCheesy · 2026-11-08
@@ -434,6 +436,8 @@
   @fly3nn · 2026-09-30
 - **[美国家宽住宅IP推荐](https://x.com/mjjwiki/status/2104462663405420773)** — 推荐resip.net美国家宽纯净住宅IP，适合跨境、自媒体和养AI账号，1天套餐约1.2元。  
   @mjjwiki · 2026-09-28
+- **[Tailscale+Cloudflare Tunnel](https://x.com/canmi21/status/2104352456213746142)** — 家庭与VPS服务零公网暴露的内网穿透方案。  
+  @canmi21 · 2026-09-28
 - **[出海网络IP体检工具实测](https://x.com/fly3nn/status/2104147734408446188)** — 6款IP检测工具实测与理性选型。  
   @fly3nn · 2026-09-27
 - **[自建纯净IP防封号](https://x.com/zureA255062/status/2104017475226767708)** — 自建稳定纯净IP，用于Claude/GPT及社媒运营。  
