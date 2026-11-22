@@ -2,24 +2,26 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **367** 条书签 · 最后更新：2026-11-21 09:27（北京时间）
+共 **370** 条书签 · 最后更新：2026-11-22 09:23（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 93 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 94 条
 - [自媒体运营与赚钱](#cat-1) — 63 条
 - [翻墙 / VPS / 网络节点](#cat-2) — 60 条
-- [AI 编程与开发工具](#cat-3) — 49 条
+- [AI 编程与开发工具](#cat-3) — 50 条
 - [Grok Bot 玩法](#cat-4) — 38 条
-- [Claude·ChatGPT 账号与订阅](#cat-5) — 32 条
+- [Claude·ChatGPT 账号与订阅](#cat-5) — 33 条
 - [娱乐与其他](#cat-6) — 12 条
 - [学习教育与思维](#cat-7) — 11 条
 - [银行卡与支付](#cat-8) — 9 条
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（93）
+## AI 创作（视频/游戏/3D）（94）
 
+- **[Claude Code 用 Colab A100 跑 MiniMax H3](https://x.com/JacksAISites/status/2124209115031314491)** — 作者在开通 Google AI Pro 后，让 Claude Code 通过 Colab 连接器自行租用 A100，运行 MiniMax H3 生成带声音的小狗视频，并估算了额度消耗和批量出片成本。  
+  @JacksAISites · 2026-11-22
 - **[AI 短片：偷光的小刺猬](https://x.com/HaileyAILabs/status/2123586876003303540)** — 作者做了一支 AI 短片：小刺猬偷光被抓包后拔腿就跑，一路漏掉的星光点亮花朵，最后唤醒了枯死的神树和沉睡的精灵。  
   @HaileyAILabs · 2026-11-20
 - **[开源 lemo-animi 定格动画 Skill](https://x.com/lemomo_ai/status/2123038832815907084)** — 作者发布开源 skill lemo-animi，用一句话让 Codex 或 Claude Code 从故事、角色、分镜做到配乐，生成定格动画短片。  
@@ -465,8 +467,10 @@
 
 <a id="cat-3"></a>
 
-## AI 编程与开发工具（49）
+## AI 编程与开发工具（50）
 
+- **[Antigravity 最新版保姆级实战手册](https://x.com/GeekCatX/status/2124116586105893068)** — 长文按最新版梳理 Google Antigravity 的安装汉化、模型省额度、/swarm 蜂群、视频反推和深度长文写作，并附上可复制的命令与提示词。  
+  @GeekCatX · 2026-11-21
 - **[Pake 支持桌面端打包网页应用](https://x.com/HiTw93/status/2122960402665668728)** — Pake 新增桌面端，可以把网页一键打包成 Mac、Windows、Linux 应用，并内置约 500 个网站配置和去广告插件；命令行版仍免费开源。  
   @HiTw93 · 2026-11-18
 - **[用 Agent 干活常用的两句 Prompt](https://x.com/Khazix0918/status/2122268349707219333)** — 作者分享最近两个月用 Agent 干活最常用的两句提示词：从第一性原理找原因再修复，以及先提问对齐喜好再出三版方案。  
@@ -649,8 +653,10 @@
 
 <a id="cat-5"></a>
 
-## Claude·ChatGPT 账号与订阅（32）
+## Claude·ChatGPT 账号与订阅（33）
 
+- **[全平台低价学生认证渠道](https://x.com/Hesiyu2001/status/2123818721521344907)** — 作者整理了仍有货的低价学生认证渠道，包括日区、美国认证、仅认证和成品号，并给出价格与购买链接。  
+  @Hesiyu2001 · 2026-11-21
 - **[Claude 订阅保姆级教程](https://x.com/yaohui12138/status/2123039274002153770)** — 作者称在多次封号和试错后，整理出一套相对稳健的 Claude 订阅教程，并配了视频。  
   @yaohui12138 · 2026-11-18
 - **[Claude KYC 操作演示](https://x.com/soyes689/status/2122690965236588897)** — 作者发视频展示 Claude KYC 的操作，并感叹原来是这样做的。  
