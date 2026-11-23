@@ -2,26 +2,28 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **370** 条书签 · 最后更新：2026-11-22 09:23（北京时间）
+共 **377** 条书签 · 最后更新：2026-11-23 09:26（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 94 条
-- [自媒体运营与赚钱](#cat-1) — 63 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 96 条
+- [自媒体运营与赚钱](#cat-1) — 65 条
 - [翻墙 / VPS / 网络节点](#cat-2) — 60 条
-- [AI 编程与开发工具](#cat-3) — 50 条
+- [AI 编程与开发工具](#cat-3) — 52 条
 - [Grok Bot 玩法](#cat-4) — 38 条
 - [Claude·ChatGPT 账号与订阅](#cat-5) — 33 条
 - [娱乐与其他](#cat-6) — 12 条
 - [学习教育与思维](#cat-7) — 11 条
-- [银行卡与支付](#cat-8) — 9 条
+- [银行卡与支付](#cat-8) — 10 条
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（94）
+## AI 创作（视频/游戏/3D）（96）
 
 - **[Claude Code 用 Colab A100 跑 MiniMax H3](https://x.com/JacksAISites/status/2124209115031314491)** — 作者在开通 Google AI Pro 后，让 Claude Code 通过 Colab 连接器自行租用 A100，运行 MiniMax H3 生成带声音的小狗视频，并估算了额度消耗和批量出片成本。  
   @JacksAISites · 2026-11-22
+- **[AI 做微信 3D 小游戏过审变现全流程](https://x.com/FiniYang/status/2123725927414972793)** — 长文把用 AI 一句话生成 3D 小游戏、通过微信审核并接流量主变现拆成 4 步施工单，公开开源插件 dsh-game-studio，并附 11 张真机过审截图范本。  
+  @FiniYang · 2026-11-20
 - **[AI 短片：偷光的小刺猬](https://x.com/HaileyAILabs/status/2123586876003303540)** — 作者做了一支 AI 短片：小刺猬偷光被抓包后拔腿就跑，一路漏掉的星光点亮花朵，最后唤醒了枯死的神树和沉睡的精灵。  
   @HaileyAILabs · 2026-11-20
 - **[开源 lemo-animi 定格动画 Skill](https://x.com/lemomo_ai/status/2123038832815907084)** — 作者发布开源 skill lemo-animi，用一句话让 Codex 或 Claude Code 从故事、角色、分镜做到配乐，生成定格动画短片。  
@@ -54,6 +56,8 @@
   @TuyetloanP81840 · 2026-11-08
 - **[GPT image 2.6 动态绘本玩法](https://x.com/Leviwoyun/status/2119275395736584576)** — 用动态绘本风格做治愈系和儿童短视频，GIF 工厂已更新初版绘本 skill。  
   @Leviwoyun · 2026-11-08
+- **[开源 Mac 版 Google Colab 图形界面](https://x.com/akokoi1/status/2119237891314614623)** — 作者为 Google AI 订阅附带的 Colab 做了开源 Mac GUI，支持一键登录、预设 MiniMax-H3 和 Qwen 等模型，并可选择显卡、查看剩余算力以及自动释放。  
+  @akokoi1 · 2026-11-08
 - **[0.65 美元在 Colab 拍完一部 AI 短剧](https://x.com/yangleiocx3/status/2118950523445354988)** — 作者用 Colab 上的 96G 显卡，从分镜到成片约 40 分钟、花费不到 5 块钱，完整记录没开即梦、也没充 Seedance 的短剧制作流程。  
   @yangleiocx3 · 2026-11-07
 - **[Codex image2.6 零成本 AI 视频](https://x.com/gbroai/status/2118589683819262346)** — 用 Codex image2.6 直接生成 GIF，做出拼贴 B-roll，讲从隐喻到成片的流程。  
@@ -211,8 +215,10 @@
 
 <a id="cat-1"></a>
 
-## 自媒体运营与赚钱（63）
+## 自媒体运营与赚钱（65）
 
+- **[国内 AI 自媒体涨粉变现三步法](https://x.com/Bigwave521/status/2123999019102011437)** — 作者给出做国内 AI 自媒体冲到十万粉、月入十万的公式：先把各 AI 工作台的 0-1 教程做一遍，再拓宽商单类型，最后结合自身行业或角色深挖垂直内容。  
+  @Bigwave521 · 2026-11-21
 - **[GPT Image 定制微信红包封面教程](https://x.com/Leviwoyun/status/2122997952658727372)** — 作者分享用 GPT Image 做定制微信红包封面的全流程，称学会后可到小红书或闲鱼接单，并说大约 5 分钟出图、转手可卖 10 块。  
   @Leviwoyun · 2026-11-18
 - **[Skill 全自动出片起号](https://x.com/GrayNoteLab/status/2122974136263999591)** — 作者用 skill 工具自动生成并剪辑 2 分钟视频，全程约 7 分半，称一天发两条到视频号，半个月涨了一批中老年粉丝。  
@@ -337,6 +343,8 @@
   @WolfMoneyNotes · 2026-07-16
 - **[公众号起号教程](https://x.com/isnail/status/2060928267046060445)** — 公众号新号从0到1起号SOP与提示词。  
   @isnail · 2026-05-31
+- **[小红书变现千万级实操干货](https://x.com/xiaoniaoziming/status/2039231425728418224)** — 长文从平台底层逻辑、发现页与搜索流量机制讲起，再细讲养号、人设定位和关键词布局，号称基于千万级变现经验的小红书实操指南。  
+  @xiaoniaoziming · 2026-04-01
 - **[公众号日更 60 天变现 1 万+复盘](https://x.com/wangzan101/status/2009124320157593617)** — 研究生泛类公众号日更两个月涨粉九千、6 篇 10w+，复盘选题、算法与流量主/广告变现。  
   @wangzan101 · 2026-01-08
 
@@ -467,10 +475,14 @@
 
 <a id="cat-3"></a>
 
-## AI 编程与开发工具（50）
+## AI 编程与开发工具（52）
 
+- **[全栈到桌面端的常用技术栈盘点](https://x.com/realchendahuang/status/2124508785482072194)** — 作者整理了自己目前常用的技术栈，覆盖 React 全栈 Web、Oxc 前端工具链、Cloudflare 小工具、Go 高并发服务，以及自建数据库、跨平台桌面端和抓数脚本。  
+  @realchendahuang · 2026-11-22
 - **[Antigravity 最新版保姆级实战手册](https://x.com/GeekCatX/status/2124116586105893068)** — 长文按最新版梳理 Google Antigravity 的安装汉化、模型省额度、/swarm 蜂群、视频反推和深度长文写作，并附上可复制的命令与提示词。  
   @GeekCatX · 2026-11-21
+- **[给 Agent 的 12 条普世智慧与 uw-mode](https://x.com/longhaiqwe123/status/2123784333018456547)** — 作者把适合 Agent 执行的 12 条普世智慧拆解成 7 条常驻规则，并开源为 uw-mode 技能，附 12 张图解，用来约束 Agent 的做事与协作底线。  
+  @longhaiqwe123 · 2026-11-20
 - **[Pake 支持桌面端打包网页应用](https://x.com/HiTw93/status/2122960402665668728)** — Pake 新增桌面端，可以把网页一键打包成 Mac、Windows、Linux 应用，并内置约 500 个网站配置和去广告插件；命令行版仍免费开源。  
   @HiTw93 · 2026-11-18
 - **[用 Agent 干活常用的两句 Prompt](https://x.com/Khazix0918/status/2122268349707219333)** — 作者分享最近两个月用 Agent 干活最常用的两句提示词：从第一性原理找原因再修复，以及先提问对齐喜好再出三版方案。  
@@ -780,8 +792,10 @@
 
 <a id="cat-8"></a>
 
-## 银行卡与支付（9）
+## 银行卡与支付（10）
 
+- **[App Store「购买未完成」交易审核](https://x.com/suversal/status/2124492598861779351)** — 订阅时一直提示购买未完成，多半是触发了苹果支付风控。作者给出到 Apple 官网提交交易审核的步骤，并说明官方提示最多 72 小时完成审核。  
+  @suversal · 2026-11-22
 - **[Infini Lite 虚拟卡申请与 Claude 付款](https://x.com/Pluvio9yte/status/2123030650559299611)** — 作者分享 Infini Lite 虚拟卡申请步骤，并称自己用护照完成 KYC 后，用这张卡订阅 Claude Max 时秒过且未封号。  
   @Pluvio9yte · 2026-11-18
 - **[从买Claude到云居民](https://x.com/qwerty__cs/status/2111704218608472143)** — 作者回顾为订阅AI学会U卡、港卡、美卡、PayPal等海外金融工具的历程。  
