@@ -2,13 +2,13 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **378** 条书签 · 最后更新：2026-11-24 09:26（北京时间）
+共 **379** 条书签 · 最后更新：2026-11-25 09:21（北京时间）
 
 ## 目录
 
 - [AI 创作（视频/游戏/3D）](#cat-0) — 96 条
 - [自媒体运营与赚钱](#cat-1) — 65 条
-- [翻墙 / VPS / 网络节点](#cat-2) — 60 条
+- [翻墙 / VPS / 网络节点](#cat-2) — 61 条
 - [AI 编程与开发工具](#cat-3) — 52 条
 - [Grok Bot 玩法](#cat-4) — 38 条
 - [Claude·ChatGPT 账号与订阅](#cat-5) — 34 条
@@ -350,8 +350,10 @@
 
 <a id="cat-2"></a>
 
-## 翻墙 / VPS / 网络节点（60）
+## 翻墙 / VPS / 网络节点（61）
 
+- **[请教 DMIT＋美国静态 ISP 方案是否靠谱](https://x.com/JustLikeBit/status/2125149682116579355)** — 作者分享一套约 15 美元/月的方案：用 DMIT 洛杉矶 VPS 作前置、CliProxy 美国静态 ISP 作落地，让 Claude 和 X 看到固定家宽 IP，并询问这样用是否靠谱。  
+  @JustLikeBit · 2026-11-24
 - **[新手自建节点建议](https://x.com/InfiCheesy/status/2119391434688356496)** — 建议平时用 vless+tcp+reality 或 vmess+ws+tls，机器很差时才考虑 UDP 节点。  
   @InfiCheesy · 2026-11-08
 - **[低价 VPN 机场推荐](https://x.com/VAlexanderYang/status/2119307171318092135)** — 推荐一家 ¥2.8/月起、不限速不限设备的机场，主打 DMIT 三网优化和解锁 AI。  
