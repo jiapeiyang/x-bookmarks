@@ -2,11 +2,11 @@
 
 🔗 在线浏览（支持分类筛选与全文搜索）：**https://jiapeiyang.github.io/x-bookmarks/**
 
-共 **379** 条书签 · 最后更新：2026-11-25 09:21（北京时间）
+共 **380** 条书签 · 最后更新：2026-11-26 09:27（北京时间）
 
 ## 目录
 
-- [AI 创作（视频/游戏/3D）](#cat-0) — 96 条
+- [AI 创作（视频/游戏/3D）](#cat-0) — 97 条
 - [自媒体运营与赚钱](#cat-1) — 65 条
 - [翻墙 / VPS / 网络节点](#cat-2) — 61 条
 - [AI 编程与开发工具](#cat-3) — 52 条
@@ -18,7 +18,7 @@
 
 <a id="cat-0"></a>
 
-## AI 创作（视频/游戏/3D）（96）
+## AI 创作（视频/游戏/3D）（97）
 
 - **[Claude Code 用 Colab A100 跑 MiniMax H3](https://x.com/JacksAISites/status/2124209115031314491)** — 作者在开通 Google AI Pro 后，让 Claude Code 通过 Colab 连接器自行租用 A100，运行 MiniMax H3 生成带声音的小狗视频，并估算了额度消耗和批量出片成本。  
   @JacksAISites · 2026-11-22
@@ -40,6 +40,8 @@
   @BeyondTheBoxCN · 2026-11-09
 - **[AI 视频全流程实战长文](https://x.com/yanchuanlab/status/2119785596273168892)** — 一篇文章讲五种风格 AI 视频从想法到成片的完整流程，并附提示词。  
   @yanchuanlab · 2026-11-09
+- **[Colab 已跑通 MiniMax H3 视频生成](https://x.com/shengtang135754/status/2119641607842697453)** — 作者表示已在 Google Colab 上跑通 MiniMax H3：约 20 分钟可生成 1 分钟视频并完成拼装渲染，消耗 6 个算力单位；生成结束后系统会自动关停服务器，以免继续浪费算力。  
+  @shengtang135754 · 2026-11-09
 - **[Antigravity + Colab 一键部署 MiniMax H3](https://x.com/shengtang135754/status/2119609385249067262)** — 用 Antigravity 加 Colab GPU 一键部署 MiniMax H3 的方案，作者已亲测成功，复制脚本即可。  
   @shengtang135754 · 2026-11-09
 - **[GPT 做剪纸风轻视频](https://x.com/Leviwoyun/status/2119434313934758388)** — 用 GPT 生图做出剪纸画风格动画，认为是低成本的轻视频赛道。  
